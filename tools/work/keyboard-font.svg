@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="12" version="1.1">
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 3,7 H 7 M 3,10 V 4 M 7,10 V 4 M 3,4 V 3 C 3,2 3,2 5,2 7,2 7,2 7,3 V 4"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 11,10 V 2 M 11,10 H 15 C 16,10 16,10 16,9 V 7 C 16,6 16,6 15,6 H 11 13 15 V 3 C 15,2 15,2 14,2 H 11 M 11,2 V 10"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 23,9 C 23,10 23,10 22,10 H 20 C 19.5,10 19,10 19,9 V 3 C 19,2 19,2 20,2 H 22 C 23,2 23,2 23,3"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 27,10 V 2 M 27,10 C 27,10 31,10.5 31,6 31,1.5 27,2 27,2"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 35,10 V 2 M 35,2 H 39 M 35,6 H 39 M 35,10 H 39"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 43,6 H 47 M 43,2 H 47 M 43,10 V 2"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 55,7 V 9 C 55,10 55,10 54,10 H 52 C 51,10 51,10 51,9 V 3 C 51,2 51,2 52,2 H 54 C 55,2 55,2 55,3 M 54,7 H 56"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round" d="M 59,6 H 63 M 63,10 V 2 M 59,10 V 2"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round" d="M 67,10 H 71 M 67,2 H 71 M 69,10 V 2"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 75,9 V 10 H 76 C 79.5,10 79,4 79,2"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round" d="M 87,10 83,5 M 87,2 83,7 M 83,10 V 2"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 91,2 V 10 H 95"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 105,10 V 2 M 99,2 102,6 105,2 M 99,10 V 2"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 109,10 V 2 L 113,10 V 2"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 121,6 C 121,8 121.35,10 119,10 116.65,10 117,8 117,6 117,4 116.65,2 119,2 121.35,2 121,4 121,6 Z"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 125,6 H 128 C 129,6 129,6 129,5 V 3 C 129,2 129,2 128,2 H 125 M 125,10 V 2"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round" d="M 139,10 137,9 M 137,6 C 137,8 137.35,10 135,10 132.65,10 133,8 133,6 133,4 132.65,2 135,2 137.35,2 137,4 137,6 Z"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round" d="M 147,10 145,7 M 143,6 H 145 146 C 147,6 147,6 147,5 V 3 C 147,2 147,2 146,2 H 143 M 143,10 V 2"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 151,9 C 151,10 151,10 152,10 H 154 C 154,10 155,10 155,9 V 8 C 155,4 151,8 151,4 V 3 C 151,2 152,2 152,2 H 154 C 155,2 155,2 155,3"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round" d="M 159,2 H 163 M 161,10 V 2"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 171,2 V 8 C 171,9 171,10 170,10 H 168 C 167,10 167,9 167,8 V 2"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 180,2 177.5,10 175,2"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 191,2 V 8 C 191,9 191,10 190,10 H 188 C 187,10 187,9 187,8 V 2 M 187,2 V 8 C 187,9 187,10 186,10 H 184 C 183,10 183,9 183,8 V 2"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round" d="M 200,2 195,10 M 195,2 200,10"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round" d="M 206,10 V 6 M 209,2 206,6 M 203,2 206,6"/>
+ <path style="fill:none;stroke:#dfdfdf;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 212,2 H 216 L 212,10 H 216"/>
+</svg>
