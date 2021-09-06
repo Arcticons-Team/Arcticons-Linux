@@ -1,0 +1,13 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <path class="a" d="m9.39 24.35h13.61a1 1 0 0 1 1 1v5h-15.62v-5a1 1 0 0 1 1.01-1z"/>
+ <path class="a" d="M8.38,25.36V15.28a1.41,1.41,0,0,1,1.41-1.41h12.8A1.41,1.41,0,0,1,24,15.28V25.36"/>
+ <path class="a" d="M24,25.36V15.28a1.41,1.41,0,0,1,1.41-1.41h12.8a1.41,1.41,0,0,1,1.41,1.41V25.36"/>
+ <path class="a" d="m5.36 19.57h2.16a0.86 0.86 0 0 1 0.86 0.86v10h-2.81a1.07 1.07 0 0 1-1.07-1.1v-8.9a0.86 0.86 0 0 1 0.86-0.86z"/>
+ <path class="a" transform="translate(83.12 49.98) rotate(180)" d="m40.69 19.57h2.81v10a0.86 0.86 0 0 1-0.86 0.86h-2.16a0.86 0.86 0 0 1-0.86-0.86v-8.9a1.07 1.07 0 0 1 1.07-1.07z"/>
+ <path class="a" d="m25 24.35h13.61a1 1 0 0 1 1 1v5h-15.61v-5a1 1 0 0 1 1-1z"/>
+ <rect class="a" x="8.38" y="30.41" width="3.07" height="3.73"/>
+ <rect class="a" x="36.55" y="30.41" width="3.07" height="3.73"/>
+</svg>

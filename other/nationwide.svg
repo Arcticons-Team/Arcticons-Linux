@@ -1,0 +1,10 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.a,.b{fill:none;stroke:#fff;stroke-linejoin:round;}.b{stroke-linecap:round;}</style>
+ </defs>
+ <path class="a" d="M10.32,34.21A12.64,12.64,0,0,1,4.77,23.72,12.16,12.16,0,0,1,16.94,11.58a12.69,12.69,0,0,1,4.57.81c7,2.73,7.57,9.25,7.38,9.24l-10.13-.07Z"/>
+ <path class="b" d="m24.74 39v4.5h10.08v-5.45h8.41l-0.1-14.79-8.58-0.05v-9.18-9.53h-7.42v5.2h-5.13v2.82"/>
+ <path class="a" d="M24.74,43.5H13.67V35.75c1.94-3.23,4.7-7.28,7.12-10.86H32.21L25,35.69H13.67"/>
+ <path class="a" d="m34.59 14.45 8.54 8.81"/>
+ <path class="b" d="m35.7 31.05v2.73"/>
+</svg>

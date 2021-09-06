@@ -1,0 +1,12 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.a,.b{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}.a{stroke-width:1.05px;}</style>
+ </defs>
+ <path class="a" d="m17.75 4.5c-8.89 0-12.56 8.9-10.08 17.08 2.71 8.94 13.07 22 16.33 21.92s13.62-13 16.33-21.92c2.48-8.18-1.19-17.08-10.08-17.08z"/>
+ <polyline class="b" points="20.17 14.44 20.17 11.58 30.57 11.58 30.57 14.44"/>
+ <line class="b" x1="30.57" x2="30.57" y1="14.44" y2="24.55"/>
+ <line class="b" x1="20.17" x2="20.17" y1="14.44" y2="22"/>
+ <circle class="b" cx="17.29" cy="22" r="2.88"/>
+ <circle class="b" cx="27.7" cy="24.55" r="2.88"/>
+ <line class="a" x1="20.17" x2="30.57" y1="14.44" y2="14.44"/>
+</svg>

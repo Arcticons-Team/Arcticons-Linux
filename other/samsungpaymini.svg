@@ -1,0 +1,9 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}.b{fill:#fff;}</style>
+ </defs>
+ <rect class="a" x="4.5" y="8.5" width="39" height="31" rx="2"/>
+ <path class="a" d="m36.3482 20.4h7.1518v7.2h-7.1518a2.8482 2.8482 0 0 1-2.8482-2.8482v-1.5036a2.8482 2.8482 0 0 1 2.8482-2.8482z"/>
+ <circle class="b" cx="36.472" cy="24" r=".795"/>
+ <path class="a" d="M15.4163,28.4728c.7579.6364,1.5762.9281,3.4139.9281h.9313a2.747,2.747,0,0,0,2.744-2.75h0a2.747,2.747,0,0,0-2.744-2.75H17.8989a2.747,2.747,0,0,1-2.744-2.75h0a2.747,2.747,0,0,1,2.744-2.75H18.83c1.8377,0,2.656.2916,3.4139.928"/>
+</svg>

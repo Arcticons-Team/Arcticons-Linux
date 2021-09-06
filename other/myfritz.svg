@@ -1,0 +1,19 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <path class="a" d="m40 5.5h-33a2 2 0 0 0-2 2v33a2 2 0 0 0 2 2h33a2 2 0 0 0 2-2v-33a2 2 0 0 0-2-2z"/>
+ <polyline class="a" points="15.94 36.32 15.94 27.03 20.59 36.33 25.24 27.04 25.24 36.33"/>
+ <line class="a" x1="29.89" x2="27.41" y1="36.33" y2="30.17"/>
+ <path class="a" d="M32.07,30.17l-3,8.37a1.39,1.39,0,0,1-1.31.93h-.39"/>
+ <line class="a" x1="5" x2="42" y1="24" y2="24"/>
+ <line class="a" x1="23.46" x2="23.46" y1="10.79" y2="18.71"/>
+ <line class="a" x1="10" x2="13.96" y1="10.79" y2="10.79"/>
+ <line class="a" x1="10" x2="12.57" y1="14.75" y2="14.75"/>
+ <line class="a" x1="10" x2="10" y1="10.79" y2="18.71"/>
+ <path class="a" d="m16.08 18.71v-7.92h2.59a2.66 2.66 0 0 1 0 5.32h-2.59"/>
+ <line class="a" x1="18.67" x2="21.26" y1="16.11" y2="18.71"/>
+ <line class="a" x1="25.61" x2="30.85" y1="10.79" y2="10.79"/>
+ <line class="a" x1="28.23" x2="28.23" y1="18.71" y2="10.79"/>
+ <polyline class="a" points="32.76 10.79 38 10.79 32.76 18.71 38 18.71"/>
+</svg>

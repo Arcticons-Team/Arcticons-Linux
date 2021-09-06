@@ -1,0 +1,10 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <circle class="a" cx="24" cy="24" r="21.5"/>
+ <path class="a" d="m30.71 7.93a7.28 7.28 0 0 0-7.28 7.29c0 5.69 5.58 12.56 7 14.24a0.43 0.43 0 0 0 0.67 0c1.44-1.69 6.9-8.55 6.9-14.24a7.28 7.28 0 0 0-7.29-7.29zm0 10a2.73 2.73 0 1 1 2.72-2.72 2.72 2.72 0 0 1-2.72 2.73z"/>
+ <line class="a" x1="37.53" x2="40.94" y1="12.65" y2="10.76"/>
+ <line class="a" x1="3.77" x2="24.43" y1="31.28" y2="19.88"/>
+ <line class="a" x1="20.1" x2="32.81" y1="22.27" y2="43.62"/>
+</svg>
