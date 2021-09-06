@@ -11,9 +11,11 @@ do
   cp ${FILE} ${FILE}.tmp
   rm ${FILE}.tmp
   cp -f ${FILE} ${ICON}/${FILE}
+  echo "Working on" ${FILE}
   for SIZE in ${SIZES}
   do
     inkscape --export-filename=${NAME}.png --export-width=${SIZE} --export-height=${SIZE} ${NAME}.svg
+    echo $SIZE
     case ${SIZE} in
       8)
 	mv ${NAME}.png ${EXPORT}/8x8/apps/
