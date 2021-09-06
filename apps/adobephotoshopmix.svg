@@ -1,8 +1,0 @@
-<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style>.a,.b{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}.b{stroke-dashoffset:1.6px;stroke-dasharray:1 1.78;}</style>
- </defs>
- <path class="a" d="m40 5.5h-33a2 2 0 0 0-2 2v33a2 2 0 0 0 2 2h33a2 2 0 0 0 2-2v-33a2 2 0 0 0-2-2z"/>
- <circle class="a" cx="21" cy="21" r="7.5"/>
- <circle class="b" cx="26.5" cy="26.5" r="7.5"/>
-</svg>
