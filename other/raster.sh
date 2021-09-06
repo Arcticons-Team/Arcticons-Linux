@@ -15,7 +15,6 @@ do
   for SIZE in ${SIZES}
   do
     svgexport ${NAME}.svg ${NAME}.png ${SIZE}:
-    echo ${SIZE}
     case ${SIZE} in
       8)
 	mv ${NAME}.png ${EXPORT}/8x8/apps/
