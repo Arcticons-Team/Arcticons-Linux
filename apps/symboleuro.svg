@@ -1,0 +1,9 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <path class="a" d="m40.5 5.5h-33a2 2 0 0 0-2 2v33a2 2 0 0 0 2 2h33a2 2 0 0 0 2-2v-33a2 2 0 0 0-2-2z"/>
+ <path class="a" d="m31.48 34.27a9 9 0 0 1-6.93 3.23 9 9 0 0 1-9-9v-8.9a9 9 0 0 1 9.05-9 9 9 0 0 1 7 3.26"/>
+ <line class="a" x1="11.17" x2="22.6" y1="20.72" y2="20.72"/>
+ <line class="a" x1="11.17" x2="22.6" y1="27.35" y2="27.35"/>
+</svg>

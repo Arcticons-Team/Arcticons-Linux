@@ -1,0 +1,9 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <rect class="a" x="26.47" y="26.5" width="16.03" height="16"/>
+ <path class="a" d="m5.5 26.5h16v16a16 16 0 0 1-16-16z"/>
+ <path class="a" d="m5.5 5.5h16a16 16 0 0 1-16 16v-16z"/>
+ <path class="a" d="m26.47 5.5a16 16 0 0 1 16 16h-16v-16z"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <path class="a" d="m12.71 22.27a5.75 5.75 0 0 1 5.76-5.75 5.74 5.74 0 0 1 5.75 5.75v9.21"/>
+ <polyline class="a" points="12.71 31.48 12.71 22.27 12.71 16.52 9.5 16.52"/>
+ <path class="a" d="m24.22 22.27a5.75 5.75 0 0 1 5.78-5.75 5.74 5.74 0 0 1 5.75 5.75v7.33a1.88 1.88 0 0 0 2.77 1.65"/>
+ <path class="a" d="m40.5 42.5h-33a2 2 0 0 1-2-2v-33a2 2 0 0 1 2-2h33a2 2 0 0 1 2 2v33a2 2 0 0 1-2 2z"/>
+</svg>

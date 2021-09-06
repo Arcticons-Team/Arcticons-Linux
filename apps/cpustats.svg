@@ -1,0 +1,15 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <path class="a" d="m5.69 31.17h8.56v7.17h-8.56a1.19 1.19 0 0 1-1.19-1.2v-4.78a1.19 1.19 0 0 1 1.19-1.19z"/>
+ <rect class="a" x="14.25" y="31.17" width="9.75" height="7.17"/>
+ <rect class="a" x="24" y="31.17" width="9.75" height="7.17"/>
+ <path class="a" d="m33.75 31.17h9.75v6a1.19 1.19 0 0 1-1.19 1.19h-8.56v-7.19z"/>
+ <path class="a" d="m15.44 24h8.56v7.17h-9.75v-6a1.19 1.19 0 0 1 1.19-1.17z"/>
+ <rect class="a" x="24" y="24" width="9.75" height="7.17"/>
+ <rect class="a" x="33.75" y="24" width="9.75" height="7.17"/>
+ <path class="a" d="m25.19 16.83h8.56v7.17h-9.75v-6a1.19 1.19 0 0 1 1.19-1.17z"/>
+ <rect class="a" x="33.75" y="16.83" width="9.75" height="7.17"/>
+ <path class="a" d="m34.94 9.67h7.36a1.19 1.19 0 0 1 1.19 1.19v6h-9.74v-6a1.19 1.19 0 0 1 1.19-1.19z"/>
+</svg>

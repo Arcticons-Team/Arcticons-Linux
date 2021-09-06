@@ -1,0 +1,14 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <path class="a" d="M13.08,7.6H35V21.3H13Z"/>
+ <path class="a" d="M4.53,32.8h7.28v7.6H4.5Z"/>
+ <path class="a" d="m15 32.8h7.29v7.6h-7.35z"/>
+ <path class="a" d="M25.68,32.8H33v7.6H25.65Z"/>
+ <path class="a" d="m36.21 32.8h7.29v7.6h-7.31z"/>
+ <path class="a" d="M23.93,21.31V27H39.84v5.77"/>
+ <path class="a" d="m29.31 27v5.8"/>
+ <path class="a" d="M23.93,27H8.16V32.7"/>
+ <path class="a" d="m18.59 27v5.8"/>
+</svg>

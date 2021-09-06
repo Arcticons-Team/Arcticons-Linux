@@ -1,0 +1,11 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <path class="a" d="m40.5 42.5h-33a2 2 0 0 1-2-2v-33a2 2 0 0 1 2-2h33a2 2 0 0 1 2 2v33a2 2 0 0 1-2 2z"/>
+ <line class="a" x1="25.21" x2="25.21" y1="17.03" y2="30.97"/>
+ <path class="a" d="m20.82 21.7a4.66 4.66 0 0 0-4.91-4.7 4.84 4.84 0 0 0-4.41 5v4.3a4.67 4.67 0 0 0 4.66 4.7 4.66 4.66 0 0 0 4.66-4.67h-4.66"/>
+ <line class="a" x1="29.53" x2="36.5" y1="17.03" y2="17.03"/>
+ <line class="a" x1="29.53" x2="34.06" y1="24" y2="24"/>
+ <line class="a" x1="29.53" x2="29.53" y1="17.03" y2="30.97"/>
+</svg>

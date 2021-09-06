@@ -1,0 +1,9 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <path class="a" d="m13.11 32.44 21.78 0.2c-1.07 10.49-22.12 8.64-21.78-0.2z"/>
+ <ellipse class="a" cx="12.11" cy="22.98" rx="1.75" ry="2.39"/>
+ <ellipse class="a" cx="35.89" cy="22.98" rx="1.75" ry="2.39"/>
+ <circle class="a" cx="24" cy="24" r="21.5"/>
+</svg>

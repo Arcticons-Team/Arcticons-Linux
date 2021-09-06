@@ -1,0 +1,10 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <line class="a" x1="5.45" x2="42.45" y1="42.86" y2="42.86"/>
+ <line class="a" x1="5.45" x2="42.45" y1="7.06" y2="7.06"/>
+ <rect class="a" x="8.18" y="12.93" width="31.53" height="17.1" rx="2.06"/>
+ <line class="a" x1="33.37" x2="29.39" y1="30.03" y2="42.86"/>
+ <line class="a" x1="15.99" x2="18.46" y1="34.89" y2="42.86"/>
+</svg>

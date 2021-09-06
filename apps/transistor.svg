@@ -1,0 +1,6 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <path class="a" d="m8.3 18.47h13v4.64h-13zm-2.87 8.88a1.85 1.85 0 0 1 1.85-1.86h33.44a1.85 1.85 0 0 1 1.85 1.86m-0.82-20.81a2 2 0 1 0-2 2 2 2 0 0 0 2-2zm-2 9.06v-7m-25.35 4.83h-6.1v2.15h-1a1.87 1.87 0 0 0-1.87 1.86v24.2a1.85 1.85 0 0 0 1.85 1.86h33.43a1.86 1.86 0 0 0 1.86-1.86v-24.14a1.86 1.86 0 0 0-1.86-1.86h-19.41v-2.21h-4.64v2.21h-2.26z"/>
+</svg>

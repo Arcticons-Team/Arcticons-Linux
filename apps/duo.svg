@@ -1,0 +1,8 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.a,.b,.c{fill:none;stroke:#fff;}.b{stroke-linecap:round;stroke-linejoin:bevel;}.c{stroke-linejoin:round;}</style>
+ </defs>
+ <path class="a" d="M24,5.5A18.5,18.5,0,1,0,42.5,24V8c0-1.8-.8-2.5-2.5-2.5Z"/>
+ <path class="b" d="m16.5 17.1h11.3a2.65 2.65 0 0 1 2.6 2.6v8.7a2.65 2.65 0 0 1-2.6 2.6h-11.3a2.65 2.65 0 0 1-2.6-2.6v-8.7a2.65 2.65 0 0 1 2.6-2.6z"/>
+ <path class="c" d="M30.4,24.9,35,29.6V18.4L30.4,23Z"/>
+</svg>

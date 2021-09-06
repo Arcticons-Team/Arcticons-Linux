@@ -1,0 +1,12 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <circle class="a" cx="24" cy="24" r="21.5"/>
+ <path class="a" d="M15,30.23V17.48h4.18a4.29,4.29,0,0,1,0,8.57H15"/>
+ <line class="a" x1="19.17" x2="23.34" y1="26.05" y2="30.23"/>
+ <line class="a" x1="32.99" x2="26.61" y1="21.78" y2="30.23"/>
+ <line class="a" x1="32.99" x2="26.61" y1="30.23" y2="21.78"/>
+ <path class="a" d="M14.6,10.18,7.87,26"/>
+ <path class="a" d="m40.13 22-6.73 15.82"/>
+</svg>
