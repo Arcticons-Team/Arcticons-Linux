@@ -1,9 +1,0 @@
-<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
- </defs>
- <path class="a" d="M6.7,23.25V16.13a2,2,0,0,1,2-2H41.5a2,2,0,0,1,2,2v23a2,2,0,0,1-2,2H8.7a2,2,0,0,1-2-2V32"/>
- <path class="a" d="m5.5 23.25h11.5a2 2 0 0 1 2 2v4.75a2 2 0 0 1-2 2h-11.5a1 1 0 0 1-1-1v-6.75a1 1 0 0 1 1-1z"/>
- <circle class="a" cx="14.49" cy="27.63" r="2"/>
- <polyline class="a" points="38.12 14.13 13.19 6.87 11.08 14.13"/>
-</svg>

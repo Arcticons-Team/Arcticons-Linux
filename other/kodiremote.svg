@@ -1,8 +1,0 @@
-<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
- </defs>
- <rect class="a" transform="translate(24 -9.94) rotate(45)" x="9.02" y="9.02" width="29.97" height="29.97" rx="2"/>
- <polyline class="a" points="15.83 37.02 15.83 15.16 31.8 15.16 31.8 22.87 16.74 37.93"/>
- <line class="a" x1="34.58" x2="27.32" y1="34.61" y2="27.36"/>
-</svg>

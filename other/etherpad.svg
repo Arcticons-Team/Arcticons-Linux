@@ -1,9 +1,0 @@
-<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style>.a,.b,.c{fill:none;stroke:#fff;}.a{stroke-linecap:round;stroke-linejoin:round;}.b{stroke-miterlimit:7;}</style>
- </defs>
- <path class="a" d="m40.5 5.5h-33a2 2 0 0 0-2 2v33a2 2 0 0 0 2 2h33a2 2 0 0 0 2-2v-33a2 2 0 0 0-2-2z"/>
- <circle class="b" cx="24" cy="24" r="13.9"/>
- <path class="c" d="m14.5 5.5v37"/>
- <path class="c" d="m33.5 5.5v37"/>
-</svg>
