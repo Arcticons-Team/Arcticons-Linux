@@ -1,8 +1,0 @@
-<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
- </defs>
- <rect class="a" x="5.5" y="34.5" width="37" height="8" rx="4"/>
- <path class="a" d="m9.5 5.5h29a4 4 0 0 1 4 4 4 4 0 0 1-4 4h-25"/>
- <path class="a" d="m5.5 38.5v-29a4 4 0 0 1 4-4 4 4 0 0 1 4 4v25"/>
-</svg>

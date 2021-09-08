@@ -1,9 +1,0 @@
-<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
- </defs>
- <ellipse class="a" transform="translate(-6.82 8.44) rotate(-20)" cx="20.51" cy="23.56" rx="4.22" ry="10.21"/>
- <ellipse class="a" transform="translate(-17.62 30.02) rotate(-65)" cx="14.75" cy="28.84" rx="4.22" ry="10.21"/>
- <ellipse class="a" transform="translate(-4.05 41.34) rotate(-70)" cx="27.49" cy="23.56" rx="10.21" ry="4.22"/>
- <ellipse class="a" transform="translate(-9.07 16.75) rotate(-25)" cx="33.25" cy="28.84" rx="10.21" ry="4.22"/>
-</svg>
