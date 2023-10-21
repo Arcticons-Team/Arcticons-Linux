@@ -37,3 +37,10 @@ For example, the icon for the Steam application is in `/usr/share/icons/hicolor/
 The Freedesktop icon path in the mapping file refers to the path `<icon category>/<icon size>`, without the file extension. So `/usr/share/icons/hicolor/<icon size>/apps/steam.png` is written as `apps/steam` in the mappings file.
 
 Some application files may also be found in the `/usr/share/pixmaps` folder, then the mapping path is `apps/<icon name>`.
+
+
+## Screenshots
+
+![160259223-c419e600-fa67-48d6-be9f-dc86945b5978](https://github.com/Donnnno/Arcticons-Linux/assets/31142286/59f5fce5-0cd3-4bc2-82a8-b097eefbeb2f)
+
+![24eb69654801089f](https://github.com/Donnnno/Arcticons-Linux/assets/31142286/c7348690-cc56-4d6c-9cfb-bc2d65ba5a39)
