@@ -4,7 +4,9 @@ This is an adoption of the arcticons icons for Linux desktop managers like GNOME
 
 ## Generating the icons
 
-The `./generate.sh` script can be used to generate the icons according to the mappings file. it accepts two arguments:
+**Important:** to generate the icons you need to clone the parent repo <https://github.com/Donnnno/Arcticons> with the `--recurse-submodules` argument (or run `git submodule update --init` afterwards) and switch to the `freedesktop-theme folder`.
+
+The `./generate-manual.sh` script can be used to generate the icons according to the mappings file. it accepts two arguments:
 
 `./generate.sh black/white <stroke thickness>`
 
@@ -16,11 +18,11 @@ After the icons are generated, there is a folder `arcticons` and a `arcticons.ta
 
 ## Manual installation
 
-You can install the icon theme by copying the `arcticons` folder into `~/.local/share/icons` for an user-wide installation or into `/usr/share/icons` for a system-wide installation.
+You can install the icon theme by copying the `arcticons-light` and/or `arcticons-dark` folder into `~/.local/share/icons` for an user-wide installation or into `/usr/share/icons` for a system-wide installation.
 
 ## Applying the icon theme
 
-In GNOME Shell, you can either use the Terminal and type the command `gsettings set org.gnome.desktop.interface icon-theme arcticons` or use the GNOME Tweaks GUI to change the icon theme to Arcticons. (To change the icons for Qt/KDE applications in GNOME as well, you need to open `qt5ct` and/or `qt6ct` and select the icon theme there)
+In GNOME Shell, you can either use the Terminal and type the command `gsettings set org.gnome.desktop.interface icon-theme <arcticons-light/arcticons-dark>` or use the GNOME Tweaks GUI to change the icon theme to Arcticons Light or Dark. (To change the icons for Qt/KDE applications in GNOME as well, you need to open `qt5ct` and/or `qt6ct` and select the icon theme there)
 
 In KDE, you can select the icon theme in the System Settings > Icons.
 
@@ -38,6 +40,11 @@ The Freedesktop icon path in the mapping file refers to the path `<icon category
 
 Some application files may also be found in the `/usr/share/pixmaps` folder, then the mapping path is `apps/<icon name>`.
 
+## Contributing own icons
+
+To contribute icons, which don't fit into the Android icon pack, you can place them into the `icons_linux` folder (there has to be one with stroke color `#000` in the `black` folder and one with stroke color `#fff` in the `white` folder). The style of the icons and the structure of the SVGs have to follow the style used in the parent repo.
+
+Then follow the section [Mapping the icons](#mapping-the-icons) the put the mapping into the `mappings.txt`.
 
 ## Screenshots
 

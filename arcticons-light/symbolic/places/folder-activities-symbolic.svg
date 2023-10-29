@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="folder-activities.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">.c{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <g
+     id="a">
+    <path
+       style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 7.5,7.5 c -2.1973046,0 -4,1.8026954 -4,4 v 25 c 0,2.197305 1.8026954,4 4,4 h 33 c 2.197305,0 4,-1.802695 4,-4 v -20 c 0,-2.197305 -1.802695,-4 -4,-4 H 25.78125 c -0.625391,0 -1.233313,-0.195091 -1.742188,-0.558594 L 19.125,8.4316406 C 18.277059,7.8260218 17.260757,7.5 16.21875,7.5 Z m 0,2 h 8.71875 c 0.625391,0 1.23313,0.1950136 1.742187,0.558594 L 22.875,13.568359 C 23.722924,14.174055 24.739243,14.5 25.78125,14.5 H 40.5 c 1.116492,0 2,0.883508 2,2 v 20 c 0,1.116492 -0.883508,2 -2,2 h -33 c -1.1164921,0 -2,-0.883508 -2,-2 v -25 c 0,-1.116492 0.8835079,-2 2,-2 z"
+       id="path1" />
+  </g>
+  <g
+     id="b">
+    <path
+       style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 24,21.744141 c -2.614859,0 -4.755859,2.141 -4.755859,4.755859 0,2.614859 2.141,4.755859 4.755859,4.755859 2.614859,0 4.755859,-2.141 4.755859,-4.755859 0,-2.614859 -2.141,-4.755859 -4.755859,-4.755859 z m 0,2 c 1.533937,0 2.755859,1.221922 2.755859,2.755859 0,1.533937 -1.221922,2.755859 -2.755859,2.755859 -1.533937,0 -2.755859,-1.221922 -2.755859,-2.755859 0,-1.533937 1.221922,-2.755859 2.755859,-2.755859 z"
+       id="path2" />
+    <path
+       style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 24,18.5 a 1,1 0 0 0 -1,1 v 0.919922 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 V 19.5 a 1,1 0 0 0 -1,-1 z"
+       id="line2" />
+    <path
+       style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 30.080078,25.5 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 H 31 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+       id="line3" />
+    <path
+       style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 24,31.580078 a 1,1 0 0 0 -1,1 V 33.5 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 v -0.919922 a 1,1 0 0 0 -1,-1 z"
+       id="line4" />
+    <path
+       style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 17,25.5 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 0.919922 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
+       id="line5" />
+    <path
+       style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 28.242187,20.84375 -0.648437,0.648437 a 1,1 0 0 0 0,1.414063 1,1 0 0 0 1.414062,0 l 0.648438,-0.648438 a 1,1 0 0 0 0,-1.414062 1,1 0 0 0 -1.414063,0 z"
+       id="line6" />
+    <path
+       style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 27.59375,30.09375 a 1,1 0 0 0 0,1.414062 l 0.648437,0.648438 a 1,1 0 0 0 1.414063,0 1,1 0 0 0 0,-1.414063 L 29.007812,30.09375 a 1,1 0 0 0 -1.414062,0 z"
+       id="line7" />
+    <path
+       style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 18.992187,30.09375 -0.648437,0.648437 a 1,1 0 0 0 0,1.414063 1,1 0 0 0 1.414062,0 l 0.648438,-0.648438 a 1,1 0 0 0 0,-1.414062 1,1 0 0 0 -1.414063,0 z"
+       id="line8" />
+    <path
+       style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 18.34375,20.84375 a 1,1 0 0 0 0,1.414062 l 0.648437,0.648438 a 1,1 0 0 0 1.414063,0 1,1 0 0 0 0,-1.414063 L 19.757812,20.84375 a 1,1 0 0 0 -1.414062,0 z"
+       id="line9" />
+  </g>
+</svg>
