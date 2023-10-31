@@ -123,7 +123,7 @@ else
 fi
 
 if $remove; then
-	rm -r "$destination" 2>/dev/null || true
+	rm -rf "$destination"
 elif [ -e "$destination" ]; then
 	echo "Not deleting existing destination '$destination'. Trying to update it instead."
 fi
@@ -177,7 +177,6 @@ for kvpair in "${kvpairs[@]}"; do
 	if [ ${#dests[@]} -gt 1 ]; then
 		for i in $(seq 1 $((${#dests[@]} - 1))); do
 			mkdir -p "$scalable_root/$(dirname "${dests[$i]}")"
-			rm "$scalable_root/${dests[$i]}.svg" 2>/dev/null || true
 			ln -vsr "$scalable_root/$dest.svg" "$scalable_root/${dests[$i]}.svg"
 		done
 	fi
@@ -196,12 +195,13 @@ for kvpair in "${kvpairs[@]}"; do
 			rm "$symbolic_root/$dest-symbolic.svg" &&
 			mv "$symbolic_root/$dest-symbolic.tmp.svg" "$symbolic_root/$dest-symbolic.svg" || true
 
-		# why is this line here?
-		rm "$scalable_root/$dest*.0.svg" 2>/dev/null || true
+		# remove .0.svg files in case of inkscape crashing
+		rm -f "$scalable_root/$dest*.0.svg"
 
 		if [ ${#dests[@]} -gt 1 ]; then
 			for i in $(seq 1 $((${#dests[@]} - 1))); do
 				mkdir -p "$symbolic_root/$(dirname "${dests[$i]}")"
+				rm -f "$symbolic_root/${dests[$i]}-symbolic.svg"
 				ln -vs "../${dests[0]}-symbolic.svg" "$symbolic_root/${dests[$i]}-symbolic.svg"
 			done
 		fi
@@ -221,12 +221,12 @@ cp index.theme "$destination/"
 if $archive; then
 	archivedest="$destination.tar.gz"
 	if $remove; then
-		rm "$archivedest" 2>/dev/null || true
+		rm -f "$archivedest"
 	elif [ -e "$archivedest" ]; then
 		read -rp "archive destination '$archivedest' already exists, delete? [y/n] " -n 1 choice
 		echo # \n
 		if [ "$choice" == y ]; then
-			rm "$archivedest" 2>/dev/null || true
+			rm -f "$archivedest"
 		else
 			echo "Not deleting existing archive '$archivedest'!"
 			exit 0
