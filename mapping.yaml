@@ -104,9 +104,9 @@ firefox_nightly:
     - apps/firefox-nightly
     - apps/firefox-nightly-icon
 folder:
-    - places/folder
     - apps/nemo
     - apps/system-file-manager
+    - places/folder
     - places/folder-black
     - places/folder-blue
     - places/folder-brown
@@ -252,9 +252,9 @@ microsoftteams:
 mindustry:
     - apps/mindustry
 minecraft:
-    - apps/minecraft
     - apps/steam_icon_1672970
     - apps/steam_icon_1928870
+    - apps/minecraft
     - apps/minecraft-launcher
     - apps/minecraft-pi
     - apps/polymc
