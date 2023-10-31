@@ -177,6 +177,7 @@ for kvpair in "${kvpairs[@]}"; do
 	if [ ${#dests[@]} -gt 1 ]; then
 		for i in $(seq 1 $((${#dests[@]} - 1))); do
 			mkdir -p "$scalable_root/$(dirname "${dests[$i]}")"
+			rm -f "$scalable_root/${dests[$i]}.svg"
 			ln -vsr "$scalable_root/$dest.svg" "$scalable_root/${dests[$i]}.svg"
 		done
 	fi
