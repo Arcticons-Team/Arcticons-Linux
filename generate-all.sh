@@ -26,11 +26,20 @@ if ! type inkscape || ! type scour; then
 	exit 1
 fi
 
-# Check that ./generate-manual.sh exists, if not abort
+# Check if ./generate-manual.sh exists, if not abort
 if [ ! -e ./generate-manual.sh ]; then
 	echo "Script ./generate-manual.sh not found!"
 	exit 1
 fi
+
+# Check if yq and jq are installed, if not abort
+if ! type yq >/dev/null || ! type jq >/dev/null; then
+	echo "error: yq and jq need to be installed for yaml parsing"
+	exit 1
+fi
+
+# sort the mapping.yaml file with yq
+yq -Syi '.[] |= sort' mapping.yaml
 
 # parse command line arguments
 regenerate=false
