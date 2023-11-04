@@ -61,6 +61,19 @@ SCRIPTPATH="$(
 )"
 cd "$SCRIPTPATH"
 
+# look for required programs
+if ! type yq >/dev/null || ! type jq >/dev/null; then
+	echo "error: yq and jq need to be installed for yaml parsing"
+	exit 1
+fi
+
+inkscape=false
+if type inkscape && type scour; then
+	inkscape=true
+else
+	echo "Inkscape not found, not creating symbolic icons"
+fi
+
 # check the mapping.yaml file to be in the right format
 # - no whitespace in icon names
 # - root is object
@@ -109,19 +122,6 @@ while [[ $# -gt 0 ]]; do
 	shift
 done
 
-# look for required programs
-if ! type yq >/dev/null || ! type jq >/dev/null; then
-	echo "error: yq and jq need to be installed for yaml parsing"
-	exit 1
-fi
-
-inkscape=false
-if type inkscape && type scour; then
-	inkscape=true
-else
-	echo "Inkscape not found, not creating symbolic icons"
-fi
-
 if $remove; then
 	rm -rf "$destination"
 elif [ -e "$destination" ]; then
@@ -140,17 +140,18 @@ for kvpair in "${kvpairs[@]}"; do
 	symbolic_root="$destination/symbolic"
 
 	# skip if all destination files already exist (only possible without --remove)
-	dests_paths=("${dests[@]/#/$scalable_root/}")
-	dests_paths=("${dests_paths[@]/%/.svg}")
-
-	all_files_exist=true
-	for file in "${dests_paths[@]}"; do
-		if [ ! -e "$file" ]; then
-			all_files_exist=false
-			break
-		fi
-	done
-	if $all_files_exist; then
+	skip=true
+	if [ ! -f "$scalable_root/$dest.svg" ]; then
+		skip=false
+	elif [ ${#dests[@]} -gt 1 ]; then
+		for i in $(seq 1 $((${#dests[@]} - 1))); do
+			if [ ! -L "$scalable_root/${dests[$i]}.svg" ]; then
+				skip=false
+				break
+			fi
+		done
+	fi
+	if $skip; then
 		echo "Skipping $src, all icons already exist."
 		continue
 	fi
