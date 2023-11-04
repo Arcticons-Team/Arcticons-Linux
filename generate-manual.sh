@@ -160,10 +160,10 @@ for kvpair in "${kvpairs[@]}"; do
 	mkdir -p "$scalable_root/$(dirname "$dest")"
 
 	# copy the icons to the destination
-	if [ -e "../icons/$style/$src.svg" ]; then
-		cp -v "../icons/$style/$src.svg" "$scalable_root/$dest.svg"
-	elif [ -e "./icons_linux/$style/$src.svg" ]; then
+	if [ -e "./icons_linux/$style/$src.svg" ]; then
 		cp -v "./icons_linux/$style/$src.svg" "$scalable_root/$dest.svg"
+	elif [ -e "../icons/$style/$src.svg" ]; then
+		cp -v "../icons/$style/$src.svg" "$scalable_root/$dest.svg"
 	else
 		echo "Skipping '$src', icon not found"
 		continue
