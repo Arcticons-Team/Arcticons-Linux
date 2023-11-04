@@ -47,8 +47,8 @@ discord:
   - apps/com.discordapp.Discord
   - apps/discord
 documents:
-  - emblems/emblem-documents
   - apps/okular
+  - emblems/emblem-documents
 dolphinemulator:
   - apps/dophin-emu
 dont_starve:
@@ -89,14 +89,14 @@ file:
   - places/folder-documents
 firefox:
   - apps/firefox
-  - apps/install-firefox
+  - apps/firefox-default
   - apps/firefox-esr
   - apps/firefox-gtk3
   - apps/firefox-icon
   - apps/firefox-mozilla-buildn
-  - apps/firefox-default
   - apps/firefox-original
   - apps/firefox-trunk
+  - apps/install-firefox
 firefox_beta:
   - apps/firefox-beta
   - apps/firefox-beta-bin
@@ -106,6 +106,8 @@ firefox_nightly:
 folder:
   - apps/nemo
   - apps/system-file-manager
+  - mimetypes/inode-directory
+  - mimetypes/inode-mountpoint
   - places/folder
   - places/folder-black
   - places/folder-blue
@@ -119,18 +121,16 @@ folder:
   - places/folder-yellow
   - system/index
   - system/org.kde.dolphin
-  - mimetypes/inode-directory
-  - mimetypes/inode-mountpoint
 folder_alt_3:
   - places/folder-open
 folder_book:
   - places/folder-book
   - places/folder-library
 folder_cloud:
+  - places/folder-cloud
   - places/folder-gdrive
   - places/folder-onedrive
   - places/folder-owncloud
-  - places/folder-cloud
 folder_desktop:
   - places/desktop
   - places/user-desktop
@@ -177,6 +177,7 @@ galaxystore:
   - apps/org.kde.discover
   - apps/plasmadiscover
 gallery:
+  - apps/gthumb
   - mimetypes/image-bmp
   - mimetypes/image-gif
   - mimetypes/image-ico
@@ -186,7 +187,6 @@ gallery:
   - mimetypes/image-tiff
   - mimetypes/image-x-generic
   - mimetypes/image-x-portable-bitmap
-  - apps/gthumb
 games:
   - categories/applications-games
   - devices/input-gamepad
@@ -237,8 +237,8 @@ linksheet:
 lock:
   - apps/plasmavault
 mediaplayer:
-  - categories/applications-multimedia
   - apps/mpv
+  - categories/applications-multimedia
 microsoft:
   - categories/applications-all
 microsoft_edge_beta:
@@ -252,12 +252,12 @@ microsoftteams:
 mindustry:
   - apps/mindustry
 minecraft:
-  - apps/steam_icon_1672970
-  - apps/steam_icon_1928870
   - apps/minecraft
   - apps/minecraft-launcher
   - apps/minecraft-pi
   - apps/polymc
+  - apps/steam_icon_1672970
+  - apps/steam_icon_1928870
 minetest:
   - apps/minetest
   - apps/minetest-icon
@@ -287,8 +287,8 @@ nuclear:
   - apps/steam_icon_38410
   - apps/steam_icon_38420
 openttd:
-  - apps/steam_icon_1536610
   - apps/openttd
+  - apps/steam_icon_1536610
 opera:
   - apps/opera
 opera_beta:
@@ -306,9 +306,9 @@ plants_vs_zombies:
   - apps/steam_icon_1922560
   - apps/steam_icon_3590
 pocket_casts:
-  - apps/pocketcasts
   - apps/pocket-casts
   - apps/pocket-casts-linux
+  - apps/pocketcasts
 ppsspp:
   - apps/ppsspp
 print:
@@ -340,11 +340,11 @@ settings:
   - apps/ibus-engine
   - apps/ibus-setup
   - apps/org.gnome.Settings
+  - apps/preferences-other
+  - apps/preferences-system
   - apps/steam_icon_427520
   - apps/systemsettings
   - categories/applications-settings
-  - apps/preferences-system
-  - apps/preferences-other
 sharetoclipboard:
   - emblems/emblem-shared
   - places/folder-publicshare
@@ -355,6 +355,7 @@ sim:
 simplenotes:
   - apps/accessories-text-editor
   - apps/kwrite
+  - apps/org.gnome.gedit
   - mimetypes/application-application-rtf
   - mimetypes/application-application-sxw
   - mimetypes/application-msonenote
@@ -363,7 +364,6 @@ simplenotes:
   - mimetypes/text-x-generic
   - mimetypes/text-x-vnd.abc
   - mimetypes/x-office-document
-  - apps/org.gnome.gedit
 simpletexteditor:
   - apps/kate
   - apps/kate2
@@ -399,8 +399,8 @@ sonic_the_hedgehog:
 sony_headphones:
   - devices/audio-headphones
 spotify:
-  - apps/spotify-client
   - apps/spot
+  - apps/spotify-client
 starfield:
   - apps/steam_icon_1716740
 steam:
@@ -421,20 +421,20 @@ telegram:
   - apps/telegram-desktop-bin
 terminal:
   - apps/org.gnome.Terminal
-  - system/konsole
   - apps/utilities-terminal
+  - system/konsole
 terraria:
   - apps/steam_icon_105600
 thunderbird:
-  - apps/thunderbird
   - apps/org.mozilla.Thunderbird
+  - apps/thunderbird
 torbrowser:
   - apps/tor
-  - apps/torbrowser
   - apps/tor-browser
   - apps/tor-browser-en
   - apps/tor-browser-nightly
   - apps/tor-browser-ru
+  - apps/torbrowser
 torbrowser_alpha:
   - apps/tor-browser-alpha
 trashcan:
@@ -446,8 +446,8 @@ videocrop:
   - devices/camera-video
 vivaldi:
   - apps/vivaldi
-  - apps/vivaldi_logo
   - apps/vivaldi-stable
+  - apps/vivaldi_logo
 vivaldi_snapshot:
   - apps/vivaldi-snapshot
 vlc:
