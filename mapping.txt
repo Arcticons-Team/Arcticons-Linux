@@ -157,5 +157,13 @@ wifi,devices/network-wireless
 worldexplorers,apps/steam_icon_544730:apps/steam_icon_857680
 youtube,apps/youtube
 youtube_music,apps/youtube_music:apps/youtube_music-desktop-app
-yubico_authenticator,apps/yubikey-personalization-gui
+yubico_authenticator,apps/yubikey-personalization-gui:apps/ykman
 yuzu,apps/yuzu
+arduinodroid,apps/arduino-ide-v2
+firefox,apps/firedragon
+firefox,apps/librewolf
+dropbox,apps/dropbox:status/dropboxstatus-blank:status/dropboxstatus-x:status/dropboxstatus-logo:status/dropboxstatus-idle:status/dropboxstatus-busy2:status/dropboxstatus-busy
+bloonstd6,apps/steam_icon_1276390
+magic,apps/steam_icon_2141910
+nuclear,apps/steam_icon_38400
+battleforwesnoth,apps/steam_icon_599390
