@@ -1,29 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   id="a"
-   viewBox="0 0 48 48"
-   version="1.1"
-   sodipodi:docname="bluetooth.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
-  <defs
-     id="defs1">
-    <style
-       id="style1">.b{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
-  </defs>
-  <path
-     style="color:#000000;fill:#ffffff;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="M 23.847656,3.5761719 A 1.0001,1.0001 0 0 0 23.230469,4.5 v 17.080078 l -8.550781,-8.501953 a 1,1 0 0 0 -1.414063,0.0039 1,1 0 0 0 0.0059,1.414063 L 22.830078,24 13.271484,33.503906 a 1,1 0 0 0 -0.0059,1.414063 1,1 0 0 0 1.414063,0.0039 l 8.550781,-8.501953 V 43.5 a 1.0001,1.0001 0 0 0 1.707031,0.707031 l 9.792969,-9.777344 a 1.0001,1.0001 0 0 0 -0.002,-1.417968 L 25.664062,24 34.728516,14.988281 a 1.0001,1.0001 0 0 0 0.002,-1.417968 L 24.9375,3.7929688 A 1.0001,1.0001 0 0 0 23.847656,3.5761719 Z m 1.382813,3.3339843 7.378906,7.3671878 -7.378906,7.335937 z m 0,19.4765628 7.378906,7.335937 -7.378906,7.367188 z"
-     id="polyline1" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs4">
+  <style id="style2">.b{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <path id="polyline6" d="m23.848 3.5762a1.0001 1.0001 0 0 0-0.61719 0.92383v17.08l-8.5508-8.502a1 1 0 0 0-1.4141 0.0039 1 1 0 0 0 0.0059 1.4141l9.5586 9.5039-9.5586 9.5039a1 1 0 0 0-0.0059 1.4141 1 1 0 0 0 1.4141 0.0039l8.5508-8.502v17.08a1.0001 1.0001 0 0 0 1.707 0.70703l9.793-9.7773a1.0001 1.0001 0 0 0-2e-3 -1.418l-9.0644-9.0117 9.0645-9.0117a1.0001 1.0001 0 0 0 2e-3 -1.418l-9.793-9.7773a1.0001 1.0001 0 0 0-1.0898-0.2168zm1.3828 3.334 7.3789 7.3672-7.3789 7.3359zm0 19.477 7.3789 7.3359-7.3789 7.3672z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
 </svg>

@@ -1,49 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   viewBox="0 0 48 48"
-   version="1.1"
-   id="svg5"
-   sodipodi:docname="wikipedia.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview5"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
-  <defs
-     id="defs1">
-    <style
-       id="style1">.a{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
-  </defs>
-  <path
-     style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="m 4.5,10.070313 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 7.300781 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
-     id="line1" />
-  <path
-     style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="m 16.789062,10.070313 a 1,1 0 0 0 -0.999999,1 1,1 0 0 0 0.999999,1 h 5.521485 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
-     id="line2" />
-  <path
-     style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="m 36.919922,10.070313 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 H 43.5 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
-     id="line3" />
-  <path
-     style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="m 27.25,10.070313 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 4.830078 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"
-     id="line4" />
-  <path
-     style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="m 40.554687,10.138672 a 1,1 0 0 0 -1.296875,0.566406 L 30.060547,34.232422 20.476562,10.693359 a 1,1 0 0 0 -1.302734,-0.548828 1,1 0 0 0 -0.550781,1.302735 l 10.53125,25.859375 a 1.0001,1.0001 0 0 0 1.857422,-0.01172 L 41.121094,11.433594 a 1,1 0 0 0 -0.566407,-1.294922 z"
-     id="polyline4" />
-  <path
-     style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="M 7.7871094,10.138672 A 1,1 0 0 0 7.21875,11.433594 l 10.080078,25.859375 a 1.0001,1.0001 0 0 0 1.845703,0.04102 L 30.583984,11.474609 a 1,1 0 0 0 -0.509765,-1.318359 1,1 0 0 0 -1.31836,0.509766 L 18.289062,34.326172 9.0820313,10.707031 A 1,1 0 0 0 7.7871094,10.138672 Z"
-     id="polyline5" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg18" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs4">
+  <style id="style2">.a{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <path id="line6" d="m4.5 10.07a1 1 0 0 0-1 1 1 1 0 0 0 1 1h7.3008a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line8" d="m16.789 10.07a1 1 0 0 0-1 1 1 1 0 0 0 1 1h5.5215a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line10" d="m36.92 10.07a1 1 0 0 0-1 1 1 1 0 0 0 1 1h6.5801a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line12" d="m27.25 10.07a1 1 0 0 0-1 1 1 1 0 0 0 1 1h4.8301a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="polyline14" d="m40.555 10.139a1 1 0 0 0-1.2969 0.56641l-9.1973 23.527-9.584-23.539a1 1 0 0 0-1.3027-0.54883 1 1 0 0 0-0.55078 1.3027l10.531 25.859a1.0001 1.0001 0 0 0 1.8574-0.01172l10.109-25.861a1 1 0 0 0-0.56641-1.2949z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="polyline16" d="m7.7871 10.139a1 1 0 0 0-0.56836 1.2949l10.08 25.859a1.0001 1.0001 0 0 0 1.8457 0.04102l11.439-25.859a1 1 0 0 0-0.50976-1.3184 1 1 0 0 0-1.3184 0.50977l-10.467 23.66-9.207-23.619a1 1 0 0 0-1.2949-0.56836z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
 </svg>

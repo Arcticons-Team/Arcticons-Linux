@@ -1,9 +1,18 @@
 #!/usr/bin/env bash
 
+# USAGE:
+# ./generate-all.sh [--regenerate]
+# When --regenerate is specified the folders arcticons-dark and arcticons-light
+# will be deleted and completely regenerated.
+
 set -euo pipefail
 
-SCRIPTPATH="$( cd -- "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
-cd $SCRIPTPATH
+# go to the path of the script
+SCRIPTPATH="$(
+	cd -- "$(dirname "$0")" >/dev/null 2>&1
+	pwd -P
+)"
+cd "$SCRIPTPATH"
 
 # Check if the icons folder of our parent repo exists, if not abort
 if [ ! -e ../icons/white ]; then
@@ -11,81 +20,59 @@ if [ ! -e ../icons/white ]; then
 	exit 1
 fi
 
-# Check if Inkscape is installed, if not abort
-if ! type inkscape; then
+# Check if Inkscape and Scour are installed, if not abort
+if ! type inkscape || ! type scour; then
 	echo "Inkscape not found!"
 	exit 1
 fi
 
+# Check if ./generate-manual.sh exists, if not abort
+if [ ! -e ./generate-manual.sh ]; then
+	echo "Script ./generate-manual.sh not found!"
+	exit 1
+fi
+
+# Check if yq and jq are installed, if not abort
+if ! type yq >/dev/null || ! type jq >/dev/null; then
+	echo "error: yq and jq need to be installed for yaml parsing"
+	exit 1
+fi
+
+# sort the mapping.yaml file with yq
+yq -Syi '.[] |= sort' mapping.yaml
+
+# parse command line arguments
+regenerate=false
+while [[ $# -gt 0 ]]; do
+	case $1 in
+	--regenerate)
+		regenerate=true
+		;;
+	*)
+		echo "Unexpected option $1"
+		exit 1
+		;;
+	esac
+	shift
+done
+
 for style in black white; do
 	if [ $style == "black" ]; then
-		dest_root="./arcticons-light/scalable"
-		symbolic_root="./arcticons-light/symbolic"
+		variant="Light"
 	else
-		dest_root="./arcticons-dark/scalable"
-		symbolic_root="./arcticons-dark/symbolic"
+		variant="Dark"
 	fi
-	for line in $(cat mapping.txt); do
-		echo $line
-		all_files_exist=true
-		src=$(echo "$line" | cut -d, -f1)
-		dests=( `echo "$line" | cut -d, -f2 | tr ':' ' '` )
-		dest=${dests[0]}
+	options=(--style "$style" --line-weight 2 --destination "./arcticons-${variant,,}")
+	if $regenerate; then
+		options+=(--remove)
+	fi
+	./generate-manual.sh "${options[@]}"
 
-		dests_paths=("${dests[@]/#/$dest_root/}")
-		dests_paths=("${dests_paths[@]/%/.svg}")
-
-		dests_paths_symbolic=("${dests[@]/#/$symbolic_root/}")
-		dests_paths_symbolic=("${dests_paths[@]/%/-symbolic.svg}")
-		dests_paths=("${dests_paths[@]}" "${dests_paths_symbolic[@]}")
-
-		if [ ! -e "../icons/$style/$src.svg" ] && [ ! -e "./icons_linux/$style/$src.svg" ]; then
-			echo "Skipping '$src', icon not found"
-			continue
-		fi
-
-		if [ -e "$dest_root/$dest.svg" ]; then
-			for file in "${dests_paths[@]}"; do
-				if [ ! -e "$file" ]; then
-					all_files_exist=false
-					break
-				fi
-			done
-			if [ all_files_exist ]; then
-				continue
-			fi
-		fi
-
-		mkdir -p "$dest_root/$(dirname "$dest")"
-
-		if [ -e "../icons/$style/$src.svg" ]; then
-			cp -v "../icons/$style/$src.svg" "$dest_root/$dest.svg"
-		elif [ -e "./icons_linux/$style/$src.svg" ]; then
-			cp -v "./icons_linux/$style/$src.svg" "$dest_root/$dest.svg"
-		else
-			echo "Skipping '$src', icon not found"
-			continue
-		fi
-
-		grep -v 'stroke-width' "$dest_root/$dest.svg" > /dev/null && sed -i 's/\(stroke:[^;]\+\)/\1;stroke-width:1px/g' "$dest_root/$dest.svg"
-		awk -i inplace -F 'stroke-width:|px' "{ print \$1 \"stroke-width:\" (\$2 * 2) \"px\" \$3; }" "$dest_root/$dest.svg"
-
-		if [ ${#dests[@]} -gt 1 ]; then
-			for i in $(seq 1 $((${#dests[@]}-1))); do
-				mkdir -p "$dest_root/$(dirname "${dests[$i]}")"
-				ln -vs "../${dests[0]}.svg" "$dest_root/${dests[$i]}.svg"
-			done
-		fi
-
-		mkdir -p "$symbolic_root/$(dirname "$dest")"
-		inkscape --actions="select-all;object-stroke-to-path" --export-filename="$symbolic_root/$dest-symbolic.svg" "$dest_root/$dest.svg" || true
-		rm $dest_root/$dest*.0.svg || true
-
-		if [ ${#dests[@]} -gt 1 ]; then
-			for i in $(seq 1 $((${#dests[@]}-1))); do
-				mkdir -p "$symbolic_root/$(dirname "${dests[$i]}")"
-				ln -vs "../${dests[0]}-symbolic.svg" "$symbolic_root/${dests[$i]}-symbolic.svg"
-			done
-		fi
-	done
+	# fix up the index.theme files
+	index="./arcticons-${variant,,}/index.theme"
+	sed -i "s/Name=Arcticons/Name=Arcticons $variant/g" "$index"
+	sed -i "s/Comment=A Line-based icon pack\\./Comment=A Line-based icon pack. (Version for ${variant,,} themes)/g" "$index"
+	if [ $variant == "Dark" ]; then
+		sed -i 's/breeze/breeze-dark/g' "$index"
+	fi
 done
