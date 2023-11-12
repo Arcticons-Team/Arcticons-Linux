@@ -3,12 +3,16 @@ amongus:
   - apps/steam_icon_945360
 android:
   - mimetypes/android-package-archive
+arduinodroid:
+  - apps/arduino-ide-v2
 attestationdedeplacement:
   - apps/kakoune
 battery:
   - devices/battery
 bitwarden:
   - apps/bitwarden
+bloonstd6:
+  - apps/steam_icon_1276390
 bluetooth:
   - apps/bluetooth
   - devices/bluetooth
@@ -67,6 +71,14 @@ downwell:
   - apps/steam_icon_360740
 drawer:
   - categories/applications-other
+dropbox:
+  - apps/dropbox
+  - status/dropboxstatus-blank
+  - status/dropboxstatus-busy
+  - status/dropboxstatus-busy2
+  - status/dropboxstatus-idle
+  - status/dropboxstatus-logo
+  - status/dropboxstatus-x
 dsphoto:
   - emblems/emblem-photos
 duckstation:
@@ -88,6 +100,7 @@ file:
   - mimetypes/unknown
   - places/folder-documents
 firefox:
+  - apps/firedragon
   - apps/firefox
   - apps/firefox-default
   - apps/firefox-esr
@@ -97,6 +110,7 @@ firefox:
   - apps/firefox-original
   - apps/firefox-trunk
   - apps/install-firefox
+  - apps/librewolf
 firefox_beta:
   - apps/firefox-beta
   - apps/firefox-beta-bin
@@ -236,6 +250,8 @@ linksheet:
   - emblems/emblem-symbolic-link
 lock:
   - apps/plasmavault
+magic:
+  - apps/steam_icon_2141910
 mediaplayer:
   - apps/mpv
   - categories/applications-multimedia
@@ -284,6 +300,7 @@ no_mans_sky:
 notificationnotes:
   - categories/applications-graphics
 nuclear:
+  - apps/steam_icon_38400
   - apps/steam_icon_38410
   - apps/steam_icon_38420
 openttd:
@@ -467,6 +484,7 @@ youtube_music:
   - apps/youtube_music
   - apps/youtube_music-desktop-app
 yubico_authenticator:
+  - apps/ykman
   - apps/yubikey-personalization-gui
 yuzu:
   - apps/yuzu
