@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="svg14" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs id="defs4">
-  <style id="style2">.c{fill:#fff;}.d{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2">.c{fill:#fff;}.d{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
  </defs>
  <g id="a">
-  <circle id="circle6" class="c" cx="24" cy="34.748" r=".75"/>
+  <circle id="circle6" class="c" cx="24" cy="34.748" r="1.5"/>
   <path id="line8" d="m23.975 11.502a1 1 0 0 0-1 1v17.773a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-17.773a1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
  </g>
  <g id="b">

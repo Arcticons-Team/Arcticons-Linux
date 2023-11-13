@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="a" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs id="defs4">
-  <style id="style2">.b{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2">.b{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style>
  </defs>
  <path id="polyline6" d="m23.848 3.5762a1.0001 1.0001 0 0 0-0.61719 0.92383v17.08l-8.5508-8.502a1 1 0 0 0-1.4141 0.0039 1 1 0 0 0 0.0059 1.4141l9.5586 9.5039-9.5586 9.5039a1 1 0 0 0-0.0059 1.4141 1 1 0 0 0 1.4141 0.0039l8.5508-8.502v17.08a1.0001 1.0001 0 0 0 1.707 0.70703l9.793-9.7773a1.0001 1.0001 0 0 0-2e-3 -1.418l-9.0644-9.0117 9.0645-9.0117a1.0001 1.0001 0 0 0 2e-3 -1.418l-9.793-9.7773a1.0001 1.0001 0 0 0-1.0898-0.2168zm1.3828 3.334 7.3789 7.3672-7.3789 7.3359zm0 19.477 7.3789 7.3359-7.3789 7.3672z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
 </svg>
