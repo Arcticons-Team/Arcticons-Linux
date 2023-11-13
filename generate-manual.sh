@@ -159,20 +159,31 @@ for kvpair in "${kvpairs[@]}"; do
 	# create destination directories
 	mkdir -p "$scalable_root/$(dirname "$dest")"
 
-	# copy the icons to the destination
+	# check whether the src icon is in ./icons_linux or ../icons
 	if [ -e "./icons_linux/$style/$src.svg" ]; then
-		cp -v "./icons_linux/$style/$src.svg" "$scalable_root/$dest.svg"
+		src_root="./icons_linux"
 	elif [ -e "../icons/$style/$src.svg" ]; then
-		cp -v "../icons/$style/$src.svg" "$scalable_root/$dest.svg"
+		src_root="../icons"
 	else
 		echo "Skipping '$src', icon not found"
 		continue
 	fi
 
-	# apply the line weight replacement
-	sed -i ':a;N;$!ba;s/\n//g' "$scalable_root/$dest.svg" # TODO rather fix the regex magic below
-	grep -v 'stroke-width' "$scalable_root/$dest.svg" >/dev/null && sed -i 's/\(stroke:[^;]\+\)/\1;stroke-width:1px/g' "$scalable_root/$dest.svg"
-	awk -i inplace -F 'stroke-width:|px' "{ print \$1 \"stroke-width:\" (\$2 * $line_weight) \"px\" \$3; }" "$scalable_root/$dest.svg"
+	# copy the icons to the destination and apply the line weight replacement
+	echo "$src_root/$style/$src.svg -> $scalable_root/$dest.svg"
+	if [ -n "${src_root:-}" ]; then
+		xmlstarlet ed -N x="http://www.w3.org/2000/svg" \
+			-i '//x:circle[@r > 1]' -t attr -n stroke-width -v "$line_weight" \
+			-i '//x:ellipse' -t attr -n stroke-width -v "$line_weight" \
+			-i '//x:rect' -t attr -n stroke-width -v "$line_weight" \
+			-i '//x:polygon' -t attr -n stroke-width -v "$line_weight" \
+			-i '//x:line' -t attr -n stroke-width -v "$line_weight" \
+			-i '//x:polyline' -t attr -n stroke-width -v "$line_weight" \
+			-i '//x:path' -t attr -n stroke-width -v "$line_weight" \
+			-u '//x:circle[@r = 0.75]/@r' -v "$(echo "0.75*$line_weight" | bc)" \
+			"$src_root/$style/$src.svg" >"$scalable_root/$dest.svg"
+		sed -i "s/stroke-width:1/stroke-width:$line_weight/g" "$scalable_root/$dest.svg"
+	fi
 
 	# create symbolic links for duplicate icons
 	if [ ${#dests[@]} -gt 1 ]; then
