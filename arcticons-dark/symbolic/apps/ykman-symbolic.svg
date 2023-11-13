@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg19" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs1">
-  <style id="style1">.a{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}.b{fill:#fff;}</style>
+<svg id="svg46" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs4">
+  <style id="style2">.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}.b{fill:#fff;}</style>
  </defs>
- <path id="circle1" d="m24 1.5c-12.415 0-22.5 10.085-22.5 22.5s10.085 22.5 22.5 22.5 22.5-10.085 22.5-22.5-10.085-22.5-22.5-22.5zm0 2c11.334 0 20.5 9.1663 20.5 20.5s-9.1663 20.5-20.5 20.5-20.5-9.1663-20.5-20.5 9.1663-20.5 20.5-20.5z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <circle id="circle2" class="b" cx="36.728" cy="11.272" r=".75"/>
- <circle id="circle3" class="b" cx="36.728" cy="11.272" r=".75"/>
- <circle id="circle4" class="b" cx="42" cy="24" r=".75"/>
- <circle id="circle5" class="b" cx="42" cy="24" r=".75"/>
- <circle id="circle6" class="b" cx="36.728" cy="36.728" r=".75"/>
- <circle id="circle7" class="b" cx="36.728" cy="36.728" r=".75"/>
- <circle id="circle8" class="b" cx="24" cy="42" r=".75"/>
- <circle id="circle9" class="b" cx="24" cy="42" r=".75"/>
- <circle id="circle10" class="b" cx="11.272" cy="36.728" r=".75"/>
- <circle id="circle11" class="b" cx="11.272" cy="36.728" r=".75"/>
- <circle id="circle12" class="b" cx="6" cy="24" r=".75"/>
- <circle id="circle13" class="b" cx="6" cy="24" r=".75"/>
- <circle id="circle14" class="b" cx="11.272" cy="11.272" r=".75"/>
- <circle id="circle15" class="b" cx="11.272" cy="11.272" r=".75"/>
- <circle id="circle16" class="b" cx="24" cy="6" r=".75"/>
- <circle id="circle17" class="b" cx="24" cy="6" r=".75"/>
- <path id="circle18" d="m24 7.9297c-8.8633 0-16.07 7.2071-16.07 16.07s7.2071 16.07 16.07 16.07 16.07-7.2071 16.07-16.07-7.2071-16.07-16.07-16.07zm0 2c7.7824 0 14.07 6.2879 14.07 14.07 0 7.7824-6.2879 14.07-14.07 14.07-7.7824 0-14.07-6.2879-14.07-14.07s6.2879-14.07 14.07-14.07z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="line18" d="m29.938 14.545a1 1 0 0 0-0.58984 0.49023l-8.9434 17a1 1 0 0 0 0.41992 1.3496 1 1 0 0 0 1.3516-0.41992l8.9434-17a1 1 0 0 0-0.41992-1.3496 1 1 0 0 0-0.76172-0.07031z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="line19" d="m18.062 14.545a1 1 0 0 0-0.76172 0.07031 1 1 0 0 0-0.41992 1.3496l6.2344 11.85a1 1 0 0 0 1.3496 0.41992 1 1 0 0 0 0.41992-1.3516l-6.2324-11.848a1 1 0 0 0-0.58984-0.49023z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="circle6" d="m24 1.5c-12.415 0-22.5 10.085-22.5 22.5s10.085 22.5 22.5 22.5 22.5-10.085 22.5-22.5-10.085-22.5-22.5-22.5zm0 2c11.334 0 20.5 9.1663 20.5 20.5s-9.1663 20.5-20.5 20.5-20.5-9.1663-20.5-20.5 9.1663-20.5 20.5-20.5z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <circle id="circle8" class="b" cx="36.728" cy="11.272" r="1.5"/>
+ <circle id="circle10" class="b" cx="36.728" cy="11.272" r="1.5"/>
+ <circle id="circle12" class="b" cx="42" cy="24" r="1.5"/>
+ <circle id="circle14" class="b" cx="42" cy="24" r="1.5"/>
+ <circle id="circle16" class="b" cx="36.728" cy="36.728" r="1.5"/>
+ <circle id="circle18" class="b" cx="36.728" cy="36.728" r="1.5"/>
+ <circle id="circle20" class="b" cx="24" cy="42" r="1.5"/>
+ <circle id="circle22" class="b" cx="24" cy="42" r="1.5"/>
+ <circle id="circle24" class="b" cx="11.272" cy="36.728" r="1.5"/>
+ <circle id="circle26" class="b" cx="11.272" cy="36.728" r="1.5"/>
+ <circle id="circle28" class="b" cx="6" cy="24" r="1.5"/>
+ <circle id="circle30" class="b" cx="6" cy="24" r="1.5"/>
+ <circle id="circle32" class="b" cx="11.272" cy="11.272" r="1.5"/>
+ <circle id="circle34" class="b" cx="11.272" cy="11.272" r="1.5"/>
+ <circle id="circle36" class="b" cx="24" cy="6" r="1.5"/>
+ <circle id="circle38" class="b" cx="24" cy="6" r="1.5"/>
+ <path id="circle40" d="m24 7.9297c-8.8633 0-16.07 7.2071-16.07 16.07s7.2071 16.07 16.07 16.07 16.07-7.2071 16.07-16.07-7.2071-16.07-16.07-16.07zm0 2c7.7824 0 14.07 6.2879 14.07 14.07 0 7.7824-6.2879 14.07-14.07 14.07-7.7824 0-14.07-6.2879-14.07-14.07s6.2879-14.07 14.07-14.07z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line42" d="m29.938 14.545a1 1 0 0 0-0.58984 0.49023l-8.9434 17a1 1 0 0 0 0.41992 1.3496 1 1 0 0 0 1.3516-0.41992l8.9434-17a1 1 0 0 0-0.41992-1.3496 1 1 0 0 0-0.76172-0.07031z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line44" d="m18.062 14.545a1 1 0 0 0-0.76172 0.07031 1 1 0 0 0-0.41992 1.3496l6.2344 11.85a1 1 0 0 0 1.3496 0.41992 1 1 0 0 0 0.41992-1.3516l-6.2324-11.848a1 1 0 0 0-0.58984-0.49023z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
 </svg>

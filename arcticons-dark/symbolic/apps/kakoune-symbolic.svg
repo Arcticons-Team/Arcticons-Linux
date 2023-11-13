@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="svg8" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs id="defs4">
-  <style id="style2">.a{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style2">.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
  </defs>
  <path id="path6" d="m10.5 3.5c-1.645 0-3 1.355-3 3v35c0 1.645 1.355 3 3 3h27c1.645 0 3-1.355 3-3v-26a1 1 0 0 0-0.29297-0.70703l-11-11a1 1 0 0 0-0.41406 0 1.0001 1.0001 0 0 0-0.29297-0.29297zm0 2h17v8c0 1.645 1.355 3 3 3h8v25c0 0.56413-0.43587 1-1 1h-27c-0.56413 0-1-0.43587-1-1v-35c0-0.56413 0.43587-1 1-1zm19 1.4141 7.5859 7.5859h-6.5859c-0.56413 0-1-0.43587-1-1zm-14.5 15.086a1 1 0 0 0-1 1 1 1 0 0 0 1 1h18a1 1 0 0 0 1-1 1 1 0 0 0-1-1zm0 9a1 1 0 0 0-1 1 1 1 0 0 0 1 1h18a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
 </svg>
