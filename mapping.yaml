@@ -14,6 +14,7 @@ bitwarden:
 bloonstd6:
   - apps/steam_icon_1276390
 bluetooth:
+  - apps/blueman
   - apps/bluetooth
   - devices/bluetooth
 browser:
@@ -52,6 +53,7 @@ discord:
   - apps/discord
 documents:
   - apps/okular
+  - apps/xreader
   - emblems/emblem-documents
 dolphinemulator:
   - apps/dophin-emu
@@ -117,6 +119,8 @@ firefox_beta:
 firefox_nightly:
   - apps/firefox-nightly
   - apps/firefox-nightly-icon
+fluffychat:
+  - apps/fluffychat
 folder:
   - apps/nemo
   - apps/system-file-manager
@@ -218,6 +222,8 @@ hammer:
   - categories/applications-development
 heart:
   - emblems/emblem-favorite
+hibernator:
+  - apps/system-hibernate
 hollow_knight:
   - apps/steam_icon_367520
 inbento:
@@ -234,6 +240,8 @@ keyboard:
   - devices/input-keyboard
 keylimba:
   - apps/emoji-selector
+kingdomcomedeliverance:
+  - apps/lutris_kingdom-come-deliverance
 kodi:
   - apps/kodi
 krita:
@@ -250,6 +258,9 @@ linksheet:
   - emblems/emblem-symbolic-link
 lock:
   - apps/plasmavault
+  - apps/system-lock-screen
+logout:
+  - apps/system-log-out
 magic:
   - apps/steam_icon_2141910
 mediaplayer:
@@ -293,6 +304,8 @@ musescore:
   - apps/mscore
 music:
   - emblems/emblem-music
+network_utilities:
+  - apps/preferences-system-network
 nextcloud:
   - apps/nextcloud
 no_mans_sky:
@@ -303,6 +316,8 @@ nuclear:
   - apps/steam_icon_38400
   - apps/steam_icon_38410
   - apps/steam_icon_38420
+nvidia:
+  - apps/nvidia-settings
 openttd:
   - apps/openttd
   - apps/steam_icon_1536610
@@ -312,6 +327,8 @@ opera_beta:
   - apps/opera-beta
 organtrail:
   - apps/steam_icon_233740
+osu:
+  - apps/osu!
 package_names:
   - apps/gwenview
 papers_please:
@@ -345,6 +362,8 @@ radiodroid:
   - status/audio-volume-high
 rar:
   - apps/ark
+reboot:
+  - apps/system-reboot
 remote_mouse:
   - devices/input-mouse
 retroarch:
@@ -365,6 +384,8 @@ settings:
 sharetoclipboard:
   - emblems/emblem-shared
   - places/folder-publicshare
+shutdown:
+  - apps/system-shutdown
 signal:
   - apps/signal-desktop
 sim:
@@ -428,6 +449,8 @@ stumble_guys:
   - apps/steam_icon_1677740
 superautopets:
   - apps/steam_icon_1714040
+suspend:
+  - apps/system-suspend
 symbol_exclamation_mark:
   - apps/ibus
 systemusagedirect:
@@ -478,6 +501,8 @@ wikipedia:
 worldexplorers:
   - apps/steam_icon_544730
   - apps/steam_icon_857680
+ymuse:
+  - apps/com.yktoo.ymuse
 youtube:
   - apps/youtube
 youtube_music:
