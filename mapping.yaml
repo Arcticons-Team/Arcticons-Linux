@@ -234,6 +234,7 @@ jellydrift:
   - apps/steam_icon_1740930
 kde_connect:
   - apps/kdeconnect
+  - status/kdeconnect-tray
 keepassdroid:
   - apps/keepass
 keyboard:
@@ -308,7 +309,8 @@ network_utilities:
   - apps/preferences-system-network
 nextcloud:
   - apps/nextcloud
-no_mans_sky:
+  - apps/Nextcloud
+  no_mans_sky:
   - apps/steam_icon_275850
 notificationnotes:
   - categories/applications-graphics
@@ -405,6 +407,7 @@ simplenotes:
 simpletexteditor:
   - apps/kate
   - apps/kate2
+  - apps/QOwnNotes
 skyrim:
   - apps/steam_icon_365720
   - apps/steam_icon_489830
@@ -463,6 +466,8 @@ terminal:
   - apps/org.gnome.Terminal
   - apps/utilities-terminal
   - system/konsole
+  - apps/alacritty
+  - apps/terminal
 terraria:
   - apps/steam_icon_105600
 thunderbird:
@@ -511,5 +516,29 @@ youtube_music:
 yubico_authenticator:
   - apps/ykman
   - apps/yubikey-personalization-gui
+  - apps/yubioath-desktop
 yuzu:
   - apps/yuzu
+stellariumfree:
+  - apps/stellarium
+celestia:
+  - apps/celestia
+letter_uppercase_circle_p:
+  - apps/polyglot
+supertux:
+  - apps/supertux
+proton_vpn:
+  - apps/protonvpn-logo
+proton_mail:
+  - panel/protonmail-notification
+  - panel/protonmail-indicator
+zoom:
+  - apps/zoom-desktop
+rss:
+  - apps/akregator
+librescore:
+  - apps/librescore
+spotube:
+  - apps/spotube-logo
+letter_uppercase_square_z:
+  - apps/zotero
