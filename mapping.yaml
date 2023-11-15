@@ -310,7 +310,7 @@ network_utilities:
 nextcloud:
   - apps/nextcloud
   - apps/Nextcloud
-  no_mans_sky:
+no_mans_sky:
   - apps/steam_icon_275850
 notificationnotes:
   - categories/applications-graphics
