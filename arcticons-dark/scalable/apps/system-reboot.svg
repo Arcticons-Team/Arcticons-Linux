@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
   <defs>
-    <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round}</style>
+    <style>.a{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round}</style>
   </defs>
-  <path d="M33 8.412a18 18 0 0 1 7.63 22.477 18 18 0 0 1-21.29 10.498A18 18 0 0 1 6.155 21.65 18 18 0 0 1 24 6" class="a" stroke-width="2"/>
-  <path d="M19 3.5 24 6l-4 4" class="a" stroke-width="2"/>
+  <path d="M33 8.412a18 18 0 0 1 7.63 22.477 18 18 0 0 1-21.29 10.498A18 18 0 0 1 6.155 21.65 18 18 0 0 1 24 6" class="a"/>
+  <path d="M19 3.5 24 6l-4 4" class="a"/>
 </svg>

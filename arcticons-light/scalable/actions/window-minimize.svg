@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
   <defs>
-    <style>.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style>
+    <style>.a{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
   </defs>
-  <line class="a" x1="40.5" x2="7.5" y1="42.5" y2="42.5" stroke-width="2"/>
+  <line class="a" x1="40.5" x2="7.5" y1="42.5" y2="42.5"/>
 </svg>

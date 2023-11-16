@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
   <defs>
-    <style>.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round}</style>
+    <style>.a{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round}</style>
   </defs>
-  <ellipse cx="24" cy="42" class="a" rx="10" ry="1.5" stroke-width="2"/>
-  <path d="M24 41.5V28L10 12M24 28l14-16" class="a" stroke-width="2"/>
-  <path d="M17 20c1.867.618 2.636.517 3.972.543 1.642.032 3.264-.384 4.903-.474 1.706-.094 2.993.622 5.125-.069M31.106 13.216a7 7 0 0 1 4.528-7.804 7 7 0 0 1 8.458 3.141 7 7 0 0 1-1.663 8.868 7 7 0 0 1-9.022-.138" class="a" stroke-width="2"/>
-  <path d="M38 12a14 1.5 0 0 1-10.377 1.449 14 1.5 0 0 1-15.748-.699 14 1.5 0 0 1 2.225-1.81 14 1.5 0 0 1 16.899-.24" class="a" stroke-width="2"/>
-  <path d="M36 12.73V8.536L42 12l-6 3.464v-.89" class="a" stroke-width="2"/>
+  <ellipse cx="24" cy="42" class="a" rx="10" ry="1.5"/>
+  <path d="M24 41.5V28L10 12M24 28l14-16" class="a"/>
+  <path d="M17 20c1.867.618 2.636.517 3.972.543 1.642.032 3.264-.384 4.903-.474 1.706-.094 2.993.622 5.125-.069M31.106 13.216a7 7 0 0 1 4.528-7.804 7 7 0 0 1 8.458 3.141 7 7 0 0 1-1.663 8.868 7 7 0 0 1-9.022-.138" class="a"/>
+  <path d="M38 12a14 1.5 0 0 1-10.377 1.449 14 1.5 0 0 1-15.748-.699 14 1.5 0 0 1 2.225-1.81 14 1.5 0 0 1 16.899-.24" class="a"/>
+  <path d="M36 12.73V8.536L42 12l-6 3.464v-.89" class="a"/>
 </svg>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="b" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs4">
-  <style id="style2">.c{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style>
+ <defs id="defs1">
+  <style id="style1">.c{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
  </defs>
- <path id="line6" d="m23.623 12.764-12.533 5.0938a1 1 0 0 0-0.55078 1.3027 1 1 0 0 0 1.3027 0.55078l12.535-5.0957a1 1 0 0 0 0.54883-1.3027 1 1 0 0 0-1.3027-0.54883z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="polygon8" d="m24 2.5a1.0001 1.0001 0 0 0-0.77344 0.36523l-12.535 15.285a1.0001 1.0001 0 0 0-0.125 1.0723l12.535 25.715a1.0001 1.0001 0 0 0 1.7969 0l12.535-25.715a1.0001 1.0001 0 0 0-0.125-1.0723l-12.535-15.285a1.0001 1.0001 0 0 0-0.77344-0.36523zm0 2.5781 11.355 13.844-11.355 23.297-11.355-23.297z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="line10" d="m24.377 12.764a1 1 0 0 0-1.3027 0.54883 1 1 0 0 0 0.54883 1.3027l12.535 5.0957a1 1 0 0 0 1.3027-0.55078 1 1 0 0 0-0.55078-1.3027z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="line12" d="m24 2.5a1 1 0 0 0-1 1v41a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-41a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="path14" d="m28.889 14.635a1 1 0 0 0-0.75 0.15234 1 1 0 0 0-0.26953 1.3887c0.5033 0.74502 0.79688 1.6367 0.79688 2.6074 0 2.5886-2.0774 4.666-4.666 4.666a1 1 0 0 0-1 1 1 1 0 0 0 1 1c3.6696 0 6.666-2.9965 6.666-6.666 0-1.3761-0.42017-2.663-1.1387-3.7266a1 1 0 0 0-0.63867-0.42188z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line1" d="m23.623 12.764-12.533 5.0938a1 1 0 0 0-0.55078 1.3027 1 1 0 0 0 1.3027 0.55078l12.535-5.0957a1 1 0 0 0 0.54883-1.3027 1 1 0 0 0-1.3027-0.54883z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="polygon1" d="m24 2.5a1.0001 1.0001 0 0 0-0.77344 0.36523l-12.535 15.285a1.0001 1.0001 0 0 0-0.125 1.0723l12.535 25.715a1.0001 1.0001 0 0 0 1.7969 0l12.535-25.715a1.0001 1.0001 0 0 0-0.125-1.0723l-12.535-15.285a1.0001 1.0001 0 0 0-0.77344-0.36523zm0 2.5781 11.355 13.844-11.355 23.297-11.355-23.297z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line2" d="m24.377 12.764a1 1 0 0 0-1.3027 0.54883 1 1 0 0 0 0.54883 1.3027l12.535 5.0957a1 1 0 0 0 1.3027-0.55078 1 1 0 0 0-0.55078-1.3027z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line3" d="m24 2.5a1 1 0 0 0-1 1v41a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-41a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="path3" d="m28.889 14.635a1 1 0 0 0-0.75 0.15234 1 1 0 0 0-0.26953 1.3887c0.5033 0.74502 0.79688 1.6367 0.79688 2.6074 0 2.5886-2.0774 4.666-4.666 4.666a1 1 0 0 0-1 1 1 1 0 0 0 1 1c3.6696 0 6.666-2.9965 6.666-6.666 0-1.3761-0.42017-2.663-1.1387-3.7266a1 1 0 0 0-0.63867-0.42188z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
 </svg>

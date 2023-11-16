@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg10" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs4">
-  <style id="style2">.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round}</style>
+<svg id="svg2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs1">
+  <style id="style1">.a{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round}</style>
  </defs>
- <path id="path6" d="m24 5c-9.5265 4.964e-4 -17.592 7.0746-18.836 16.52-1.2442 9.4452 4.7161 18.367 13.918 20.834 9.2028 2.4667 18.827-2.2796 22.473-11.082 3.646-8.802 0.19618-18.961-8.0547-23.725a1 1 0 0 0-1.3652 0.36523 1 1 0 0 0 0.36523 1.3652c7.395 4.2694 10.475 13.34 7.207 21.229-3.2679 7.8894-11.859 12.127-20.107 9.916-8.2474-2.2109-13.568-10.175-12.453-18.641 1.1147-8.4652 8.3152-14.781 16.854-14.781a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="path8" d="m19.447 2.6055a1 1 0 0 0-1.3418 0.44727 1 1 0 0 0 0.44726 1.3418l3.7598 1.8789-3.0195 3.0195a1 1 0 0 0 0 1.4141 1 1 0 0 0 1.4141 0l4-4a1.0001 1.0001 0 0 0-0.25976-1.6016z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="path1" d="m24 5c-9.5265 4.964e-4 -17.592 7.0746-18.836 16.52-1.2442 9.4452 4.7161 18.367 13.918 20.834 9.2028 2.4667 18.827-2.2796 22.473-11.082 3.646-8.802 0.19618-18.961-8.0547-23.725a1 1 0 0 0-1.3652 0.36523 1 1 0 0 0 0.36523 1.3652c7.395 4.2694 10.475 13.34 7.207 21.229-3.2679 7.8894-11.859 12.127-20.107 9.916-8.2474-2.2109-13.568-10.175-12.453-18.641 1.1147-8.4652 8.3152-14.781 16.854-14.781a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="path2" d="m19.447 2.6055a1 1 0 0 0-1.3418 0.44727 1 1 0 0 0 0.44726 1.3418l3.7598 1.8789-3.0195 3.0195a1 1 0 0 0 0 1.4141 1 1 0 0 0 1.4141 0l4-4a1.0001 1.0001 0 0 0-0.25976-1.6016z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
 </svg>

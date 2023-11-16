@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg12" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs4">
-  <style id="style2">.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style>
+<svg id="b" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs1">
+  <style id="style1">.c{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
  </defs>
- <path id="polygon6" d="m23.391 3.6348-16.861 9.7285a1.0001 1.0001 0 0 0 0 1.7324l16.971 9.8008a1.0001 1.0001 0 0 0 1 0l16.859-9.7305a1.0001 1.0001 0 0 0 0-1.7324l-16.969-9.7988a1.0001 1.0001 0 0 0-1 0zm0.5 2.0195 14.969 8.6445-14.859 8.5762-14.971-8.6445z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="polygon8" d="m6.5293 13.363a1.0001 1.0001 0 0 0-0.5 0.86719v19.469a1.0001 1.0001 0 0 0 0.5 0.86719l16.971 9.7988a1.0001 1.0001 0 0 0 1.5-0.86523v-19.471a1.0001 1.0001 0 0 0-0.5-0.86524l-16.971-9.8008a1.0001 1.0001 0 0 0-1 0zm1.5 2.5996 14.971 8.6445v17.16l-14.971-8.6445z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="polygon10" d="m40.359 13.434-16.859 9.7305a1.0001 1.0001 0 0 0-0.5 0.86524v19.471a1.0001 1.0001 0 0 0 1.5 0.86523l16.859-9.7285a1.0001 1.0001 0 0 0 0.5-0.86719v-19.469a1.0001 1.0001 0 0 0-1.5-0.86719zm-0.5 2.5977v17.162l-14.859 8.5762v-17.162z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="polygon1" d="m23.387 2.6348-17.725 10.229a1.0001 1.0001 0 0 0 0 1.7324l17.84 10.303a1.0001 1.0001 0 0 0 1 0l17.725-10.23a1.0001 1.0001 0 0 0 0-1.7305l-17.84-10.303a1.0001 1.0001 0 0 0-1 0zm0.5 2.0195 15.84 9.1484-15.723 9.0742-15.842-9.1465z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="polygon2" d="m5.6621 12.863a1.0001 1.0001 0 0 0-0.5 0.86524v20.469a1.0001 1.0001 0 0 0 0.5 0.86523l17.84 10.303a1.0001 1.0001 0 0 0 1.5-0.86523v-20.469a1.0001 1.0001 0 0 0-0.5-0.86523l-17.84-10.303a1.0001 1.0001 0 0 0-1 0zm1.5 2.5996 15.84 9.1465v18.158l-15.84-9.1465z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="polygon3" d="m41.229 12.936-17.725 10.23a1.0001 1.0001 0 0 0-0.50195 0.86523v20.469a1.0001 1.0001 0 0 0 1.5 0.86523l17.725-10.229a1.0001 1.0001 0 0 0 0.5-0.86524v-20.469a1.0001 1.0001 0 0 0-1.498-0.86719zm-0.50195 2.5977v18.16l-15.725 9.0762v-18.16z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
 </svg>

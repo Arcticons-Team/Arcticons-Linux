@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="a" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs4">
-  <style id="style2">.b{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style>
+ <defs id="defs1">
+  <style id="style1">.b{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
  </defs>
- <path id="circle6" d="m24 1.5c-12.415 0-22.5 10.085-22.5 22.5s10.085 22.5 22.5 22.5 22.5-10.085 22.5-22.5-10.085-22.5-22.5-22.5zm0 2c11.334 0 20.5 9.1663 20.5 20.5s-9.1663 20.5-20.5 20.5-20.5-9.1663-20.5-20.5 9.1663-20.5 20.5-20.5z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="circle8" d="m24 9.5996c-7.941 0-14.4 6.4593-14.4 14.4s6.4593 14.4 14.4 14.4 14.4-6.4593 14.4-14.4-6.4593-14.4-14.4-14.4zm0 2c6.8602 0 12.4 5.5402 12.4 12.4s-5.5402 12.4-12.4 12.4-12.4-5.5402-12.4-12.4 5.5402-12.4 12.4-12.4z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="polyline10" d="m19 21.199a1 1 0 0 0-1 1 1 1 0 0 0 1 1h2.2559l-3.0938 4.7559a1.0001 1.0001 0 0 0 0.83789 1.5449h4.0996a1 1 0 0 0 1-1 1 1 0 0 0-1-1h-2.2559l3.0938-4.7539a1.0001 1.0001 0 0 0-0.83789-1.5469z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="polyline12" d="m25.199 18.301a1 1 0 0 0-1 1 1 1 0 0 0 1 1h1.0449l-1.8789 2.8496a1.0001 1.0001 0 0 0 0.83398 1.5488h2.9004a1 1 0 0 0 1-1 1 1 0 0 0-1-1h-1.043l1.8789-2.8496a1.0001 1.0001 0 0 0-0.83594-1.5488z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="polyline14" d="m29.9 16.301a1 1 0 0 0-1 1 1 1 0 0 0 1 1h0.13086l-0.96289 1.4453a1.0001 1.0001 0 0 0 0.83203 1.5547h2a1 1 0 0 0 1-1 1 1 0 0 0-1-1h-0.13086l0.96289-1.4453a1.0001 1.0001 0 0 0-0.83203-1.5547z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="circle1" d="m24 1.5c-12.415 0-22.5 10.085-22.5 22.5s10.085 22.5 22.5 22.5 22.5-10.085 22.5-22.5-10.085-22.5-22.5-22.5zm0 2c11.334 0 20.5 9.1663 20.5 20.5s-9.1663 20.5-20.5 20.5-20.5-9.1663-20.5-20.5 9.1663-20.5 20.5-20.5z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="circle2" d="m24 9.5996c-7.941 0-14.4 6.4593-14.4 14.4s6.4593 14.4 14.4 14.4 14.4-6.4593 14.4-14.4-6.4593-14.4-14.4-14.4zm0 2c6.8602 0 12.4 5.5402 12.4 12.4s-5.5402 12.4-12.4 12.4-12.4-5.5402-12.4-12.4 5.5402-12.4 12.4-12.4z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="polyline2" d="m19 21.199a1 1 0 0 0-1 1 1 1 0 0 0 1 1h2.2559l-3.0938 4.7559a1.0001 1.0001 0 0 0 0.83789 1.5449h4.0996a1 1 0 0 0 1-1 1 1 0 0 0-1-1h-2.2559l3.0938-4.7539a1.0001 1.0001 0 0 0-0.83789-1.5469z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="polyline3" d="m25.199 18.301a1 1 0 0 0-1 1 1 1 0 0 0 1 1h1.0449l-1.8789 2.8496a1.0001 1.0001 0 0 0 0.83398 1.5488h2.9004a1 1 0 0 0 1-1 1 1 0 0 0-1-1h-1.043l1.8789-2.8496a1.0001 1.0001 0 0 0-0.83594-1.5488z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="polyline4" d="m29.9 16.301a1 1 0 0 0-1 1 1 1 0 0 0 1 1h0.13086l-0.96289 1.4453a1.0001 1.0001 0 0 0 0.83203 1.5547h2a1 1 0 0 0 1-1 1 1 0 0 0-1-1h-0.13086l0.96289-1.4453a1.0001 1.0001 0 0 0-0.83203-1.5547z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
 </svg>

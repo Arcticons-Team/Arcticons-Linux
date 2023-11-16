@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg18" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs4">
-  <style id="style2">.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style>
+<svg id="svg4" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs1">
+  <style id="style1">.a{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
  </defs>
- <path id="polygon6" d="m6.5684 13.564a1.0001 1.0001 0 0 0-1 1v18.871a1.0001 1.0001 0 0 0 1.5996 0.80078l7.2793-5.4648a1.0001 1.0001 0 0 0 0.39844-0.80078v-13.406a1.0001 1.0001 0 0 0-1-1zm1 2h5.2773v11.908l-5.2773 3.9609z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="polygon8" d="m15.764 13.564a1.0001 1.0001 0 0 0-1 1v12.129a1.0001 1.0001 0 0 0 0.40039 0.80078l4.9121 3.6895a1.0001 1.0001 0 0 0 1.2383-0.0293l2.3633-1.9531a1.0001 1.0001 0 0 0 0.36328-0.76953v-13.867a1.0001 1.0001 0 0 0-1-1zm1 2h5.2773v12.395l-1.3926 1.1523-3.8848-2.918z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="polygon10" d="m24.959 13.564a1.0001 1.0001 0 0 0-1 1v13.867a1.0001 1.0001 0 0 0 0.36328 0.76953l2.3633 1.9531a1.0001 1.0001 0 0 0 1.2383 0.0293l4.9121-3.6895a1.0001 1.0001 0 0 0 0.40039-0.80078v-12.129a1.0001 1.0001 0 0 0-1-1zm1 2h5.2773v10.629l-3.8848 2.918-1.3926-1.1523z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="line12" d="m4.5 13.564a1 1 0 0 0-1 1 1 1 0 0 0 1 1h2.0684a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="polyline14" d="m34.154 13.564a1.0001 1.0001 0 0 0-1 1v13.406a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-8.4629l1.5938 10.656a1.0001 1.0001 0 0 0 1.9785 0.0059l1.7051-10.889v14.154a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-18.871a1.0001 1.0001 0 0 0-1-1h-1.2734a1.0001 1.0001 0 0 0-0.98633 0.8457l-1.4121 9.0039-1.3457-8.998a1.0001 1.0001 0 0 0-0.98828-0.85156z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="line16" d="m41.432 13.564a1 1 0 0 0-1 1 1 1 0 0 0 1 1h2.0684a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="polygon1" d="m6.5684 13.564a1.0001 1.0001 0 0 0-1 1v18.871a1.0001 1.0001 0 0 0 1.5996 0.80078l7.2793-5.4648a1.0001 1.0001 0 0 0 0.39844-0.80078v-13.406a1.0001 1.0001 0 0 0-1-1zm1 2h5.2773v11.908l-5.2773 3.9609z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="polygon2" d="m15.764 13.564a1.0001 1.0001 0 0 0-1 1v12.129a1.0001 1.0001 0 0 0 0.40039 0.80078l4.9121 3.6895a1.0001 1.0001 0 0 0 1.2383-0.0293l2.3633-1.9531a1.0001 1.0001 0 0 0 0.36328-0.76953v-13.867a1.0001 1.0001 0 0 0-1-1zm1 2h5.2773v12.395l-1.3926 1.1523-3.8848-2.918z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="polygon3" d="m24.959 13.564a1.0001 1.0001 0 0 0-1 1v13.867a1.0001 1.0001 0 0 0 0.36328 0.76953l2.3633 1.9531a1.0001 1.0001 0 0 0 1.2383 0.0293l4.9121-3.6895a1.0001 1.0001 0 0 0 0.40039-0.80078v-12.129a1.0001 1.0001 0 0 0-1-1zm1 2h5.2773v10.629l-3.8848 2.918-1.3926-1.1523z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line3" d="m4.5 13.564a1 1 0 0 0-1 1 1 1 0 0 0 1 1h2.0684a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="polyline3" d="m34.154 13.564a1.0001 1.0001 0 0 0-1 1v13.406a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-8.4629l1.5938 10.656a1.0001 1.0001 0 0 0 1.9785 0.0059l1.7051-10.889v14.154a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-18.871a1.0001 1.0001 0 0 0-1-1h-1.2734a1.0001 1.0001 0 0 0-0.98633 0.8457l-1.4121 9.0039-1.3457-8.998a1.0001 1.0001 0 0 0-0.98828-0.85156z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line4" d="m41.432 13.564a1 1 0 0 0-1 1 1 1 0 0 0 1 1h2.0684a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
 </svg>

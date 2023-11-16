@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg10" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs4">
-  <style id="style2">.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style>
+<svg id="svg2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs1">
+  <style id="style1">.a{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
  </defs>
- <path id="path6" d="m6.7656 15.096a1.0001 1.0001 0 0 0-0.99414 1.1016l1.9473 19.207c0.46539 4.5885 4.3469 8.0957 8.959 8.0957h14.645c4.6121-2.8e-5 8.4936-3.5072 8.959-8.0957l1.9473-19.207a1.0001 1.0001 0 0 0-0.99414-1.1016zm1.1074 2h32.254l-1.8359 18.107c-0.36354 3.5844-3.366 6.2969-6.9688 6.2969h-14.645c-3.6028-2.2e-5 -6.6052-2.7125-6.9687-6.2969z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="path8" d="m24 4.5c-4.9193 0-8.9277 4.0085-8.9277 8.9277v2.668a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-2.668c0-3.8384 3.0893-6.9277 6.9277-6.9277s6.9277 3.0893 6.9277 6.9277v2.668a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-2.668c0-4.9193-4.0085-8.9277-8.9277-8.9277z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="path1" d="m6.7656 15.096a1.0001 1.0001 0 0 0-0.99414 1.1016l1.9473 19.207c0.46539 4.5885 4.3469 8.0957 8.959 8.0957h14.645c4.6121-2.8e-5 8.4936-3.5072 8.959-8.0957l1.9473-19.207a1.0001 1.0001 0 0 0-0.99414-1.1016zm1.1074 2h32.254l-1.8359 18.107c-0.36354 3.5844-3.366 6.2969-6.9688 6.2969h-14.645c-3.6028-2.2e-5 -6.6052-2.7125-6.9687-6.2969z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="path2" d="m24 4.5c-4.9193 0-8.9277 4.0085-8.9277 8.9277v2.668a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-2.668c0-3.8384 3.0893-6.9277 6.9277-6.9277s6.9277 3.0893 6.9277 6.9277v2.668a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-2.668c0-4.9193-4.0085-8.9277-8.9277-8.9277z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
 </svg>

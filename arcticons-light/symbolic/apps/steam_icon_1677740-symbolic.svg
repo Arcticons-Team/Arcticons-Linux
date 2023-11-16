@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="a" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs4">
-  <style id="style2">.p{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style>
+ <defs id="defs1">
+  <style id="style1">.p{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
  </defs>
  <g id="b">
   <g id="c" stroke-linecap="round" stroke-linejoin="round">

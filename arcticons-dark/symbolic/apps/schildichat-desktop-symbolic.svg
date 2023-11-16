@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Layer_2" data-name="Layer 2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs4">
-  <style id="style2">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
+ <defs id="defs1">
+  <style id="style1">.cls-1{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
  </defs>
  <g id="g2052" fill="#fff" stroke-linecap="round" stroke-linejoin="round">
   <path id="path1420" d="m14.654 16.303-4.6016 1.6992a1.0001 1.0001 0 0 0-0.49414 0.39648l-0.90039 1.4004a1.0001 1.0001 0 0 0-0.044922 0.07813l-2.2988 4.4004a1.0001 1.0001 0 0 0-0.0625 0.14258l-2.0996 6.1992a1.0001 1.0001 0 0 0-0.00977 0.0332l-0.59961 2a1.0001 1.0001 0 0 0 0.81641 1.2773l2.748 0.39258 2.3496 0.58789a1.0001 1.0001 0 0 0 0.36328 0.02344l3.3008-0.40039a1 1 0 0 0 0.87109-1.1133 1 1 0 0 0-1.1133-0.87305l-3.1152 0.37891-2.2207-0.55664a1.0001 1.0001 0 0 0-0.10156-0.01953l-1.6504-0.23633 0.26172-0.86914 2.0703-6.1094 2.2422-4.291 0.69531-1.082 4.2852-1.584a1 1 0 0 0 0.5918-1.2852 1 1 0 0 0-1.2832-0.58984z" color="#000000" style="-inkscape-stroke:none"/>
