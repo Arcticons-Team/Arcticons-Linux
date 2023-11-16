@@ -339,7 +339,7 @@ organtrail:
   - apps/steam_icon_233740
 osu:
   - apps/osu!
-package_names:
+gwenview:
   - apps/gwenview
 papers_please:
   - apps/steam_icon_239030
@@ -542,3 +542,34 @@ yuzu:
   - apps/yuzu
 zoom:
   - apps/zoom-desktop
+vim:
+  - apps/vim
+forza_motorsport:
+  - apps/steam_icon_1551360
+  - apps/steam_icon_2440510
+  - apps/steam_icon_1293830
+duet:
+  - apps/steam_icon_292600
+risk_of_rain_2:
+  - apps/steam_632360
+ori_and_the_blind_forest:
+  - apps/steam_icon_261570
+  - apps/steam_icon_1057090
+the_stanley_parable:
+  - apps/steam_icon_221910
+  - apps/steam_icon_1703340
+the last campfire:
+  - apps/steam_icon_990630
+outer_wilds:
+  - apps/steam_icon_753640
+xemu:
+  - apps/xemu 
+visual_studio_code:
+  - apps/visual-studio-code
+  - apps/visual-studio-code-insiders
+spot:
+  - apps/spot
+spectacle:
+  - apps/spectacle
+filelight:
+  - apps/filelight
