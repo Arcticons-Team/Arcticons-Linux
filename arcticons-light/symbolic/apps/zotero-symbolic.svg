@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs1">
+  <style id="style1">.cls-1{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <path id="path1" d="m7.5 4.5c-1.645 0-3 1.355-3 3v33c0 1.645 1.355 3 3 3h33c1.645 0 3-1.355 3-3v-33c0-1.645-1.355-3-3-3zm0 2h33c0.56413 0 1 0.43587 1 1v33c0 0.56413-0.43587 1-1 1h-33c-0.56413 0-1-0.43587-1-1v-33c0-0.56413 0.43587-1 1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="polyline1" d="m15 9.5a1 1 0 0 0-1 1 1 1 0 0 0 1 1h16.131l-16.963 25.445a1.0001 1.0001 0 0 0 0.83203 1.5547h18a1 1 0 0 0 1-1 1 1 0 0 0-1-1h-16.131l16.963-25.445a1.0001 1.0001 0 0 0-0.83203-1.5547z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+</svg>

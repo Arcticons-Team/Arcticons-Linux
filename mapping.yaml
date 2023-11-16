@@ -26,6 +26,8 @@ calculator:
   - apps/org.gnome.Calculator
 camera:
   - devices/camera-photo
+celestia:
+  - apps/celestia
 citra:
   - apps/citra
 contacts:
@@ -251,8 +253,14 @@ letter_lowercase_square_b:
   - apps/btop
 letter_lowercase_square_g:
   - apps/steam_icon_4000
+letter_uppercase_circle_p:
+  - apps/polyglot
+letter_uppercase_square_z:
+  - apps/zotero
 libreofficeviewer:
   - categories/applications-office
+librescore:
+  - apps/librescore
 limbo:
   - apps/steam_icon_48000
 linksheet:
@@ -308,8 +316,8 @@ music:
 network_utilities:
   - apps/preferences-system-network
 nextcloud:
-  - apps/nextcloud
   - apps/Nextcloud
+  - apps/nextcloud
 no_mans_sky:
   - apps/steam_icon_275850
 notificationnotes:
@@ -353,6 +361,11 @@ print:
   - devices/cupsprinter
   - devices/printer
   - devices/printer-network
+proton_mail:
+  - panel/protonmail-indicator
+  - panel/protonmail-notification
+proton_vpn:
+  - apps/protonvpn-logo
 qbittorrent_remote:
   - apps/qbittorrent
 quakedroid:
@@ -372,6 +385,8 @@ retroarch:
   - apps/retroarch
 rocket_league_sideswipe:
   - apps/steam_icon_252950
+rss:
+  - apps/akregator
 schildichat:
   - apps/schildichat-desktop
 settings:
@@ -405,9 +420,9 @@ simplenotes:
   - mimetypes/text-x-vnd.abc
   - mimetypes/x-office-document
 simpletexteditor:
+  - apps/QOwnNotes
   - apps/kate
   - apps/kate2
-  - apps/QOwnNotes
 skyrim:
   - apps/steam_icon_365720
   - apps/steam_icon_489830
@@ -442,16 +457,22 @@ sony_headphones:
 spotify:
   - apps/spot
   - apps/spotify-client
+spotube:
+  - apps/spotube-logo
 starfield:
   - apps/steam_icon_1716740
 steam:
   - apps/steam
 steam_deck:
   - actions/steamdeck-gaming-return
+stellariumfree:
+  - apps/stellarium
 stumble_guys:
   - apps/steam_icon_1677740
 superautopets:
   - apps/steam_icon_1714040
+supertux:
+  - apps/supertux
 suspend:
   - apps/system-suspend
 symbol_exclamation_mark:
@@ -463,11 +484,11 @@ telegram:
   - apps/telegram-desktop
   - apps/telegram-desktop-bin
 terminal:
+  - apps/alacritty
   - apps/org.gnome.Terminal
+  - apps/terminal
   - apps/utilities-terminal
   - system/konsole
-  - apps/alacritty
-  - apps/terminal
 terraria:
   - apps/steam_icon_105600
 thunderbird:
@@ -519,26 +540,5 @@ yubico_authenticator:
   - apps/yubioath-desktop
 yuzu:
   - apps/yuzu
-stellariumfree:
-  - apps/stellarium
-celestia:
-  - apps/celestia
-letter_uppercase_circle_p:
-  - apps/polyglot
-supertux:
-  - apps/supertux
-proton_vpn:
-  - apps/protonvpn-logo
-proton_mail:
-  - panel/protonmail-notification
-  - panel/protonmail-indicator
 zoom:
   - apps/zoom-desktop
-rss:
-  - apps/akregator
-librescore:
-  - apps/librescore
-spotube:
-  - apps/spotube-logo
-letter_uppercase_square_z:
-  - apps/zotero
