@@ -87,6 +87,8 @@ dsphoto:
   - emblems/emblem-photos
 duckstation:
   - apps/duckstation
+duet:
+  - apps/steam_icon_292600
 element:
   - apps/element
   - apps/io.element.Element
@@ -103,6 +105,8 @@ figma:
 file:
   - mimetypes/unknown
   - places/folder-documents
+filelight:
+  - apps/filelight
 firefox:
   - apps/firedragon
   - apps/firefox
@@ -193,6 +197,10 @@ folder_shared:
   - places/folder-public
 folder_sun:
   - places/folder-activities
+forza_motorsport:
+  - apps/steam_icon_1293830
+  - apps/steam_icon_1551360
+  - apps/steam_icon_2440510
 galaxystore:
   - apps/org.kde.discover
   - apps/plasmadiscover
@@ -220,6 +228,8 @@ google_chrome:
   - apps/google-chrome
   - apps/google-chrome2
   - apps/google_chrome
+gwenview:
+  - apps/gwenview
 hammer:
   - categories/applications-development
 heart:
@@ -337,10 +347,13 @@ opera_beta:
   - apps/opera-beta
 organtrail:
   - apps/steam_icon_233740
+ori_and_the_blind_forest:
+  - apps/steam_icon_1057090
+  - apps/steam_icon_261570
 osu:
   - apps/osu!
-gwenview:
-  - apps/gwenview
+outer_wilds:
+  - apps/steam_icon_753640
 papers_please:
   - apps/steam_icon_239030
 plagueinc:
@@ -383,6 +396,8 @@ remote_mouse:
   - devices/input-mouse
 retroarch:
   - apps/retroarch
+risk_of_rain_2:
+  - apps/steam_632360
 rocket_league_sideswipe:
   - apps/steam_icon_252950
 rss:
@@ -454,6 +469,10 @@ sonic_the_hedgehog:
   - apps/steam_icon_785260
 sony_headphones:
   - devices/audio-headphones
+spectacle:
+  - apps/spectacle
+spot:
+  - apps/spot
 spotify:
   - apps/spot
   - apps/spotify-client
@@ -491,6 +510,11 @@ terminal:
   - system/konsole
 terraria:
   - apps/steam_icon_105600
+the_last_campfire:
+  - apps/steam_icon_990630
+the_stanley_parable:
+  - apps/steam_icon_1703340
+  - apps/steam_icon_221910
 thunderbird:
   - apps/org.mozilla.Thunderbird
   - apps/thunderbird
@@ -510,6 +534,11 @@ vector:
   - apps/steam_icon_248970
 videocrop:
   - devices/camera-video
+vim:
+  - apps/vim
+visual_studio_code:
+  - apps/visual-studio-code
+  - apps/visual-studio-code-insiders
 vivaldi:
   - apps/vivaldi
   - apps/vivaldi-stable
@@ -527,6 +556,8 @@ wikipedia:
 worldexplorers:
   - apps/steam_icon_544730
   - apps/steam_icon_857680
+xemu:
+  - apps/xemu
 ymuse:
   - apps/com.yktoo.ymuse
 youtube:
@@ -542,34 +573,3 @@ yuzu:
   - apps/yuzu
 zoom:
   - apps/zoom-desktop
-vim:
-  - apps/vim
-forza_motorsport:
-  - apps/steam_icon_1551360
-  - apps/steam_icon_2440510
-  - apps/steam_icon_1293830
-duet:
-  - apps/steam_icon_292600
-risk_of_rain_2:
-  - apps/steam_632360
-ori_and_the_blind_forest:
-  - apps/steam_icon_261570
-  - apps/steam_icon_1057090
-the_stanley_parable:
-  - apps/steam_icon_221910
-  - apps/steam_icon_1703340
-the last campfire:
-  - apps/steam_icon_990630
-outer_wilds:
-  - apps/steam_icon_753640
-xemu:
-  - apps/xemu 
-visual_studio_code:
-  - apps/visual-studio-code
-  - apps/visual-studio-code-insiders
-spot:
-  - apps/spot
-spectacle:
-  - apps/spectacle
-filelight:
-  - apps/filelight

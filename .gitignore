@@ -3,3 +3,4 @@ arcticons/
 **/*.0.svg
 other
 *.7z
+.vscode/
