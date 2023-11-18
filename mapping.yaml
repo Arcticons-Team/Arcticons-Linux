@@ -604,9 +604,26 @@ spectacle:
   - apps/spectacle
 filelight:
   - apps/filelight
+half_life:
+  - apps/steam_icon_50
+  - apps/steam_icon_360
+  - apps/steam_icon_130
+  - apps/steam_icon_1761270
+  - apps/steam_icon_1283930
+  - apps/steam_icon_679990
+  - apps/steam_icon_261980
+  - apps/steam_icon_1908720
+  - apps/steam_icon_658920
+  - apps/steam_icon_1874090
+  - apps/steam_icon_587650
+  - apps/steam_icon_747250
+  - apps/steam_icon_2177760
+  - apps/steam_icon_2177750
+  - apps/steam_icon_466270
+  - apps/steam_icon_1874090
 half_life_alyx:
   - apps/steam_icon_546560
-half_life:
+half_life_1:
   - apps/steam_icon_38
   - apps/steam_icon_70
 half_life_2:
