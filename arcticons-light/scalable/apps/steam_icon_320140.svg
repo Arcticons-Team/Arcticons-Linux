@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="a" viewBox="0 0 48 48">
+  <defs>
+    <style>.b{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <rect class="b" x="9.2037" y="9.5927" width="17.7196" height="8.8598" transform="translate(-4.4595 10.0684) rotate(-27.8644)"/>
+  <path class="b" d="m16.9523,19.6209c-.7046,7.4214.3721,12.0407,3.0283,15.2028,2.4053,2.8643,6.0732,4.5791,10.6055,4.958"/>
+  <path class="b" d="m13.6915,21.3448c-.9919,10.9492,3.9239,18.3157,12.4525,20.6897"/>
+  <path class="b" d="m25.2696,15.2311c-.49,4.93.26,8.43,2.09,11.12,2.09,3.1,7.14,4.9,12.48,5.36"/>
+  <path class="b" d="m36.2196,36.5011c-9.48-1.8-14.71-9.37-14.28-19.51"/>
+  <rect class="b" x="12.3684" y="9.7863" width="10.6576" height="8.8598" transform="translate(-4.5925 9.9196) rotate(-27.8644)"/>
+</svg>

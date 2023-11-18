@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs1">
+  <style id="style1">.b{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <path id="line1" d="m8.4805 4.5a1 1 0 0 0-1 1 1 1 0 0 0 1 1h12.939a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line2" d="m8.4805 41.5a1 1 0 0 0-1 1 1 1 0 0 0 1 1h12.939a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line3" d="m11.066 4.5a1 1 0 0 0-1 1v37a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-37a1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line4" d="m18.834 4.5a1 1 0 0 0-1 1v37a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-37a1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line5" d="m26.58 4.5a1 1 0 0 0-1 1 1 1 0 0 0 1 1h12.939a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line6" d="m26.58 41.5a1 1 0 0 0-1 1 1 1 0 0 0 1 1h12.939a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line7" d="m29.166 4.5a1 1 0 0 0-1 1v37a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-37a1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line8" d="m36.934 4.5a1 1 0 0 0-1 1v37a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-37a1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+</svg>
