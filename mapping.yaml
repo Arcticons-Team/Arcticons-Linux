@@ -573,3 +573,194 @@ yuzu:
   - apps/yuzu
 zoom:
   - apps/zoom-desktop
+vim:
+  - apps/vim
+forza_motorsport:
+  - apps/steam_icon_1551360
+  - apps/steam_icon_2440510
+  - apps/steam_icon_1293830
+duet:
+  - apps/steam_icon_292600
+risk_of_rain_2:
+  - apps/steam_632360
+ori_and_the_blind_forest:
+  - apps/steam_icon_261570
+  - apps/steam_icon_1057090
+the_stanley_parable:
+  - apps/steam_icon_221910
+  - apps/steam_icon_1703340
+the last campfire:
+  - apps/steam_icon_990630
+outer_wilds:
+  - apps/steam_icon_753640
+xemu:
+  - apps/xemu 
+visual_studio_code:
+  - apps/visual-studio-code
+  - apps/visual-studio-code-insiders
+spot:
+  - apps/spot
+spectacle:
+  - apps/spectacle
+filelight:
+  - apps/filelight
+half_life:
+  - apps/steam_icon_50
+  - apps/steam_icon_360
+  - apps/steam_icon_130
+  - apps/steam_icon_1761270
+  - apps/steam_icon_1283930
+  - apps/steam_icon_679990
+  - apps/steam_icon_261980
+  - apps/steam_icon_1908720
+  - apps/steam_icon_658920
+  - apps/steam_icon_1874090
+  - apps/steam_icon_587650
+  - apps/steam_icon_747250
+  - apps/steam_icon_2177760
+  - apps/steam_icon_2177750
+  - apps/steam_icon_466270
+  - apps/steam_icon_1874090
+half_life_alyx:
+  - apps/steam_icon_546560
+half_life_1:
+  - apps/steam_icon_38
+  - apps/steam_icon_70
+half_life_2:
+  - apps/steam_icon_220
+  - apps/steam_icon_380
+  - apps/steam_icon_420
+  - apps/steam_icon_290930
+garden_story:
+  - apps/steam_icon_1062140
+hue:
+  - apps/steam_icon_383270
+celeste:
+  - apps/steam_icon_504230
+chicory_a_colorful_tale:
+  - apps/steam_icon_1123450
+sokpop:
+  - apps/steam_icon_2618090
+  - apps/steam_icon_2535670
+  - apps/steam_icon_2333020
+  - apps/steam_icon_2295700
+  - apps/steam_icon_2222200
+  - apps/steam_icon_2145080
+  - apps/steam_icon_2124770
+  - apps/steam_icon_2051440
+  - apps/steam_icon_1975670
+  - apps/steam_icon_2055270
+  - apps/steam_icon_1927380
+  - apps/steam_icon_1861980
+  - apps/steam_icon_1872790
+  - apps/steam_icon_1845370
+  - apps/steam_icon_1740070
+  - apps/steam_icon_1766200
+  - apps/steam_icon_1695480
+  - apps/steam_icon_1711690
+  - apps/steam_icon_1669050
+  - apps/steam_icon_1654830
+  - apps/steam_icon_1577750
+  - apps/steam_icon_1542170
+  - apps/steam_icon_1611640
+  - apps/steam_icon_1567060
+  - apps/steam_icon_1545780
+  - apps/steam_icon_1510620
+  - apps/steam_icon_1519770
+  - apps/steam_icon_1515040
+  - apps/steam_icon_1485600
+  - apps/steam_icon_1465120
+  - apps/steam_icon_1459870
+  - apps/steam_icon_1442390
+  - apps/steam_icon_1446000
+  - apps/steam_icon_1392190
+  - apps/steam_icon_1413630
+  - apps/steam_icon_1413350
+  - apps/steam_icon_1390010
+  - apps/steam_icon_1368060
+  - apps/steam_icon_1362430
+  - apps/steam_icon_1356480
+  - apps/steam_icon_1338130
+  - apps/steam_icon_1310690
+  - apps/steam_icon_1290790
+  - apps/steam_icon_1290110
+  - apps/steam_icon_1271070
+  - apps/steam_icon_1265850
+  - apps/steam_icon_1263820
+  - apps/steam_icon_1229250
+  - apps/steam_icon_1234890
+  - apps/steam_icon_1232140
+  - apps/steam_icon_1228680
+  - apps/steam_icon_1218790
+  - apps/steam_icon_1218420
+  - apps/steam_icon_1212190
+  - apps/steam_icon_1212100
+  - apps/steam_icon_1207480
+  - apps/steam_icon_1207400
+  - apps/steam_icon_1218920
+  - apps/steam_icon_1215410
+  - apps/steam_icon_1211540
+  - apps/steam_icon_1206260
+  - apps/steam_icon_1218890
+  - apps/steam_icon_1214630
+  - apps/steam_icon_1206810
+  - apps/steam_icon_1134630
+  - apps/steam_icon_1168420
+  - apps/steam_icon_1210010
+  - apps/steam_icon_1214600
+  - apps/steam_icon_1206230
+  - apps/steam_icon_1167850
+  - apps/steam_icon_1214450
+  - apps/steam_icon_1209440
+  - apps/steam_icon_1213600
+  - apps/steam_icon_1206720
+  - apps/steam_icon_1167710
+  - apps/steam_icon_1206140
+  - apps/steam_icon_1163570
+  - apps/steam_icon_1212930
+  - apps/steam_icon_1163300
+  - apps/steam_icon_1135190
+  - apps/steam_icon_1135210
+  - apps/steam_icon_1212170
+  - apps/steam_icon_1135200
+  - apps/steam_icon_1135170
+  - apps/steam_icon_1135180
+  - apps/steam_icon_1135150
+  - apps/steam_icon_1135160
+  - apps/steam_icon_1135140
+  - apps/steam_icon_1135130
+  - apps/steam_icon_1135120
+  - apps/steam_icon_1135110
+  - apps/steam_icon_1135100
+  - apps/steam_icon_1135090
+  - apps/steam_icon_1135070
+  - apps/steam_icon_1135060
+  - apps/steam_icon_1097090
+  - apps/steam_icon_1135050
+  - apps/steam_icon_1135040
+  - apps/steam_icon_1135030
+  - apps/steam_icon_1119800
+  - apps/steam_icon_1003730
+  - apps/steam_icon_932850
+  - apps/steam_icon_561190
+absolute_drift:
+  - apps/steam_icon_320140
+aka:
+  - apps/steam_icon_1591450
+bonfire_peaks:
+  - apps/steam_icon_1147890
+broken_age:
+  - apps/steam_icon_232790
+creaks:
+  - apps/steam_icon_956030
+the_case_of_the_golden_idol:
+  - apps/steam_icon_1677770
+the_talos_principle:
+  - apps/steam_icon_257510
+  - apps/steam_icon_552440
+the_talos_principle_2:
+  - apps/steam_icon_835960
+wurdweb:
+  - apps/steam_icon_2185880
+stackland:
+  - apps/steam_icon_1948280
