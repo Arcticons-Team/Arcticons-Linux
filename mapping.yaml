@@ -695,6 +695,7 @@ videocrop:
 vim:
   - apps/vim
 visual_studio_code:
+  - apps/vscode
   - apps/visual-studio-code
   - apps/visual-studio-code-insiders
 vivaldi:
