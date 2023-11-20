@@ -734,3 +734,18 @@ yuzu:
   - apps/yuzu
 zoom:
   - apps/zoom-desktop
+satisfactory:
+  - apps/steam_icon_526870
+the_outer_worlds:
+  - apps/steam_icon_578650
+baldurs_gate_3:
+  - apps/steam_icon_1086940
+inkscape:
+  - apps/inkscape
+  - apps/inkscape-logo 
+android_studio:
+  - apps/androidstudio
+  - apps/android-studio
+  - apps/android-studio-beta
+  - apps/android-studio-canary
+  - apps/android-studio-preview
