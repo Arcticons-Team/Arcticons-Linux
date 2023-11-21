@@ -74,12 +74,6 @@ else
 	echo "Inkscape not found, not creating symbolic icons"
 fi
 
-# check the mapping.yaml file to be in the right format
-# - no whitespace in icon names
-# - root is object
-# - every value in the root object is list of strings
-yq -rf validate_mapping.jq mapping.yaml || exit 1
-
 # parse the command line options
 destination=./arcticons
 archive=false
@@ -128,11 +122,22 @@ elif [ -e "$destination" ]; then
 	echo "Not deleting existing destination '$destination'. Trying to update it instead."
 fi
 
-# parse the yaml
-mapfile -d '' kvpairs < <(yq -cM --raw-output0 'to_entries[]' mapping.yaml)
-for kvpair in "${kvpairs[@]}"; do
-	src=$(jq -r '.key' <<<"$kvpair")
-	mapfile -d '' dests < <(jq --raw-output0 '.value[]' <<<"$kvpair")
+if [[ $(yq --version) == *"(https://github.com/mikefarah/yq/)"* ]]; then
+	# parse the yaml
+	json_data=$(yq -o=j -I 0 -M mapping.yaml)
+else
+	# check the mapping.yaml file to be in the right format
+	# - no whitespace in icon names
+	# - root is object
+	# - every value in the root object is list of strings
+	yq -rf validate_mapping.jq mapping.yaml || exit 1
+	# parse the yaml
+	json_data=$(yq -cM . mapping.yaml)
+fi
+
+echo "$json_data" | jq -c 'to_entries[]' | while read -r entry; do
+	src=$(echo "$entry" | jq -r '.key')
+	mapfile -t dests < <(echo "$entry" | jq -r '.value[]')
 	dest=${dests[0]}
 	printf '\n%s\n' "$c$src$r: ${dests[*]}"
 

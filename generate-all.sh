@@ -39,7 +39,12 @@ if ! type yq >/dev/null || ! type jq >/dev/null; then
 fi
 
 # sort the mapping.yaml file with yq
-yq -Syi '.[] |= sort' mapping.yaml
+if [[ $(yq --version) == *"(https://github.com/mikefarah/yq/)"* ]]; then
+	yq -i -P '.[] |= sort' mapping.yaml
+	yq -i -P 'sort_keys(..)' mapping.yaml
+else
+	yq -Syi '.[] |= sort' mapping.yaml
+fi
 
 # parse command line arguments
 regenerate=false
