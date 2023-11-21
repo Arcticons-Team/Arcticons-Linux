@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <defs>
+    <style>.c{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <g id="a">
+    <path class="c" d="m39.5,15.5h-9c-1.1046,0-2-.8954-2-2V4.5H10.5c-1.1046,0-2,.8954-2,2v35c0,1.1046.8954,2,2,2h27c1.1046,0,2-.8954,2-2V15.5Z"/>
+    <line class="c" x1="28.5" y1="4.5" x2="39.5" y2="15.5"/>
+  </g>
+  <g id="b">
+    <line class="c" x1="14.5" y1="38.5" x2="33.5" y2="33.488"/>
+    <line class="c" x1="14.5" y1="32.006" x2="33.5" y2="26.994"/>
+    <line class="c" x1="14.5" y1="25.512" x2="33.5" y2="20.5"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs1">
+  <style id="style1">.c{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <g id="a" stroke-linecap="round" stroke-linejoin="round">
+  <path id="path1" d="m10.5 3.5c-1.645 0-3 1.355-3 3v35c0 1.645 1.355 3 3 3h27c1.645 0 3-1.355 3-3v-26a1.0001 1.0001 0 0 0-1-1h-9c-0.56419 0-1-0.43581-1-1v-9a1.0001 1.0001 0 0 0-1-1zm0 2h17v8c0 1.645 1.355 3 3 3h8v25c0 0.56419-0.43581 1-1 1h-27c-0.56419 0-1-0.43581-1-1v-35c0-0.56419 0.43581-1 1-1z" color="#000000" style="-inkscape-stroke:none"/>
+  <path id="line1" d="m27.793 3.793a1 1 0 0 0 0 1.4141l11 11a1 1 0 0 0 1.4141 0 1 1 0 0 0 0-1.4141l-11-11a1 1 0 0 0-1.4141 0z" color="#000000" style="-inkscape-stroke:none"/>
+ </g>
+ <g id="b" stroke-linecap="round" stroke-linejoin="round">
+  <path id="circle1" d="m21.242 30.986c-2.2577 0-4.1094 1.8517-4.1094 4.1094s1.8517 4.1094 4.1094 4.1094c2.2577 0 4.1094-1.8517 4.1094-4.1094s-1.8517-4.1094-4.1094-4.1094zm0 2c1.1768 0 2.1094 0.9326 2.1094 2.1094 0 1.1768-0.9326 2.1094-2.1094 2.1094-1.1768 0-2.1094-0.9326-2.1094-2.1094 0-1.1768 0.9326-2.1094 2.1094-2.1094z" color="#000000" style="-inkscape-stroke:none"/>
+  <path id="rect1" d="m24.352 19.795a1.0001 1.0001 0 0 0-1 1v3.7422a1.0001 1.0001 0 0 0 1 1h5.5156a1.0001 1.0001 0 0 0 1-1v-3.7422a1.0001 1.0001 0 0 0-1-1zm1 2h3.5156v1.7422h-3.5156z" color="#000000" style="-inkscape-stroke:none"/>
+  <path id="line2" d="m24.352 23.537a1 1 0 0 0-1 1v10.559a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-10.559a1 1 0 0 0-1-1z" color="#000000" style="-inkscape-stroke:none"/>
+ </g>
+</svg>
