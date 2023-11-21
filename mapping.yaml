@@ -127,6 +127,7 @@ figma:
 file:
   - mimetypes/unknown
   - places/folder-documents
+  - preferences/preferences-document
 file_browser:
   - mimetypes/gnome-mime-application-x-referencer
 file_code:
@@ -356,6 +357,7 @@ games:
   - categories/applications-games
   - devices/input-gamepad
   - devices/input-gaming
+  - preferences/preferences-desktop-gaming
 garden_story:
   - apps/steam_icon_1062140
 geometry_dash:
@@ -418,6 +420,8 @@ jellydrift:
 kde_connect:
   - apps/kdeconnect
   - status/kdeconnect-tray
+  - preferences/preferences-kde-connect
+  - preferences/kdeconnect
 keepassdroid:
   - apps/keepass
 keyboard:
@@ -545,6 +549,7 @@ print:
   - devices/cupsprinter
   - devices/printer
   - devices/printer-network
+  - preferences/preferences-devices-printer
 proton_mail:
   - panel/protonmail-indicator
   - panel/protonmail-notification
@@ -864,3 +869,56 @@ yuzu:
   - apps/yuzu
 zoom:
   - apps/zoom-desktop
+thunderbolt:
+  - preferences/preferences-desktop-thunderbolt
+notifications:
+  - preferences/preferences-desktop-notification-bell
+removable_storage:
+  - preferences/device-notifier
+  - preferences/drive-removable-media
+monitor:
+  - preferences/preferences-desktop-display
+  - preferences/preferences-desktop-wallpaper
+gamma:
+  - preferences/preferences-desktop-display-color
+plasma_search:
+  - preferences/plasma-search
+desktop_workspace:
+  - preferences/preferences-desktop
+feedback:
+  - preferences/preferences-desktop-feedback
+desktop_effects:
+  - preferences/preferences-desktop-effects
+activities:
+  - preferences/preferences-desktop-activities
+favorites:
+  - preferences/preferences-desktop-default-applications
+compass:
+  - preferences/preferences-desktop-navigation
+appearance:
+  - preferences/preferences-desktop-theme-global
+  - preferences/preferences-desktop-theme-applications
+regional_settings:
+  - preferences/preferences-desktop-locale
+file_associations:
+  - preferences/preferences-desktop-filetype-association
+other:
+  - preferences/preferences-other
+shield:
+  - preferences/preferences-security
+  - preferences/preferences-security-apparmor
+  - preferences/preferences-security-firewall
+mouse:
+  - preferences/preferences-desktop-mouse
+a:
+  - preferences/
+a:
+  - preferences/
+a:
+  - preferences/
+a:
+  - preferences/
+a:
+  - preferences/
+a:
+  - preferences/
