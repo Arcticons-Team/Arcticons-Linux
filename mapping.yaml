@@ -749,3 +749,118 @@ android_studio:
   - apps/android-studio-beta
   - apps/android-studio-canary
   - apps/android-studio-preview
+file_presentation:
+  - mimetypes/x-office-presentation
+file_word:
+  - mimetypes/x-office-document
+file_sheets:
+  - mimetypes/x-office-spreadsheet
+file_xoj:
+  - mimetypes/xoj
+  - mimetypes/xopt
+file_stylus:
+  - mimetypes/text-x-stylus
+file_unit:
+  - mimetypes/text-x-systemd-unit
+file_ttexmacs:
+  - mimetypes/text-x-texmacs
+file_wxmathml:
+  - mimetypes/text-x-wxmathml
+file_vue:
+  - mimetypes/text-x-vue
+file_code_2:
+  - mimetypes/text-x-vbscript
+  - mimetypes/text-vnd.wap.wmlscript
+file_video:
+  - mimetypes/text-x-xges
+  - mimetypes/playlist
+  - mimetypes/video
+  - mimetypes/video-mlt-playlist
+  - mimetypes/video-mp2t
+  - mimetypes/video-mp4
+  - mimetypes/video-vivo
+  - mimetypes/video-vnd.rn-realvideo
+  - mimetypes/video-wavelet
+  - mimetypes/video-webm
+  - mimetypes/video-x-anim
+  - mimetypes/video-x-flic
+  - mimetypes/video-x-flv
+  - mimetypes/video-x-generic
+  - mimetypes/video-x-google-vlc-plugin
+  - mimetypes/video-x-javafx
+  - mimetypes/video-x-matroska
+  - mimetypes/video-x-mng
+  - mimetypes/video-x-ms-asf
+  - mimetypes/video-x-msvideo
+  - mimetypes/video-x-ms-wmp
+  - mimetypes/video-x-ms-wmv
+  - mimetypes/video-x-ogm+ogg
+  - mimetypes/video-x-theora+ogg
+  - mimetypes/video-x-wmv
+file_unknown:
+  - mimetypes/unknown
+file_kotlin:
+  - mimetypes/text-x-kotlin
+file_justfile:
+  - mimetypes/text-x-justfile
+file_text:
+  - mimetypes/text-x-modelica
+  - mimetypes/text-vnd.trolltech.linguist
+  - mimetypes/text-x-generic
+  - mimetypes/djvu
+file_settings:
+  - mimetypes/text-x-makefile
+file_scala:
+  - mimetypes/text-x-scala
+file_music:
+  - mimetypes/com.github.torikulhabib.mindi.ogg
+  - mimetypes/com.github.torikulhabib.mindi.wav
+  - mimetypes/com.github.torikulhabib.mindi.wma
+  - mimetypes/audio-ac3
+  - mimetypes/audio-flac
+  - mimetypes/audio-m4a
+  - mimetypes/audio-midi
+  - mimetypes/audio-mp2
+  - mimetypes/audio-mp3
+  - mimetypes/audio-mp4
+  - mimetypes/audio-mpeg
+  - mimetypes/audio-prs.sid
+  - mimetypes/audio-shn
+  - mimetypes/audio-vn.rn-realmedia
+  - mimetypes/audio-vnd.rn-realvideo
+  - mimetypes/audio-vnd.wave
+  - mimetypes/audio-x-adpcm
+  - mimetypes/audio-x-aiff
+  - mimetypes/audio-x-caf
+  - mimetypes/audio-x-flac
+  - mimetypes/audio-x-flac+ogg
+  - mimetypes/audio-x-generic
+  - mimetypes/audio-x-m4a
+  - mimetypes/audio-x-monkey
+  - mimetypes/audio-x-monkeys-audio
+  - mimetypes/audio-x-mp2
+  - mimetypes/audio-x-mp3-playlist
+  - mimetypes/audio-x-mpeg
+  - mimetypes/audio-x-mpegurl
+  - mimetypes/audio-x-ms-wax
+  - mimetypes/audio-x-ms-wma
+  - mimetypes/audio-x-ofr
+  - mimetypes/audio-x-pn-realaudio
+  - mimetypes/audio-x-scpls
+  - mimetypes/audio-x-speex+ogg
+  - mimetypes/audio-x-tta
+  - mimetypes/audio-x-vorbis+ogg
+  - mimetypes/audio-x-wav
+  - mimetypes/com.github.torikulhabib.mindi.aac
+  - mimetypes/com.github.torikulhabib.mindi.ac3
+  - mimetypes/com.github.torikulhabib.mindi.aiff
+  - mimetypes/com.github.torikulhabib.mindi.flac
+  - mimetypes/com.github.torikulhabib.mindi.mp3
+file_mail:
+  - mimetypes/message-rfc822
+file_folder:
+  - mimetypes/inode-mount-point
+file_browser:
+  - mimetypes/gnome-mime-application-x-referencer
+file_code:
+  - mimetypes/application-xml
