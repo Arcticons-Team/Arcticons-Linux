@@ -106,6 +106,7 @@ dropbox:
   - status/dropboxstatus-logo
   - status/dropboxstatus-x
 dsphoto:
+  - apps/org.gnome.gThumb
   - emblems/emblem-photos
 duckstation:
   - apps/duckstation
@@ -367,6 +368,12 @@ google_chrome:
   - apps/google-chrome
   - apps/google-chrome2
   - apps/google_chrome
+google_docs:
+  - apps/libreoffice-writer
+google_sheets:
+  - apps/libreoffice-calc
+google_slides:
+  - apps/libreoffice-impress
 gwenview:
   - apps/gwenview
 half_life:
@@ -439,6 +446,8 @@ letter_uppercase_circle_p:
 letter_uppercase_square_z:
   - apps/zotero
 libreofficeviewer:
+  - apps/libreoffice-main
+  - apps/libreoffice-startcenter
   - categories/applications-office
 librescore:
   - apps/librescore
@@ -493,6 +502,7 @@ monument_valley:
 musescore:
   - apps/mscore
 music:
+  - apps/org.gnome.Music
   - emblems/emblem-music
 network_utilities:
   - apps/preferences-system-network
@@ -595,9 +605,13 @@ signal:
   - apps/signal-desktop
 sim:
   - devices/auth-sim
+simple_calendar:
+  - apps/org.gnome.Calendar
+  - apps/org.gnome.Calendar.Devel
 simplenotes:
   - apps/accessories-text-editor
   - apps/kwrite
+  - apps/org.gnome.TextEditor
   - apps/org.gnome.gedit
   - mimetypes/application-application-rtf
   - mimetypes/application-application-sxw
@@ -611,6 +625,8 @@ simpletexteditor:
   - apps/QOwnNotes
   - apps/kate
   - apps/kate2
+simpleweather:
+  - apps/org.gnome.Weather
 skyrim:
   - apps/steam_icon_365720
   - apps/steam_icon_489830
