@@ -75,6 +75,7 @@ dictionary:
 discord:
   - apps/com.discordapp.Discord
   - apps/discord
+  - apps/dev.vencord.Vesktop
 documents:
   - apps/okular
   - apps/xreader
