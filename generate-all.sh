@@ -26,6 +26,11 @@ if ! type inkscape || ! type scour; then
 	exit 1
 fi
 
+if ! type xmlstarlet; then
+	echo "xmlstarlet not found!"
+	exit 1
+fi
+
 # Check if ./generate-manual.sh exists, if not abort
 if [ ! -e ./generate-manual.sh ]; then
 	echo "Script ./generate-manual.sh not found!"

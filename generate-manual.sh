@@ -62,8 +62,8 @@ SCRIPTPATH="$(
 cd "$SCRIPTPATH"
 
 # look for required programs
-if ! type yq >/dev/null || ! type jq >/dev/null; then
-	echo "error: yq and jq need to be installed for yaml parsing"
+if ! type yq >/dev/null || ! type jq >/dev/null || ! type xmlstarlet >/dev/null; then
+	echo "error: yq, jq and xmlstarlet need to be installed!"
 	exit 1
 fi
 
