@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs1">
+  <style id="style1">.b{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <path id="path1" d="m24 1.5c-12.415 0-22.5 10.085-22.5 22.5s10.085 22.5 22.5 22.5c12.412-0.00575 22.494-10.088 22.5-22.5 0-12.415-10.085-22.5-22.5-22.5zm0 2c11.334 0 20.5 9.1664 20.5 20.5-0.00525 11.332-9.1683 20.495-20.5 20.5-11.334 0-20.5-9.1664-20.5-20.5s9.1664-20.5 20.5-20.5z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line1" d="m35.861 10.611-12.301 8.9609a1 1 0 0 0-0.21875 1.3965 1 1 0 0 0 1.3965 0.21875l12.301-8.959a1 1 0 0 0 0.21875-1.3965 1 1 0 0 0-1.3965-0.2207z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line2" d="m37.039 10.611a1 1 0 0 0-1.3984 0.2207l-8.959 12.309a1 1 0 0 0 0.2207 1.3984 1 1 0 0 0 1.3965-0.2207l8.959-12.311a1 1 0 0 0-0.21875-1.3965z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="circle2" d="m24 19.381c-2.4734 0-4.5 2.0266-4.5 4.5 0 2.4734 2.0266 4.5 4.5 4.5s4.5-2.0266 4.5-4.5c0-2.4734-2.0266-4.5-4.5-4.5zm0 2c1.3926 0 2.5 1.1074 2.5 2.5s-1.1074 2.5-2.5 2.5-2.5-1.1074-2.5-2.5 1.1074-2.5 2.5-2.5z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line3" d="m23.252 26.572-12.301 8.959a1 1 0 0 0-0.21875 1.3984 1 1 0 0 0 1.3965 0.21875l12.301-8.9609a1 1 0 0 0 0.21875-1.3965 1 1 0 0 0-1.3965-0.21875z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line4" d="m20.346 23.053a1 1 0 0 0-0.6543 0.39844l-8.959 12.301a1 1 0 0 0 0.21875 1.3965 1 1 0 0 0 1.3965-0.21875l8.9609-12.301a1 1 0 0 0-0.2207-1.3965 1 1 0 0 0-0.74219-0.17969z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+</svg>

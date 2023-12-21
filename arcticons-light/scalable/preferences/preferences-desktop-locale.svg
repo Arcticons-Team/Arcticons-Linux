@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="a" viewBox="0 0 48 48">
+  <defs>
+    <style>.b{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <path class="b" d="m4.5,12.3v20c0,1.6569,1.3431,3,3,3h23.1s8.26,7.4,8.26,7.4v-7.4h1.64c1.6569,0,3-1.3431,3-3V12.3c0-1.6569-1.3431-3-3-3H7.5c-1.6569,0-3,1.3431-3,3Z"/>
+  <rect class="b" x="19.5981" y="13.3" width="19.9019" height="12.7"/>
+</svg>
