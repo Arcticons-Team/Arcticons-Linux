@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs1">
-  <style id="style1">.a{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
- </defs>
- <path id="rect1" transform="translate(25.25 -6.9243) rotate(45)" d="m20.982 8.5781c-6.4982 0-11.76 5.2615-11.76 11.76v13.357c0 6.4982 5.2615 11.76 11.76 11.76 6.4982 0 11.762-5.2615 11.762-11.76v-13.357c0-6.4982-5.2635-11.76-11.762-11.76zm0 2c5.4248 0 9.7617 4.3349 9.7617 9.7598v13.357c0 5.4248-4.3369 9.7598-9.7617 9.7598s-9.7598-4.3349-9.7598-9.7598v-13.357c0-5.4248 4.3349-9.7598 9.7598-9.7598z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="circle1" d="m25.609 19.471c-1.6007 0-2.9199 1.3193-2.9199 2.9199s1.3193 2.9199 2.9199 2.9199 2.9199-1.3193 2.9199-2.9199-1.3193-2.9199-2.9199-2.9199zm0 2c0.51978 0 0.91992 0.40014 0.91992 0.91992s-0.40014 0.91992-0.91992 0.91992-0.91992-0.40014-0.91992-0.91992 0.40014-0.91992 0.91992-0.91992z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="path1" d="m33.082 8.3691a1 1 0 0 0-0.53906 0.54297 1 1 0 0 0 0.54102 1.3066c2.1417 0.88491 3.8403 2.5884 4.7148 4.7344a1 1 0 0 0 1.3027 0.54883 1 1 0 0 0 0.54883-1.3027c-1.0762-2.6407-3.1673-4.7412-5.8027-5.8301a1 1 0 0 0-0.76562 0z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="path2" d="m35.41 4.5762a1 1 0 0 0-1.3066 0.54102 1 1 0 0 0 0.54297 1.3066c3.1394 1.2972 5.6325 3.7903 6.9297 6.9297a1 1 0 0 0 1.3066 0.54297 1 1 0 0 0 0.54102-1.3066c-1.4999-3.63-4.3837-6.5138-8.0137-8.0137z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
-</svg>
+../apps/org.gnome.Settings-mouse-symbolic.svg

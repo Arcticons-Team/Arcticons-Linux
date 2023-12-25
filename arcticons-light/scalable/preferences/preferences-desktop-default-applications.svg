@@ -1,7 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" id="a" viewBox="0 0 48 48">
-  <defs>
-    <style>.b{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
-  </defs>
-  <path class="b" d="m25.9021,6.8567l3.6557,11.2511h11.8301c1.9374,0,2.743,2.4792,1.1756,3.618l-9.5708,6.9536,3.6557,11.2511c.5987,1.8426-1.5103,3.3749-3.0777,2.2361l-9.5708-6.9536-9.5708,6.9536c-1.5674,1.1388-3.6764-.3934-3.0777-2.2361l3.6557-11.2511-9.5708-6.9536c-1.5674-1.1388-.7619-3.618,1.1756-3.618h11.8301l3.6557-11.2511c.5987-1.8426,3.2055-1.8426,3.8042,0Z"/>
-</svg>
+../apps/org.gnome.Settings-default-apps.svg

@@ -1,5 +1,9 @@
+about:
+  - apps/org.gnome.Settings-about
 absolute_drift:
   - apps/steam_icon_320140
+accounts:
+  - apps/org.gnome.Settings-users
 activities:
   - preferences/preferences-desktop-activities
 aka:
@@ -16,6 +20,7 @@ android_studio:
   - apps/android-studio-preview
   - apps/androidstudio
 appearance:
+  - apps/org.gnome.Settings-appearance
   - preferences/preferences-desktop-theme-applications
   - preferences/preferences-desktop-theme-global
 arduinodroid:
@@ -33,6 +38,7 @@ bloonstd6:
 bluetooth:
   - apps/blueman
   - apps/bluetooth
+  - apps/org.gnome.Settings-bluetooth
   - devices/bluetooth
 bonfire_peaks:
   - apps/steam_icon_1147890
@@ -71,6 +77,8 @@ cube_escape:
   - apps/steam_icon_909080
 cult_of_the_lamb:
   - apps/steam_icon_1313140
+date_and_time:
+  - apps/org.gnome.Settings-time
 desktop_effects:
   - preferences/preferences-desktop-effects
 desktop_workspace:
@@ -135,6 +143,7 @@ falloutshelter:
   - apps/steam_icon_22380
   - apps/steam_icon_377160
 favorites:
+  - apps/org.gnome.Settings-default-apps
   - preferences/preferences-desktop-default-applications
 feedback:
   - preferences/preferences-desktop-feedback
@@ -452,6 +461,7 @@ kde_connect:
 keepassdroid:
   - apps/keepass
 keyboard:
+  - apps/org.gnome.Settings-keyboard
   - devices/input-keyboard
 keylimba:
   - apps/emoji-selector
@@ -518,6 +528,7 @@ minimetro:
 minimize:
   - actions/window-minimize
 monitor:
+  - apps/org.gnome.Settings-display
   - preferences/preferences-desktop-display
   - preferences/preferences-desktop-wallpaper
 monopoly:
@@ -527,6 +538,8 @@ monopoly:
 monument_valley:
   - apps/steam_icon_1927720
 mouse:
+  - apps/org.gnome.Settings-mouse
+  - devices/input-mouse
   - preferences/preferences-desktop-mouse
 musescore:
   - apps/mscore
@@ -534,6 +547,7 @@ music:
   - apps/org.gnome.Music
   - emblems/emblem-music
 network_utilities:
+  - apps/org.gnome.Settings-network
   - apps/preferences-system-network
 nextcloud:
   - apps/Nextcloud
@@ -543,6 +557,7 @@ no_mans_sky:
 notificationnotes:
   - categories/applications-graphics
 notifications:
+  - apps/org.gnome.Settings-notifications
   - preferences/preferences-desktop-notification-bell
 nuclear:
   - apps/steam_icon_38400
@@ -586,6 +601,7 @@ ppsspp:
   - apps/ppsspp
 print:
   - actions/document-print
+  - apps/org.gnome.Settings-printers
   - devices/cups
   - devices/cupsprinter
   - devices/printer
@@ -611,9 +627,8 @@ reboot:
   - apps/system-reboot
 regional_settings:
   - preferences/preferences-desktop-locale
-remote_mouse:
-  - devices/input-mouse
 removable_storage:
+  - apps/org.gnome.Settings-removable-media
   - preferences/device-notifier
   - preferences/drive-removable-media
 retroarch:
@@ -628,6 +643,8 @@ satisfactory:
   - apps/steam_icon_526870
 schildichat:
   - apps/schildichat-desktop
+search:
+  - apps/org.gnome.Settings-search
 settings:
   - apps/ibus-engine
   - apps/ibus-setup
