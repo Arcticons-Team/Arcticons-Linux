@@ -32,7 +32,7 @@ The `mappings.txt` contains the mappings of the arcticons in the format `<Arctic
 
 When one Arcticons icon is used for multiple icons in the freedesktop theme, the paths are separated by a `:`.
 
-To contribute, you need to look the path of the priginal icons. Application icons are in `/usr/share/icons/hicolor/<icon size>/apps`, while system icons are covered by the other icon themes. (In GNOME, the default is Adwaita; For KDE Plasma, it's Breeze) The icons are either in the `<icon size>/<icon category>`, or in `<icon category>/<icon size>` subfolders.
+To contribute, you need to look the path of the original icons. Application icons are in `/usr/share/icons/hicolor/<icon size>/apps`, while system icons are covered by the other icon themes. (In GNOME, the default is Adwaita; For KDE Plasma, it's Breeze) The icons are either in the `<icon size>/<icon category>`, or in `<icon category>/<icon size>` subfolders.
 
 For example, the icon for the Steam application is in `/usr/share/icons/hicolor/<icon size>/apps/steam.png`, while the system icon for Wi-Fi is in `/usr/share/icons/Adwaita/symbolic/devices/network-wireless-symbolic.svg`. The `-symbolic` part of the file name specifies, that the icon is theme-aware, but because only the fill color and not the stroke color is theme-aware, Arcticons can't take advantage of this.
 
