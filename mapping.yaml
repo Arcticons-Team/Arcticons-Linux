@@ -450,6 +450,7 @@ inbento:
 inkscape:
   - apps/inkscape
   - apps/inkscape-logo
+  - apps/org.inkscape.Inkscape
 iriunwebcam:
   - devices/camera-web
 jellydrift:
