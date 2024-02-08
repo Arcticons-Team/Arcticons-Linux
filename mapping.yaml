@@ -284,7 +284,6 @@ firefox:
   - apps/firefox-original
   - apps/firefox-trunk
   - apps/install-firefox
-  - apps/librewolf
 firefox_beta:
   - apps/firefox-beta
   - apps/firefox-beta-bin
@@ -485,6 +484,8 @@ libreofficeviewer:
   - categories/applications-office
 librescore:
   - apps/librescore
+librewolf:
+  - apps/librewolf
 limbo:
   - apps/steam_icon_48000
 linksheet:
