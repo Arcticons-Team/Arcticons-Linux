@@ -462,6 +462,8 @@ kde_connect:
   - status/kdeconnect-tray
 keepassdroid:
   - apps/keepass
+keepassxc:
+  - apps/keepassxc
 keyboard:
   - apps/org.gnome.Settings-keyboard
   - devices/input-keyboard
