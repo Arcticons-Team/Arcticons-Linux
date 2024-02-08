@@ -867,6 +867,7 @@ telegram:
   - apps/telegram-desktop-bin
 terminal:
   - apps/alacritty
+  - apps/Alacritty
   - apps/org.gnome.Terminal
   - apps/terminal
   - apps/utilities-terminal
