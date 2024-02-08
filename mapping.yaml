@@ -533,6 +533,8 @@ minimetro:
   - apps/steam_icon_287980
 minimize:
   - actions/window-minimize
+monero-gui:
+  - apps/monero-gui
 monitor:
   - apps/org.gnome.Settings-display
   - preferences/preferences-desktop-display
