@@ -448,11 +448,14 @@ hollow_knight:
   - apps/steam_icon_367520
 hue:
   - apps/steam_icon_383270
+idea:
+  - apps/idea
 inbento:
   - apps/steam_icon_1567440
 inkscape:
   - apps/inkscape
   - apps/inkscape-logo
+  - apps/org.inkscape.Inkscape
 iriunwebcam:
   - devices/camera-web
 jellydrift:
@@ -464,6 +467,8 @@ kde_connect:
   - status/kdeconnect-tray
 keepassdroid:
   - apps/keepass
+keepassxc:
+  - apps/keepassxc
 keyboard:
   - apps/org.gnome.Settings-keyboard
   - devices/input-keyboard
@@ -533,6 +538,8 @@ minimetro:
   - apps/steam_icon_287980
 minimize:
   - actions/window-minimize
+monero-gui:
+  - apps/monero-gui
 monitor:
   - apps/org.gnome.Settings-display
   - preferences/preferences-desktop-display
