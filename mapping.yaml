@@ -35,6 +35,7 @@ bitwarden:
   - apps/bitwarden
 bloonstd6:
   - apps/steam_icon_1276390
+  - apps/steam_icon_960090
 bluetooth:
   - apps/blueman
   - apps/bluetooth
@@ -423,6 +424,8 @@ half_life:
   - apps/steam_icon_658920
   - apps/steam_icon_679990
   - apps/steam_icon_747250
+  - apps/steam_icon_280
+  - apps/steam_icon_360
 half_life_1:
   - apps/steam_icon_38
   - apps/steam_icon_70
@@ -431,6 +434,8 @@ half_life_2:
   - apps/steam_icon_290930
   - apps/steam_icon_380
   - apps/steam_icon_420
+  - apps/steam_icon_340
+  - apps/steam_icon_320
 half_life_alyx:
   - apps/steam_icon_546560
 hammer:
@@ -849,8 +854,9 @@ steam:
   - apps/steam
 steam_deck:
   - actions/steamdeck-gaming-return
-stellariumfree:
+stellarium:
   - apps/stellarium
+  - apps/org.stellarium.Stellarium
 stumble_guys:
   - apps/steam_icon_1677740
 superautopets:
@@ -869,11 +875,13 @@ telegram:
   - apps/telegram-desktop-bin
 terminal:
   - apps/alacritty
-  - apps/Alacritty
+  - apps/com.alacritty.Alacritty
   - apps/org.gnome.Terminal
   - apps/terminal
   - apps/utilities-terminal
   - system/konsole
+  - apps/yakuake
+  - apps/xfce-terminal
 terraria:
   - apps/steam_icon_105600
 the_case_of_the_golden_idol:
@@ -949,7 +957,12 @@ yubico_authenticator:
   - apps/ykman
   - apps/yubikey-personalization-gui
   - apps/yubioath-desktop
+  - apps/com.yubico.yubioath
 yuzu:
   - apps/yuzu
 zoom:
   - apps/zoom-desktop
+mattermost:
+  - matermost-desktop
+neochat:
+  - apps/org.kde.neochat.svg
