@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg1" version="1.1" viewBox="0 0 48 48" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs1">
+    <style id="style1">.a{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
+    <style id="style1-1">.q,.r,.s{stroke-width:0px;}.t{stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}.t,.u{fill:none;}.r,.v{fill:#ff0;}.u{stroke:#ff0;stroke-width:2px;stroke-miterlimit:10;stroke-width:.25px;}.s{fill:#fff;}.v{font-family:OpenSans-Regular, 'Open Sans';font-size:6px;font-variation-settings:'wght' 400, 'wdth' 100;}</style>
+  </defs>
+  <path id="path1" d="m7.5 4.5c-1.645 0-3 1.355-3 3v33c0 1.645 1.355 3 3 3h33c1.645 0 3-1.355 3-3v-33c0-1.645-1.355-3-3-3zm0 2h33c0.56413 0 1 0.43587 1 1v33c0 0.56413-0.43587 1-1 1h-33c-0.56413 0-1-0.43587-1-1v-33c0-0.56413 0.43587-1 1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+  <path id="path2" d="m11.896 9.4297c-1.3508 5e-7 -2.4668 1.116-2.4668 2.4668v24.211c-1.2e-6 1.3508 1.116 2.4668 2.4668 2.4668h24.211c1.3508 0 2.4668-1.116 2.4668-2.4668v-24.211c-1e-6 -1.3508-1.116-2.4668-2.4668-2.4668zm0 2h24.211c0.26992-1e-6 0.4668 0.19687 0.4668 0.4668v24.211c0 0.26993-0.19687 0.4668-0.4668 0.4668h-24.211c-0.26992 0-0.4668-0.19687-0.4668-0.4668v-24.211c0-0.26992 0.19687-0.4668 0.4668-0.4668z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+  <path id="path3" d="m23.5 12.945a1 1 0 0 0-1 1v7.1133c0 0.77974-0.59127 1.3711-1.3242 1.3711-0.73295 0-1.3262-0.59135-1.3262-1.3711v-0.78711a1 1 0 0 0-1-1 1 1 0 0 0-1 1v0.78711c0 1.8395 1.4909 3.3711 3.3262 3.3711 1.8352 1e-6 3.3242-1.5316 3.3242-3.3711v-7.1133a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+  <path id="path4" d="m13.945 32.641a1 1 0 0 0-1 1 1 1 0 0 0 1 1h9.5605a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+  <path id="path5" d="m13.945 12.945a1 1 0 0 0-1 1v9.4844a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-9.4844a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+</svg>

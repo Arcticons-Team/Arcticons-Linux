@@ -417,6 +417,8 @@ half_life:
   - apps/steam_icon_2177750
   - apps/steam_icon_2177760
   - apps/steam_icon_261980
+  - apps/steam_icon_280
+  - apps/steam_icon_360
   - apps/steam_icon_360
   - apps/steam_icon_466270
   - apps/steam_icon_50
@@ -424,18 +426,16 @@ half_life:
   - apps/steam_icon_658920
   - apps/steam_icon_679990
   - apps/steam_icon_747250
-  - apps/steam_icon_280
-  - apps/steam_icon_360
 half_life_1:
   - apps/steam_icon_38
   - apps/steam_icon_70
 half_life_2:
   - apps/steam_icon_220
   - apps/steam_icon_290930
+  - apps/steam_icon_320
+  - apps/steam_icon_340
   - apps/steam_icon_380
   - apps/steam_icon_420
-  - apps/steam_icon_340
-  - apps/steam_icon_320
 half_life_alyx:
   - apps/steam_icon_546560
 hammer:
@@ -507,6 +507,8 @@ logout:
   - apps/system-log-out
 magic:
   - apps/steam_icon_2141910
+mattermost:
+  - matermost-desktop
 mediaplayer:
   - apps/mpv
   - categories/applications-multimedia
@@ -559,6 +561,8 @@ musescore:
 music:
   - apps/org.gnome.Music
   - emblems/emblem-music
+neochat:
+  - apps/org.kde.neochat
 network_utilities:
   - apps/org.gnome.Settings-network
   - apps/preferences-system-network
@@ -855,8 +859,8 @@ steam:
 steam_deck:
   - actions/steamdeck-gaming-return
 stellarium:
-  - apps/stellarium
   - apps/org.stellarium.Stellarium
+  - apps/stellarium
 stumble_guys:
   - apps/steam_icon_1677740
 superautopets:
@@ -879,9 +883,9 @@ terminal:
   - apps/org.gnome.Terminal
   - apps/terminal
   - apps/utilities-terminal
-  - system/konsole
-  - apps/yakuake
   - apps/xfce-terminal
+  - apps/yakuake
+  - system/konsole
 terraria:
   - apps/steam_icon_105600
 the_case_of_the_golden_idol:
@@ -954,15 +958,11 @@ youtube_music:
   - apps/youtube_music
   - apps/youtube_music-desktop-app
 yubico_authenticator:
+  - apps/com.yubico.yubioath
   - apps/ykman
   - apps/yubikey-personalization-gui
   - apps/yubioath-desktop
-  - apps/com.yubico.yubioath
 yuzu:
   - apps/yuzu
 zoom:
   - apps/zoom-desktop
-mattermost:
-  - matermost-desktop
-neochat:
-  - apps/org.kde.neochat.svg

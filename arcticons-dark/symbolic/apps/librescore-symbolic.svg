@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs1">
+  <style id="style1">.c{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <path id="b" d="m13.461 10.668a1.0001 1.0001 0 0 0-1 1v15.465c-4.4268-0.06238-7.1859 1.208-8.3477 3.1328-1.2589 2.0857-0.42319 4.6994 1.625 5.7109 1.5477 0.76429 3.6904 0.68575 5.5176-0.54297 1.8272-1.2287 3.2051-3.648 3.2051-7.3223v-5.957h11.914v14.178a1.0001 1.0001 0 0 0 1 1h16.125a1.0001 1.0001 0 0 0 1-1v-5.0586a1.0001 1.0001 0 0 0-1-1h-9.9082v-18.605a1.0001 1.0001 0 0 0-1-1zm1 2h17.131v18.605a1.0001 1.0001 0 0 0 1 1h9.9082v3.0586h-14.125v-14.178a1.0001 1.0001 0 0 0-1-1h-12.914zm-2.1914 16.461c-0.24279 2.4023-1.0696 3.9308-2.1309 4.6445-1.2295 0.82681-2.7287 0.79876-3.5156 0.41016-1.0711-0.52898-1.5033-1.7143-0.79688-2.8848 0.64147-1.0628 2.5882-2.1857 6.4434-2.1699z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line1" d="m13.461 15.332a1 1 0 0 0-1 1 1 1 0 0 0 1 1h13.566a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+</svg>
