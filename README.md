@@ -4,7 +4,7 @@ This is an adoption of the arcticons icons for Linux desktop managers like GNOME
 
 ## Generating the icons
 
-**Important:** to generate the icons you need to clone the parent repo <https://github.com/Donnnno/Arcticons> with the `--recurse-submodules` argument (or run `git submodule update --init` afterwards) and switch to the `freedesktop-theme` folder.
+**Important:** to generate the icons you need to clone the parent repo <https://github.com/Arcticons-Team/Arcticons> with the `--recurse-submodules` argument (or run `git submodule update --init` afterwards) and switch to the `freedesktop-theme` folder.
 
 The `./generate-manual.sh` script can be used to generate the icons according to the mappings file. it accepts two arguments:
 
