@@ -966,3 +966,9 @@ yuzu:
   - apps/yuzu
 zoom:
   - apps/zoom-desktop
+gimp:
+  - apps/gimp
+  - apps/org.gimp.GIMP
+vim:
+  - apps/io.neovim.nvim
+  - apps/nvim
