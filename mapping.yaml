@@ -41,6 +41,11 @@ bluetooth:
   - apps/bluetooth
   - apps/org.gnome.Settings-bluetooth
   - devices/bluetooth
+  - status/blueman-tray
+bluetooth_audio:
+  - status/blueman-active
+bluetooth_disabled:
+  - status/blueman-disabled
 bonfire_peaks:
   - apps/steam_icon_1147890
 broken_age:
