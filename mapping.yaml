@@ -442,6 +442,8 @@ hammer:
   - categories/applications-development
 heart:
   - emblems/emblem-favorite
+helvum:
+  - apps/org.pipewire.Helvum
 hibernator:
   - apps/system-hibernate
 hollow_knight:
