@@ -101,6 +101,7 @@ discord:
   - apps/com.discordapp.Discord
   - apps/dev.vencord.Vesktop
   - apps/discord
+  - apps/webcord
 documents:
   - apps/okular
   - apps/xreader
