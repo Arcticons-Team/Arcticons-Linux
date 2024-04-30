@@ -140,6 +140,8 @@ duckstation:
   - apps/duckstation
 duet:
   - apps/steam_icon_292600
+easyeffects:
+  - apps/com.github.wwmm.easyeffects
 element:
   - apps/element
   - apps/io.element.Element
