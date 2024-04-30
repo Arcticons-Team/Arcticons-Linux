@@ -71,6 +71,7 @@ compass:
   - preferences/preferences-desktop-navigation
 contacts:
   - apps/org.gnome.Contacts
+  - apps/org.kde.merkuro.contact
 cookie_clicker:
   - apps/steam_icon_1454400
 crashontherun:
@@ -301,6 +302,7 @@ fluffychat:
   - apps/fluffychat
 folder:
   - apps/nemo
+  - apps/org.kde.dolphin
   - apps/system-file-manager
   - mimetypes/inode-directory
   - mimetypes/inode-mountpoint
@@ -695,6 +697,7 @@ sim:
 simple_calendar:
   - apps/org.gnome.Calendar
   - apps/org.gnome.Calendar.Devel
+  - apps/org.kde.merkuro.calendar
 simplenotes:
   - apps/accessories-text-editor
   - apps/kwrite
