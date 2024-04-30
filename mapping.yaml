@@ -23,6 +23,8 @@ appearance:
   - apps/org.gnome.Settings-appearance
   - preferences/preferences-desktop-theme-applications
   - preferences/preferences-desktop-theme-global
+ardour:
+  - apps/ardour8
 arduinodroid:
   - apps/arduino-ide-v2
 attestationdedeplacement:
