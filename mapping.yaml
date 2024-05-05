@@ -53,12 +53,29 @@ bonfire_peaks:
 broken_age:
   - apps/steam_icon_232790
 browser:
+  - apps/org.gnome.Epiphany
   - categories/applications-internet
   - categories/applications-network
 cabinet:
   - categories/applications-utilities
 calculator:
   - apps/org.gnome.Calculator
+calibrecompanion:
+  - apps/calibre-ebook-edit
+  - apps/calibre-gui
+  - apps/calibre-viewer
+  - mimetypes/application-lrf
+  - mimetypes/application-x-kindle-application
+  - mimetypes/application-x-mobi8-ebook
+  - mimetypes/application-x-mobipocket-ebook
+  - mimetypes/application-x-topaz-ebook
+  - mimetypes/gnome-mime-application-lrf
+  - mimetypes/gnome-mime-application-x-kindle-application
+  - mimetypes/gnome-mime-application-x-mobi8-ebook
+  - mimetypes/gnome-mime-application-x-mobipocket-ebook
+  - mimetypes/gnome-mime-application-x-topaz-ebook
+  - mimetypes/gnome-mime-text-lrs
+  - mimetypes/text-lrs
 camera:
   - devices/camera-photo
 celeste:
@@ -155,7 +172,9 @@ falloutshelter:
   - apps/steam_icon_22380
   - apps/steam_icon_377160
 favorites:
+  - actions/bookmarks
   - apps/org.gnome.Settings-default-apps
+  - places/favorites
   - preferences/preferences-desktop-default-applications
 feedback:
   - preferences/preferences-desktop-feedback
@@ -341,7 +360,7 @@ folder_documents:
 folder_download:
   - places/folder-download
 folder_favourite:
-  - places/favorites
+  - places/folder-favorites
 folder_games:
   - places/folder-games
 folder_home:
@@ -521,6 +540,8 @@ logout:
   - apps/system-log-out
 magic:
   - apps/steam_icon_2141910
+mail:
+  - apps/kmail
 mattermost:
   - matermost-desktop
 mediaplayer:
@@ -689,6 +710,7 @@ sharetoclipboard:
   - emblems/emblem-shared
   - places/folder-publicshare
 shield:
+  - apps/gufw
   - preferences/preferences-security
   - preferences/preferences-security-apparmor
   - preferences/preferences-security-firewall
