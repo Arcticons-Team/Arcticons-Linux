@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="a" viewBox="0 0 48 48">
+  <defs>
+    <style>.b{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <rect class="b" x="5.5" y="5.5" width="37" height="37" rx="2" ry="2"/>
+  <path class="b" d="m42.5,32.7944c-1.0234-.0841-4.3598-5.6355-8.229-5.6355s-3.9533,2.7757-8.171,2.7757-5.9598-11.2645-12.0159-11.2645c-3.8952,0-5.9342,6.5659-8.5841,9.8893"/>
+  <rect class="b" x="11.6028" y="16.1887" width="4.9626" height="4.9626"/>
+  <rect class="b" x="31.7434" y="24.8484" width="4.6305" height="4.6305"/>
+</svg>
