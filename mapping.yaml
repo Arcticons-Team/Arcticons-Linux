@@ -573,13 +573,13 @@ mediaplayer:
   - categories/applications-multimedia
 microsoft:
   - categories/applications-all
+microsoft_edge:
+  - apps/microsoft-edge
 microsoft_edge_beta:
   - apps/microsft-edge-beta
 microsoft_edge_dev:
   - apps/microsft-edge-dev
-microsoftedge:
-  - apps/microsoft-edge
-microsoftteams:
+microsoft_teams:
   - apps/teams
 mindustry:
   - apps/mindustry
@@ -593,10 +593,10 @@ minecraft:
 minetest:
   - apps/minetest
   - apps/minetest-icon
+mini_metro:
+  - apps/steam_icon_287980
 mini_motorways:
   - apps/steam_icon_1127500
-minimetro:
-  - apps/steam_icon_287980
 minimize:
   - actions/window-minimize
 monero-gui:

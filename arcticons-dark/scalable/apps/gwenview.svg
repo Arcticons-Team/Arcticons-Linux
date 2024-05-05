@@ -1,9 +1,8 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="a" viewBox="0 0 48 48">
   <defs>
-    <style>.a{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
+    <style>.b{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
   </defs>
-  <circle class="a" cx="24" cy="24" r="10"/>
-  <circle class="a" cx="24" cy="24" r="5"/>
-  <ellipse class="a" cx="24" cy="24" rx="21.5" ry="14"/>
+  <path class="b" d="m24,9.4928c-9.209,0-16.986,6.1163-19.5,14.5072,2.514,8.3908,10.291,14.5072,19.5,14.5072s16.986-6.1164,19.5-14.5072c-2.514-8.3908-10.291-14.5072-19.5-14.5072Z"/>
+  <circle class="b" cx="24" cy="24" r="10"/>
 </svg>
