@@ -23,6 +23,8 @@ appearance:
   - apps/org.gnome.Settings-appearance
   - preferences/preferences-desktop-theme-applications
   - preferences/preferences-desktop-theme-global
+ardour:
+  - apps/ardour8
 arduinodroid:
   - apps/arduino-ide-v2
 attestationdedeplacement:
@@ -140,6 +142,8 @@ duckstation:
   - apps/duckstation
 duet:
   - apps/steam_icon_292600
+easyeffects:
+  - apps/com.github.wwmm.easyeffects
 element:
   - apps/element
   - apps/io.element.Element
