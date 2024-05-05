@@ -23,6 +23,8 @@ appearance:
   - apps/org.gnome.Settings-appearance
   - preferences/preferences-desktop-theme-applications
   - preferences/preferences-desktop-theme-global
+ardour:
+  - apps/ardour8
 arduinodroid:
   - apps/arduino-ide-v2
 attestationdedeplacement:
@@ -41,17 +43,39 @@ bluetooth:
   - apps/bluetooth
   - apps/org.gnome.Settings-bluetooth
   - devices/bluetooth
+  - status/blueman-tray
+bluetooth_audio:
+  - status/blueman-active
+bluetooth_disabled:
+  - status/blueman-disabled
 bonfire_peaks:
   - apps/steam_icon_1147890
 broken_age:
   - apps/steam_icon_232790
 browser:
+  - apps/org.gnome.Epiphany
   - categories/applications-internet
   - categories/applications-network
 cabinet:
   - categories/applications-utilities
 calculator:
   - apps/org.gnome.Calculator
+calibrecompanion:
+  - apps/calibre-ebook-edit
+  - apps/calibre-gui
+  - apps/calibre-viewer
+  - mimetypes/application-lrf
+  - mimetypes/application-x-kindle-application
+  - mimetypes/application-x-mobi8-ebook
+  - mimetypes/application-x-mobipocket-ebook
+  - mimetypes/application-x-topaz-ebook
+  - mimetypes/gnome-mime-application-lrf
+  - mimetypes/gnome-mime-application-x-kindle-application
+  - mimetypes/gnome-mime-application-x-mobi8-ebook
+  - mimetypes/gnome-mime-application-x-mobipocket-ebook
+  - mimetypes/gnome-mime-application-x-topaz-ebook
+  - mimetypes/gnome-mime-text-lrs
+  - mimetypes/text-lrs
 camera:
   - devices/camera-photo
 celeste:
@@ -66,6 +90,7 @@ compass:
   - preferences/preferences-desktop-navigation
 contacts:
   - apps/org.gnome.Contacts
+  - apps/org.kde.merkuro.contact
 cookie_clicker:
   - apps/steam_icon_1454400
 crashontherun:
@@ -96,6 +121,7 @@ discord:
   - apps/com.discordapp.Discord
   - apps/dev.vencord.Vesktop
   - apps/discord
+  - apps/webcord
 documents:
   - apps/okular
   - apps/xreader
@@ -133,6 +159,8 @@ duckstation:
   - apps/duckstation
 duet:
   - apps/steam_icon_292600
+easyeffects:
+  - apps/com.github.wwmm.easyeffects
 element:
   - apps/element
   - apps/io.element.Element
@@ -144,7 +172,9 @@ falloutshelter:
   - apps/steam_icon_22380
   - apps/steam_icon_377160
 favorites:
+  - actions/bookmarks
   - apps/org.gnome.Settings-default-apps
+  - places/favorites
   - preferences/preferences-desktop-default-applications
 feedback:
   - preferences/preferences-desktop-feedback
@@ -295,6 +325,7 @@ fluffychat:
   - apps/fluffychat
 folder:
   - apps/nemo
+  - apps/org.kde.dolphin
   - apps/system-file-manager
   - mimetypes/inode-directory
   - mimetypes/inode-mountpoint
@@ -329,7 +360,7 @@ folder_documents:
 folder_download:
   - places/folder-download
 folder_favourite:
-  - places/favorites
+  - places/folder-favorites
 folder_games:
   - places/folder-games
 folder_home:
@@ -417,6 +448,8 @@ half_life:
   - apps/steam_icon_2177750
   - apps/steam_icon_2177760
   - apps/steam_icon_261980
+  - apps/steam_icon_280
+  - apps/steam_icon_360
   - apps/steam_icon_360
   - apps/steam_icon_466270
   - apps/steam_icon_50
@@ -424,35 +457,38 @@ half_life:
   - apps/steam_icon_658920
   - apps/steam_icon_679990
   - apps/steam_icon_747250
-  - apps/steam_icon_280
-  - apps/steam_icon_360
 half_life_1:
   - apps/steam_icon_38
   - apps/steam_icon_70
 half_life_2:
   - apps/steam_icon_220
   - apps/steam_icon_290930
+  - apps/steam_icon_320
+  - apps/steam_icon_340
   - apps/steam_icon_380
   - apps/steam_icon_420
-  - apps/steam_icon_340
-  - apps/steam_icon_320
 half_life_alyx:
   - apps/steam_icon_546560
 hammer:
   - categories/applications-development
 heart:
   - emblems/emblem-favorite
+helvum:
+  - apps/org.pipewire.Helvum
 hibernator:
   - apps/system-hibernate
 hollow_knight:
   - apps/steam_icon_367520
 hue:
   - apps/steam_icon_383270
+idea:
+  - apps/idea
 inbento:
   - apps/steam_icon_1567440
 inkscape:
   - apps/inkscape
   - apps/inkscape-logo
+  - apps/org.inkscape.Inkscape
 iriunwebcam:
   - devices/camera-web
 jellydrift:
@@ -464,6 +500,8 @@ kde_connect:
   - status/kdeconnect-tray
 keepassdroid:
   - apps/keepass
+keepassxc:
+  - apps/keepassxc
 keyboard:
   - apps/org.gnome.Settings-keyboard
   - devices/input-keyboard
@@ -502,6 +540,10 @@ logout:
   - apps/system-log-out
 magic:
   - apps/steam_icon_2141910
+mail:
+  - apps/kmail
+mattermost:
+  - matermost-desktop
 mediaplayer:
   - apps/mpv
   - categories/applications-multimedia
@@ -533,6 +575,8 @@ minimetro:
   - apps/steam_icon_287980
 minimize:
   - actions/window-minimize
+monero-gui:
+  - apps/monero-gui
 monitor:
   - apps/org.gnome.Settings-display
   - preferences/preferences-desktop-display
@@ -552,6 +596,8 @@ musescore:
 music:
   - apps/org.gnome.Music
   - emblems/emblem-music
+neochat:
+  - apps/org.kde.neochat
 network_utilities:
   - apps/org.gnome.Settings-network
   - apps/preferences-system-network
@@ -664,6 +710,7 @@ sharetoclipboard:
   - emblems/emblem-shared
   - places/folder-publicshare
 shield:
+  - apps/gufw
   - preferences/preferences-security
   - preferences/preferences-security-apparmor
   - preferences/preferences-security-firewall
@@ -676,6 +723,7 @@ sim:
 simple_calendar:
   - apps/org.gnome.Calendar
   - apps/org.gnome.Calendar.Devel
+  - apps/org.kde.merkuro.calendar
 simplenotes:
   - apps/accessories-text-editor
   - apps/kwrite
@@ -848,8 +896,8 @@ steam:
 steam_deck:
   - actions/steamdeck-gaming-return
 stellarium:
-  - apps/stellarium
   - apps/org.stellarium.Stellarium
+  - apps/stellarium
 stumble_guys:
   - apps/steam_icon_1677740
 superautopets:
@@ -872,9 +920,9 @@ terminal:
   - apps/org.gnome.Terminal
   - apps/terminal
   - apps/utilities-terminal
-  - system/konsole
-  - apps/yakuake
   - apps/xfce-terminal
+  - apps/yakuake
+  - system/konsole
 terraria:
   - apps/steam_icon_105600
 the_case_of_the_golden_idol:
@@ -947,15 +995,11 @@ youtube_music:
   - apps/youtube_music
   - apps/youtube_music-desktop-app
 yubico_authenticator:
+  - apps/com.yubico.yubioath
   - apps/ykman
   - apps/yubikey-personalization-gui
   - apps/yubioath-desktop
-  - apps/com.yubico.yubioath
 yuzu:
   - apps/yuzu
 zoom:
   - apps/zoom-desktop
-mattermost:
-  - matermost-desktop
-neochat:
-  - apps/org.kde.neochat.svg
