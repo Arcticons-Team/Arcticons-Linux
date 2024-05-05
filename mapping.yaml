@@ -35,6 +35,9 @@ battery:
   - devices/battery
 bitwarden:
   - apps/bitwarden
+blender:
+  - apps/blender
+  - apps/blender-2.7
 bloonstd6:
   - apps/steam_icon_1276390
   - apps/steam_icon_960090
@@ -423,6 +426,8 @@ garden_story:
   - apps/steam_icon_1062140
 geometry_dash:
   - apps/steam_icon_322170
+gimp:
+  - apps/gimp
 godot:
   - apps/steam_icon_404790
 google_chrome:
@@ -430,12 +435,6 @@ google_chrome:
   - apps/google-chrome
   - apps/google-chrome2
   - apps/google_chrome
-google_docs:
-  - apps/libreoffice-writer
-google_sheets:
-  - apps/libreoffice-calc
-google_slides:
-  - apps/libreoffice-impress
 gwenview:
   - apps/gwenview
 half_life:
@@ -521,10 +520,35 @@ letter_uppercase_circle_p:
   - apps/polyglot
 letter_uppercase_square_z:
   - apps/zotero
-libreofficeviewer:
+libreoffice:
   - apps/libreoffice-main
   - apps/libreoffice-startcenter
   - categories/applications-office
+libreoffice_calc:
+  - apps/libreoffice-calc
+  - mimetypes/libreoffice-oasis-spreadsheet
+  - mimetypes/libreoffice-oasis-spreadsheet-template
+  - mimetypes/libreoffice-spreadsheet
+  - mimetypes/libreoffice-spreadsheet-template
+libreoffice_draw:
+  - apps/libreoffice-draw
+  - mimetypes/libreoffice-oasis-drawing
+  - mimetypes/libreoffice-oasis-drawing-template
+libreoffice_impress:
+  - apps/libreoffice-impress
+  - mimetypes/libreoffice-oasis-presentation
+  - mimetypes/libreoffice-oasis-presentation-template
+  - mimetypes/libreoffice-presentation
+  - mimetypes/libreoffice-presentation-template
+libreoffice_math:
+  - apps/libreoffice-math
+  - mimetypes/libreoffice-oasis-formula
+libreoffice_writer:
+  - apps/libreoffice-writer
+  - mimetypes/libreoffice-oasis-text
+  - mimetypes/libreoffice-oasis-text-template
+  - mimetypes/libreoffice-text
+  - mimetypes/libreoffice-text-template
 librescore:
   - apps/librescore
 librewolf:
@@ -617,6 +641,8 @@ nuclear:
   - apps/steam_icon_38420
 nvidia:
   - apps/nvidia-settings
+obsidian:
+  - apps/obsidian
 openttd:
   - apps/openttd
   - apps/steam_icon_1536610
@@ -645,6 +671,8 @@ plants_vs_zombies:
   - apps/steam_icon_3590
 plasma_search:
   - preferences/plasma-search
+plasma_system_monitor:
+  - apps/utilities-system-monitor
 pocket_casts:
   - apps/pocket-casts
   - apps/pocket-casts-linux
