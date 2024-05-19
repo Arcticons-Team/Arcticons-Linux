@@ -524,6 +524,9 @@ libreoffice:
   - apps/libreoffice-main
   - apps/libreoffice-startcenter
   - categories/applications-office
+libreoffice_base:
+  - apps/libreoffice-base
+  - mimetypes/libreoffice-oasis-database
 libreoffice_calc:
   - apps/libreoffice-calc
   - mimetypes/libreoffice-oasis-spreadsheet
@@ -540,9 +543,6 @@ libreoffice_impress:
   - mimetypes/libreoffice-oasis-presentation-template
   - mimetypes/libreoffice-presentation
   - mimetypes/libreoffice-presentation-template
-libreoffice_math:
-  - apps/libreoffice-math
-  - mimetypes/libreoffice-oasis-formula
 libreoffice_writer:
   - apps/libreoffice-writer
   - mimetypes/libreoffice-oasis-text
