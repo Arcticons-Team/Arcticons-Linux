@@ -470,6 +470,8 @@ half_life_alyx:
   - apps/steam_icon_546560
 hammer:
   - categories/applications-development
+hard_disk_yast:
+  - devices/hard-disk-yast
 heart:
   - emblems/emblem-favorite
 helvum:
@@ -719,6 +721,8 @@ rocket_league_sideswipe:
   - apps/steam_icon_252950
 rss:
   - apps/akregator
+samrewritten:
+  - apps/samrewritten
 satisfactory:
   - apps/steam_icon_526870
 schildichat:
@@ -990,6 +994,8 @@ videocrop:
   - devices/camera-video
 vim:
   - apps/vim
+virt_manager:
+  - apps/virt-manager
 visual_studio_code:
   - apps/visual-studio-code
   - apps/visual-studio-code-insiders
