@@ -1010,6 +1010,8 @@ vlc:
   - apps/vlc
   - apps/vlc-kb
   - apps/vlc-xmas
+vscodium:
+  - apps/vscodium
 wifi:
   - devices/network-wireless
 wikipedia:
