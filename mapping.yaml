@@ -643,6 +643,8 @@ nuclear:
   - apps/steam_icon_38420
 nvidia:
   - apps/nvidia-settings
+nwg-look:
+  - apps/nwg-look
 obsidian:
   - apps/obsidian
 openttd:
