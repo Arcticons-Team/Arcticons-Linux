@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="svg2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs id="defs1">
-  <style id="style1">.a{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style1">.c{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
  </defs>
- <path id="path1" d="m7.5 4.5c-1.645 0-3 1.355-3 3v33c0 1.645 1.355 3 3 3h33c1.645 0 3-1.355 3-3v-33c0-1.645-1.355-3-3-3zm0 2h33c0.56413 0 1 0.43587 1 1v33c0 0.56413-0.43587 1-1 1h-33c-0.56413 0-1-0.43587-1-1v-33c0-0.56413 0.43587-1 1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="path2" d="m29.561 11.879a1 1 0 0 0-1 1v16.682c0 2.5306-2.03 4.5605-4.5605 4.5605a1.0001 1.0001 0 0 0-2e-3 0c-1.2094 0.0016-2.3686-0.47772-3.2227-1.334a1 1 0 0 0-1.4141-2e-3 1 1 0 0 0-2e-3 1.4141c1.2293 1.2325 2.9018 1.9241 4.6426 1.9219 3.6105-0.0012 6.5586-2.9498 6.5586-6.5605v-16.682a1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="rect2" transform="translate(48 40.493) rotate(180)" d="m24 11.879c-3.6172 0-6.5605 2.9433-6.5605 6.5605v3.6152c0 3.6172 2.9433 6.5605 6.5605 6.5605s6.5605-2.9433 6.5605-6.5605v-3.6152c0-3.6172-2.9433-6.5605-6.5605-6.5605zm0 2c2.5438 0 4.5605 2.0167 4.5605 4.5605v3.6152c0 2.5438-2.0167 4.5605-4.5605 4.5605s-4.5605-2.0167-4.5605-4.5605v-3.6152c0-2.5438 2.0167-4.5605 4.5605-4.5605z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <g id="a">
+  <path id="rect1" d="m9.5 4.5c-2.7527 0-5 2.2473-5 5v29c0 2.7527 2.2473 5 5 5h29c2.7527 0 5-2.2473 5-5v-29c0-2.7527-2.2473-5-5-5zm0 2h29c1.6793 0 3 1.3207 3 3v29c0 1.6793-1.3207 3-3 3h-29c-1.6793 0-3-1.3207-3-3v-29c0-1.6793 1.3207-3 3-3z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ </g>
+ <g id="b" fill="#fff" stroke-linecap="round" stroke-linejoin="round">
+  <path id="path1" d="m28 15a1 1 0 0 0-1 1v12c0 1.6686-1.3314 3-3 3-0.83427 0-1.577-0.3349-2.1211-0.87891a1 1 0 0 0-1.4141 0 1 1 0 0 0 0 1.4141c0.90372 0.9036 2.1604 1.4648 3.5352 1.4648 2.7496 0 5-2.2504 5-5v-12a1 1 0 0 0-1-1z" color="#000000" style="-inkscape-stroke:none"/>
+  <path id="rect2" transform="translate(48 42.6) rotate(180)" d="m24 15c-2.7527 0-5 2.2473-5 5v2.5996c0 2.7527 2.2473 5 5 5s5-2.2473 5-5v-2.5996c0-2.7527-2.2473-5-5-5zm0 2c1.6793 0 3 1.3207 3 3v2.5996c0 1.6793-1.3207 3-3 3s-3-1.3207-3-3v-2.5996c0-1.6793 1.3207-3 3-3z" color="#000000" style="-inkscape-stroke:none"/>
+ </g>
 </svg>
