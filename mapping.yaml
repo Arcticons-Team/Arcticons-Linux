@@ -156,7 +156,6 @@ dropbox:
   - status/dropboxstatus-logo
   - status/dropboxstatus-x
 dsphoto:
-  - apps/org.gnome.gThumb
   - emblems/emblem-photos
 duckstation:
   - apps/duckstation
@@ -406,6 +405,7 @@ galaxystore:
   - apps/plasmadiscover
 gallery:
   - apps/gthumb
+  - apps/org.gnome.gThumb
   - mimetypes/image-bmp
   - mimetypes/image-gif
   - mimetypes/image-ico

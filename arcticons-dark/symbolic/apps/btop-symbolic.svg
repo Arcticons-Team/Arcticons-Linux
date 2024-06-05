@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+<svg id="svg1" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs id="defs1">
-  <style id="style1">.a{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
+  <style id="style1">.c{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
  </defs>
- <path id="path1" d="m7.5 4.5c-1.645 0-3 1.355-3 3v33c0 1.645 1.355 3 3 3h33c1.645 0 3-1.355 3-3v-33c0-1.645-1.355-3-3-3zm0 2h33c0.56413 0 1 0.43587 1 1v33c0 0.56413-0.43587 1-1 1h-33c-0.56413 0-1-0.43587-1-1v-33c0-0.56413 0.43587-1 1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="path2" d="m24 19.385c-3.6112 3.89e-4 -6.5605 2.9493-6.5605 6.5605a1 1 0 0 0 1 1 1 1 0 0 0 1-1c0-2.5304 2.0302-4.5603 4.5605-4.5605 2.5306 4.5e-5 4.5605 2.03 4.5605 4.5605v3.6152c0 2.5306-2.03 4.5605-4.5605 4.5605-2.5304-2.73e-4 -4.5605-2.0302-4.5605-4.5605a1 1 0 0 0-1-1 1 1 0 0 0-1 1c0 3.6112 2.9493 6.5602 6.5605 6.5605 3.6114-6.5e-5 6.5605-2.9491 6.5605-6.5605v-3.6152c0-3.6114-2.9491-6.5605-6.5605-6.5605z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="line2" d="m18.439 11.879a1 1 0 0 0-1 1v22.242a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-22.242a1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <g id="a">
+  <path id="rect1" d="m9.5 4.5c-2.7527 0-5 2.2473-5 5v29c0 2.7527 2.2473 5 5 5h29c2.7527 0 5-2.2473 5-5v-29c0-2.7527-2.2473-5-5-5zm0 2h29c1.6793 0 3 1.3207 3 3v29c0 1.6793-1.3207 3-3 3h-29c-1.6793 0-3-1.3207-3-3v-29c0-1.6793 1.3207-3 3-3z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ </g>
+ <g id="b" fill="#fff" stroke-linecap="round" stroke-linejoin="round">
+  <path id="path1" d="m24 20.4c-2.7496 0-5 2.2504-5 5a1 1 0 0 0 1 1 1 1 0 0 0 1-1c0-1.6686 1.3314-3 3-3s3 1.3314 3 3v2.5996c0 1.6686-1.3314 3-3 3s-3-1.3314-3-3a1 1 0 0 0-1-1 1 1 0 0 0-1 1c0 2.7496 2.2504 5 5 5s5-2.2504 5-5v-2.5996c0-2.7496-2.2504-5-5-5z" color="#000000" style="-inkscape-stroke:none"/>
+  <path id="line1" d="m20 15a1 1 0 0 0-1 1v16a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-16a1 1 0 0 0-1-1z" color="#000000" style="-inkscape-stroke:none"/>
+ </g>
 </svg>
