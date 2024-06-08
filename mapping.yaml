@@ -643,6 +643,8 @@ nuclear:
   - apps/steam_icon_38420
 nvidia:
   - apps/nvidia-settings
+nwg-look:
+  - apps/nwg-look
 obsidian:
   - apps/obsidian
 openttd:
@@ -1010,6 +1012,8 @@ vlc:
   - apps/vlc
   - apps/vlc-kb
   - apps/vlc-xmas
+vscodium:
+  - apps/vscodium
 wifi:
   - devices/network-wireless
 wikipedia:
