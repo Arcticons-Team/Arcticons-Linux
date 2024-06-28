@@ -344,6 +344,7 @@ folder:
   - places/folder-yellow
   - system/index
   - system/org.kde.dolphin
+  - apps/org.kde.dolphin
 folder_alt_3:
   - places/folder-open
 folder_book:
@@ -694,6 +695,7 @@ print:
 proton_mail:
   - panel/protonmail-indicator
   - panel/protonmail-notification
+  - apps/protonmail-desktop
 proton_vpn:
   - apps/protonvpn-logo
 qbittorrent_remote:
@@ -703,6 +705,8 @@ quakedroid:
   - apps/steam_icon_2310
   - apps/steam_icon_2320
   - apps/steam_icon_282440
+  - apps/steam_icon_9030
+  - apps/steam_icon_9040
 radiodroid:
   - status/audio-volume-high
 rar:
