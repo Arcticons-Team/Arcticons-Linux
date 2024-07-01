@@ -8,11 +8,7 @@
 set -euo pipefail
 
 # go to the path of the script
-SCRIPTPATH="$(
-	cd -- "$(dirname "$0")" >/dev/null 2>&1
-	pwd -P
-)"
-cd "$SCRIPTPATH"
+cd -P -- "$(dirname "$0")"
 
 # Check if the icons folder of our parent repo exists, if not abort
 if [ ! -e ../icons/white ]; then
