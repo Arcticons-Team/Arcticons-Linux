@@ -589,6 +589,7 @@ minecraft:
   - apps/minecraft
   - apps/minecraft-launcher
   - apps/minecraft-pi
+  - apps/org.prismlauncher.PrismLauncher
   - apps/polymc
   - apps/steam_icon_1672970
   - apps/steam_icon_1928870
@@ -635,6 +636,7 @@ no_mans_sky:
 notificationnotes:
   - categories/applications-graphics
 notifications:
+  - actions/notifications
   - apps/org.gnome.Settings-notifications
   - preferences/preferences-desktop-notification-bell
 nuclear:
@@ -942,6 +944,8 @@ suspend:
   - apps/system-suspend
 symbol_exclamation_mark:
   - apps/ibus
+syncthing:
+  - apps/syncthing
 systemusagedirect:
   - categories/applications-system
 telegram:
@@ -951,6 +955,7 @@ telegram:
 terminal:
   - apps/alacritty
   - apps/com.alacritty.Alacritty
+  - apps/foot
   - apps/org.gnome.Terminal
   - apps/terminal
   - apps/utilities-terminal
@@ -1012,6 +1017,8 @@ vlc:
   - apps/vlc
   - apps/vlc-kb
   - apps/vlc-xmas
+volume_styles:
+  - apps/multimedia-volume-control
 vscodium:
   - apps/vscodium
 wifi:
