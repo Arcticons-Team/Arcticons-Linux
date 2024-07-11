@@ -310,6 +310,7 @@ firefox:
   - apps/firedragon
   - apps/firefox
   - apps/firefox-default
+  - apps/firefox-developer-edition
   - apps/firefox-esr
   - apps/firefox-gtk3
   - apps/firefox-icon
@@ -429,6 +430,7 @@ geometry_dash:
 gimp:
   - apps/gimp
 godot:
+  - apps/godot
   - apps/steam_icon_404790
 google_chrome:
   - apps/chromium
@@ -753,6 +755,7 @@ shield:
 shutdown:
   - apps/system-shutdown
 signal:
+  - apps/org.signal.Signal
   - apps/signal-desktop
 sim:
   - devices/auth-sim
@@ -956,10 +959,12 @@ terminal:
   - apps/alacritty
   - apps/com.alacritty.Alacritty
   - apps/foot
+  - apps/gnome-xterm
   - apps/org.gnome.Terminal
   - apps/terminal
   - apps/utilities-terminal
   - apps/xfce-terminal
+  - apps/xterm-color_48x48
   - apps/yakuake
   - system/konsole
 terraria:
