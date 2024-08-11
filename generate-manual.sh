@@ -55,11 +55,7 @@ EOF
 }
 
 # go to the path of the script
-SCRIPTPATH="$(
-	cd -- "$(dirname "$0")" >/dev/null 2>&1
-	pwd -P
-)"
-cd "$SCRIPTPATH"
+cd -P -- "$(dirname "$0")"
 
 # look for required programs
 if ! type yq >/dev/null || ! type jq >/dev/null || ! type xmlstarlet >/dev/null; then

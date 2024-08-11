@@ -23,6 +23,8 @@ appearance:
   - apps/org.gnome.Settings-appearance
   - preferences/preferences-desktop-theme-applications
   - preferences/preferences-desktop-theme-global
+ardour:
+  - apps/ardour8
 arduinodroid:
   - apps/arduino
   - apps/arduino-icon-small
@@ -39,6 +41,9 @@ battery:
   - devices/battery
 bitwarden:
   - apps/bitwarden
+blender:
+  - apps/blender
+  - apps/blender-2.7
 bloonstd6:
   - apps/steam_icon_1276390
   - apps/steam_icon_960090
@@ -47,17 +52,39 @@ bluetooth:
   - apps/bluetooth
   - apps/org.gnome.Settings-bluetooth
   - devices/bluetooth
+  - status/blueman-tray
+bluetooth_audio:
+  - status/blueman-active
+bluetooth_disabled:
+  - status/blueman-disabled
 bonfire_peaks:
   - apps/steam_icon_1147890
 broken_age:
   - apps/steam_icon_232790
 browser:
+  - apps/org.gnome.Epiphany
   - categories/applications-internet
   - categories/applications-network
 cabinet:
   - categories/applications-utilities
 calculator:
   - apps/org.gnome.Calculator
+calibrecompanion:
+  - apps/calibre-ebook-edit
+  - apps/calibre-gui
+  - apps/calibre-viewer
+  - mimetypes/application-lrf
+  - mimetypes/application-x-kindle-application
+  - mimetypes/application-x-mobi8-ebook
+  - mimetypes/application-x-mobipocket-ebook
+  - mimetypes/application-x-topaz-ebook
+  - mimetypes/gnome-mime-application-lrf
+  - mimetypes/gnome-mime-application-x-kindle-application
+  - mimetypes/gnome-mime-application-x-mobi8-ebook
+  - mimetypes/gnome-mime-application-x-mobipocket-ebook
+  - mimetypes/gnome-mime-application-x-topaz-ebook
+  - mimetypes/gnome-mime-text-lrs
+  - mimetypes/text-lrs
 camera:
   - devices/camera-photo
 celeste:
@@ -72,6 +99,7 @@ compass:
   - preferences/preferences-desktop-navigation
 contacts:
   - apps/org.gnome.Contacts
+  - apps/org.kde.merkuro.contact
 cookie_clicker:
   - apps/steam_icon_1454400
 crashontherun:
@@ -102,6 +130,7 @@ discord:
   - apps/com.discordapp.Discord
   - apps/dev.vencord.Vesktop
   - apps/discord
+  - apps/webcord
 documents:
   - apps/okular
   - apps/xreader
@@ -133,12 +162,13 @@ dropbox:
   - status/dropboxstatus-logo
   - status/dropboxstatus-x
 dsphoto:
-  - apps/org.gnome.gThumb
   - emblems/emblem-photos
 duckstation:
   - apps/duckstation
 duet:
   - apps/steam_icon_292600
+easyeffects:
+  - apps/com.github.wwmm.easyeffects
 element:
   - apps/element
   - apps/io.element.Element
@@ -150,7 +180,9 @@ falloutshelter:
   - apps/steam_icon_22380
   - apps/steam_icon_377160
 favorites:
+  - actions/bookmarks
   - apps/org.gnome.Settings-default-apps
+  - places/favorites
   - preferences/preferences-desktop-default-applications
 feedback:
   - preferences/preferences-desktop-feedback
@@ -284,6 +316,7 @@ firefox:
   - apps/firedragon
   - apps/firefox
   - apps/firefox-default
+  - apps/firefox-developer-edition
   - apps/firefox-esr
   - apps/firefox-gtk3
   - apps/firefox-icon
@@ -301,6 +334,7 @@ fluffychat:
   - apps/fluffychat
 folder:
   - apps/nemo
+  - apps/org.kde.dolphin
   - apps/system-file-manager
   - mimetypes/inode-directory
   - mimetypes/inode-mountpoint
@@ -336,7 +370,7 @@ folder_documents:
 folder_download:
   - places/folder-download
 folder_favourite:
-  - places/favorites
+  - places/folder-favorites
 folder_games:
   - places/folder-games
 folder_home:
@@ -379,6 +413,7 @@ galaxystore:
   - apps/plasmadiscover
 gallery:
   - apps/gthumb
+  - apps/org.gnome.gThumb
   - mimetypes/image-bmp
   - mimetypes/image-gif
   - mimetypes/image-ico
@@ -399,19 +434,16 @@ garden_story:
   - apps/steam_icon_1062140
 geometry_dash:
   - apps/steam_icon_322170
+gimp:
+  - apps/gimp
 godot:
+  - apps/godot
   - apps/steam_icon_404790
 google_chrome:
   - apps/chromium
   - apps/google-chrome
   - apps/google-chrome2
   - apps/google_chrome
-google_docs:
-  - apps/libreoffice-writer
-google_sheets:
-  - apps/libreoffice-calc
-google_slides:
-  - apps/libreoffice-impress
 gwenview:
   - apps/gwenview
 half_life:
@@ -447,8 +479,12 @@ half_life_alyx:
   - apps/steam_icon_546560
 hammer:
   - categories/applications-development
+hard_disk_yast:
+  - devices/hard-disk-yast
 heart:
   - emblems/emblem-favorite
+helvum:
+  - apps/org.pipewire.Helvum
 hibernator:
   - apps/system-hibernate
 hollow_knight:
@@ -496,10 +532,35 @@ letter_uppercase_circle_p:
   - apps/polyglot-symbolic
   letter_uppercase_square_z:
   - apps/zotero
-libreofficeviewer:
+libreoffice:
   - apps/libreoffice-main
   - apps/libreoffice-startcenter
   - categories/applications-office
+libreoffice_base:
+  - apps/libreoffice-base
+  - mimetypes/libreoffice-oasis-database
+libreoffice_calc:
+  - apps/libreoffice-calc
+  - mimetypes/libreoffice-oasis-spreadsheet
+  - mimetypes/libreoffice-oasis-spreadsheet-template
+  - mimetypes/libreoffice-spreadsheet
+  - mimetypes/libreoffice-spreadsheet-template
+libreoffice_draw:
+  - apps/libreoffice-draw
+  - mimetypes/libreoffice-oasis-drawing
+  - mimetypes/libreoffice-oasis-drawing-template
+libreoffice_impress:
+  - apps/libreoffice-impress
+  - mimetypes/libreoffice-oasis-presentation
+  - mimetypes/libreoffice-oasis-presentation-template
+  - mimetypes/libreoffice-presentation
+  - mimetypes/libreoffice-presentation-template
+libreoffice_writer:
+  - apps/libreoffice-writer
+  - mimetypes/libreoffice-oasis-text
+  - mimetypes/libreoffice-oasis-text-template
+  - mimetypes/libreoffice-text
+  - mimetypes/libreoffice-text-template
 librescore:
   - apps/librescore
 librewolf:
@@ -515,6 +576,8 @@ logout:
   - apps/system-log-out
 magic:
   - apps/steam_icon_2141910
+mail:
+  - apps/kmail
 mattermost:
   - matermost-desktop
 mediaplayer:
@@ -522,13 +585,13 @@ mediaplayer:
   - categories/applications-multimedia
 microsoft:
   - categories/applications-all
+microsoft_edge:
+  - apps/microsoft-edge
 microsoft_edge_beta:
   - apps/microsft-edge-beta
 microsoft_edge_dev:
   - apps/microsft-edge-dev
-microsoftedge:
-  - apps/microsoft-edge
-microsoftteams:
+microsoft_teams:
   - apps/teams
 mindustry:
   - apps/mindustry
@@ -536,16 +599,17 @@ minecraft:
   - apps/minecraft
   - apps/minecraft-launcher
   - apps/minecraft-pi
+  - apps/org.prismlauncher.PrismLauncher
   - apps/polymc
   - apps/steam_icon_1672970
   - apps/steam_icon_1928870
 minetest:
   - apps/minetest
   - apps/minetest-icon
+mini_metro:
+  - apps/steam_icon_287980
 mini_motorways:
   - apps/steam_icon_1127500
-minimetro:
-  - apps/steam_icon_287980
 minimize:
   - actions/window-minimize
 monero-gui:
@@ -582,6 +646,7 @@ no_mans_sky:
 notificationnotes:
   - categories/applications-graphics
 notifications:
+  - actions/notifications
   - apps/org.gnome.Settings-notifications
   - preferences/preferences-desktop-notification-bell
 nuclear:
@@ -590,6 +655,10 @@ nuclear:
   - apps/steam_icon_38420
 nvidia:
   - apps/nvidia-settings
+nwg-look:
+  - apps/nwg-look
+obsidian:
+  - apps/obsidian
 openttd:
   - apps/openttd
   - apps/steam_icon_1536610
@@ -618,6 +687,8 @@ plants_vs_zombies:
   - apps/steam_icon_3590
 plasma_search:
   - preferences/plasma-search
+plasma_system_monitor:
+  - apps/utilities-system-monitor
 pocket_casts:
   - apps/pocket-casts
   - apps/pocket-casts-linux
@@ -667,6 +738,8 @@ rocket_league_sideswipe:
   - apps/steam_icon_252950
 rss:
   - apps/akregator
+samrewritten:
+  - apps/samrewritten
 satisfactory:
   - apps/steam_icon_526870
 schildichat:
@@ -686,18 +759,21 @@ sharetoclipboard:
   - emblems/emblem-shared
   - places/folder-publicshare
 shield:
+  - apps/gufw
   - preferences/preferences-security
   - preferences/preferences-security-apparmor
   - preferences/preferences-security-firewall
 shutdown:
   - apps/system-shutdown
 signal:
+  - apps/org.signal.Signal
   - apps/signal-desktop
 sim:
   - devices/auth-sim
 simple_calendar:
   - apps/org.gnome.Calendar
   - apps/org.gnome.Calendar.Devel
+  - apps/org.kde.merkuro.calendar
 simplenotes:
   - apps/accessories-text-editor
   - apps/kwrite
@@ -882,6 +958,8 @@ suspend:
   - apps/system-suspend
 symbol_exclamation_mark:
   - apps/ibus
+syncthing:
+  - apps/syncthing
 systemusagedirect:
   - categories/applications-system
 telegram:
@@ -891,10 +969,13 @@ telegram:
 terminal:
   - apps/alacritty
   - apps/com.alacritty.Alacritty
+  - apps/foot
+  - apps/gnome-xterm
   - apps/org.gnome.Terminal
   - apps/terminal
   - apps/utilities-terminal
   - apps/xfce-terminal
+  - apps/xterm-color_48x48
   - apps/yakuake
   - system/konsole
   - apps/xfce-terminal-symbolic
@@ -940,6 +1021,8 @@ videocrop:
   - devices/camera-video
 vim:
   - apps/vim
+virt_manager:
+  - apps/virt-manager
 visual_studio_code:
   - apps/visual-studio-code
   - apps/visual-studio-code-insiders
@@ -954,6 +1037,10 @@ vlc:
   - apps/vlc
   - apps/vlc-kb
   - apps/vlc-xmas
+volume_styles:
+  - apps/multimedia-volume-control
+vscodium:
+  - apps/vscodium
 wifi:
   - devices/network-wireless
 wikipedia:
