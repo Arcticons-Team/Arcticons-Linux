@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # This script searches for icons on your system by name to help find entries for mapping.yaml
 
