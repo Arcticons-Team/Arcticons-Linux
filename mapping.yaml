@@ -530,7 +530,7 @@ letter_lowercase_square_g:
 letter_uppercase_circle_p:
   - apps/polyglot
   - apps/polyglot-symbolic
-  letter_uppercase_square_z:
+letter_uppercase_square_z:
   - apps/zotero
 libreoffice:
   - apps/libreoffice-main
