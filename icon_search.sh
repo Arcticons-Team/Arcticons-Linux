@@ -2,14 +2,42 @@
 
 # This script searches for icons on your system by name to help find entries for mapping.yaml
 
-echo -n "Please enter an app to search for: "
-read app # Store the prompted app name
-declare -a paths
-readarray -t paths < <(find /usr/share/icons/ -name *$app*.*) # Make an array storing every result for the given app name
-for (( i=0; i<${#paths[@]}; i++ )); # For loop iterating over each result
+# -n flag is used for the name of the app for which you are looking for icons
+# -v flag enables verbose mode which displays more info
+
+while getopts n:v flag
 do
-    subpath=${paths[$i]#*/*/*/*/*/*/} # parameter expansion, remove shortest match of that many "/"'s to remove the first few directories
-    echo "${subpath%.*}" # Return without the file extension
+    case "${flag}" in
+        n) appName=${OPTARG};;
+        v) verbose=1
+    esac
 done
 
-# P. S. I hate bash scripts...
+declare -a paths
+readarray -t paths < <(find /usr/share/icons/ -name *$appName*.*) # Make an array storing every result for the given appName
+declare -A entries
+
+for path in ${paths[@]};
+do
+    entry=${path#*/*/*/*/*/*/} # Remove the first few directories
+    entry=${entry%.*} # Remove file extension (must be seperate since bash disallows chaining parameter expansions)
+    entries[$entry]=$path
+done
+
+if [ $verbose ]; then
+
+    for entry in ${!entries[@]};
+    do
+        path=${entries["$entry"]}
+        echo "$entry found at $path" # Return entry and path of icon file
+    done
+
+else
+
+    for entry in ${!entries[@]};
+    do
+        echo $entry # Return entry
+    done
+fi
+
+# P. S. I hate writing bash scripts...

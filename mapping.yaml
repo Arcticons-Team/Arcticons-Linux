@@ -24,6 +24,12 @@ appearance:
   - preferences/preferences-desktop-theme-applications
   - preferences/preferences-desktop-theme-global
 arduinodroid:
+  - apps/arduino
+  - apps/arduino-icon-small
+  - apps/arduino-arduinoide
+  - apps/arduino-ide
+  - apps/arduino-ide-v2-symbolic
+  - apps/cc.arduino.arduinoide
   - apps/arduino-ide-v2
 attestationdedeplacement:
   - apps/kakoune
@@ -487,7 +493,8 @@ letter_lowercase_square_g:
   - apps/steam_icon_4000
 letter_uppercase_circle_p:
   - apps/polyglot
-letter_uppercase_square_z:
+  - apps/polyglot-symbolic
+  letter_uppercase_square_z:
   - apps/zotero
 libreofficeviewer:
   - apps/libreoffice-main
@@ -890,6 +897,10 @@ terminal:
   - apps/xfce-terminal
   - apps/yakuake
   - system/konsole
+  - apps/xfce-terminal-symbolic
+  - apps/xfce4-terminal
+  - apps/org.xfce.terminalemulator
+  - apps/org.xfce.terminal
 terraria:
   - apps/steam_icon_105600
 the_case_of_the_golden_idol:
@@ -970,3 +981,10 @@ yuzu:
   - apps/yuzu
 zoom:
   - apps/zoom-desktop
+beeper:
+  - apps/beeper
+blender:
+  - apps/blender
+  - apps/blender-symbolic
+  - apps/blender-2.7-symbolic
+  - apps/blender-2.7
