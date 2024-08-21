@@ -14,14 +14,14 @@ do
 done
 
 declare -a paths
-readarray -t paths < <(find /usr/share/icons/ -name *$appName*.*) # Make an array storing every result for the given appName
+declare -a paths_user
+readarray -t paths < <(find /usr/share/icons/ ~/.local/share/icons/ -type f -name "*${appName}*.*") # Make an array storing every result for the given appName
 declare -A entries
 
 for path in ${paths[@]};
 do
-    entry=${path#*/*/*/*/*/*/} # Remove the first few directories
-    entry=${entry%.*} # Remove file extension (must be seperate since bash disallows chaining parameter expansions)
-    entries[$entry]=$path
+    entry="$(basename "$(dirname "$path")")/$(basename "${path%.*}")" # Remove the leading directories and extension
+    entries[$entry]+="\t$path\n"
 done
 
 if [ $verbose ]; then
@@ -29,14 +29,14 @@ if [ $verbose ]; then
     for entry in ${!entries[@]};
     do
         path=${entries["$entry"]}
-        echo "$entry found at $path" # Return entry and path of icon file
+        printf "$entry found at:\n$path" # Return entry and path of icon file
     done
 
 else
 
     for entry in ${!entries[@]};
     do
-        echo $entry # Return entry
+        printf "$entry\n" # Return entry
     done
 fi
 
