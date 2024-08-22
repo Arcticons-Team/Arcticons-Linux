@@ -14,7 +14,6 @@ do
 done
 
 declare -a paths
-declare -a paths_user
 readarray -t paths < <(find /usr/share/icons/ ~/.local/share/icons/ -type f -name "*${appName}*.*") # Make an array storing every result for the given appName
 declare -A entries
 
