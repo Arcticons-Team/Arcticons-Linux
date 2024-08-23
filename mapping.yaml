@@ -30,7 +30,7 @@ arduinodroid:
   - apps/arduino-icon-small
   - apps/arduino-arduinoide
   - apps/arduino-ide
-  - apps/arduino-ide-v2-symbolic
+  - apps/arduino-ide-v2
   - apps/cc.arduino.arduinoide
   - apps/arduino-ide-v2
 attestationdedeplacement:
@@ -529,7 +529,6 @@ letter_lowercase_square_g:
   - apps/steam_icon_4000
 letter_uppercase_circle_p:
   - apps/polyglot
-  - apps/polyglot-symbolic
 letter_uppercase_square_z:
   - apps/zotero
 libreoffice:
@@ -978,7 +977,7 @@ terminal:
   - apps/xterm-color_48x48
   - apps/yakuake
   - system/konsole
-  - apps/xfce-terminal-symbolic
+  - apps/xfce-terminal
   - apps/xfce4-terminal
   - apps/org.xfce.terminalemulator
   - apps/org.xfce.terminal
@@ -1072,6 +1071,4 @@ beeper:
   - apps/beeper
 blender:
   - apps/blender
-  - apps/blender-symbolic
-  - apps/blender-2.7-symbolic
   - apps/blender-2.7
