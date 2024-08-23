@@ -704,9 +704,9 @@ print:
   - devices/printer-network
   - preferences/preferences-devices-printer
 proton_mail:
-  - panel/protonmail-indicator
-  - panel/protonmail-notification
   - apps/protonmail-desktop
+  - status/protonmail-indicator
+  - status/protonmail-notification
 proton_vpn:
   - apps/protonvpn-logo
 qbittorrent_remote:
