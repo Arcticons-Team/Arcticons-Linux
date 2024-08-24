@@ -4,3 +4,5 @@ arcticons/
 other
 *.7z
 .vscode/
+.ruff_cache/
+__pycache__/
