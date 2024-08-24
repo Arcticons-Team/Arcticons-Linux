@@ -27,18 +27,19 @@ ardour:
   - apps/ardour8
 arduinodroid:
   - apps/arduino
-  - apps/arduino-icon-small
   - apps/arduino-arduinoide
+  - apps/arduino-icon-small
   - apps/arduino-ide
   - apps/arduino-ide-v2
   - apps/cc.arduino.arduinoide
-  - apps/arduino-ide-v2
 attestationdedeplacement:
   - apps/kakoune
 baldurs_gate_3:
   - apps/steam_icon_1086940
 battery:
   - devices/battery
+beeper:
+  - apps/beeper
 bitwarden:
   - apps/bitwarden
 blender:
@@ -351,7 +352,6 @@ folder:
   - places/folder-yellow
   - system/index
   - system/org.kde.dolphin
-  - apps/org.kde.dolphin
 folder_alt_3:
   - places/folder-open
 folder_book:
@@ -971,16 +971,15 @@ terminal:
   - apps/foot
   - apps/gnome-xterm
   - apps/org.gnome.Terminal
+  - apps/org.xfce.terminal
+  - apps/org.xfce.terminalemulator
   - apps/terminal
   - apps/utilities-terminal
   - apps/xfce-terminal
+  - apps/xfce4-terminal
   - apps/xterm-color_48x48
   - apps/yakuake
   - system/konsole
-  - apps/xfce-terminal
-  - apps/xfce4-terminal
-  - apps/org.xfce.terminalemulator
-  - apps/org.xfce.terminal
 terraria:
   - apps/steam_icon_105600
 the_case_of_the_golden_idol:
@@ -1067,8 +1066,3 @@ yuzu:
   - apps/yuzu
 zoom:
   - apps/zoom-desktop
-beeper:
-  - apps/beeper
-blender:
-  - apps/blender
-  - apps/blender-2.7
