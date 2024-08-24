@@ -26,13 +26,20 @@ appearance:
 ardour:
   - apps/ardour8
 arduinodroid:
+  - apps/arduino
+  - apps/arduino-arduinoide
+  - apps/arduino-icon-small
+  - apps/arduino-ide
   - apps/arduino-ide-v2
+  - apps/cc.arduino.arduinoide
 attestationdedeplacement:
   - apps/kakoune
 baldurs_gate_3:
   - apps/steam_icon_1086940
 battery:
   - devices/battery
+beeper:
+  - apps/beeper
 bitwarden:
   - apps/bitwarden
 blender:
@@ -696,6 +703,7 @@ print:
   - devices/printer-network
   - preferences/preferences-devices-printer
 proton_mail:
+  - apps/protonmail-desktop
   - status/protonmail-indicator
   - status/protonmail-notification
 proton_vpn:
@@ -707,6 +715,8 @@ quakedroid:
   - apps/steam_icon_2310
   - apps/steam_icon_2320
   - apps/steam_icon_282440
+  - apps/steam_icon_9030
+  - apps/steam_icon_9040
 radiodroid:
   - status/audio-volume-high
 rar:
@@ -961,9 +971,12 @@ terminal:
   - apps/foot
   - apps/gnome-xterm
   - apps/org.gnome.Terminal
+  - apps/org.xfce.terminal
+  - apps/org.xfce.terminalemulator
   - apps/terminal
   - apps/utilities-terminal
   - apps/xfce-terminal
+  - apps/xfce4-terminal
   - apps/xterm-color_48x48
   - apps/yakuake
   - system/konsole
