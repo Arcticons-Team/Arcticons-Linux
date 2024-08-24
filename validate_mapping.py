@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """Validate the mapping file."""
 
 from argparse import ArgumentParser
