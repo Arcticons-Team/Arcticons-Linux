@@ -1,1068 +1,1066 @@
 about:
-  - apps/org.gnome.Settings-about
+- apps/org.gnome.Settings-about
 absolute_drift:
-  - apps/steam_icon_320140
+- apps/steam_icon_320140
 accounts:
-  - apps/org.gnome.Settings-users
+- apps/org.gnome.Settings-users
 activities:
-  - preferences/preferences-desktop-activities
+- preferences/preferences-desktop-activities
 aka:
-  - apps/steam_icon_1591450
+- apps/steam_icon_1591450
 amongus:
-  - apps/steam_icon_1849900
-  - apps/steam_icon_945360
+- apps/steam_icon_1849900
+- apps/steam_icon_945360
 android:
-  - mimetypes/android-package-archive
+- mimetypes/android-package-archive
 android_studio:
-  - apps/android-studio
-  - apps/android-studio-beta
-  - apps/android-studio-canary
-  - apps/android-studio-preview
-  - apps/androidstudio
+- apps/android-studio
+- apps/android-studio-beta
+- apps/android-studio-canary
+- apps/android-studio-preview
+- apps/androidstudio
 appearance:
-  - apps/org.gnome.Settings-appearance
-  - preferences/preferences-desktop-theme-applications
-  - preferences/preferences-desktop-theme-global
+- apps/org.gnome.Settings-appearance
+- preferences/preferences-desktop-theme-applications
+- preferences/preferences-desktop-theme-global
 ardour:
-  - apps/ardour8
+- apps/ardour8
 arduinodroid:
-  - apps/arduino
-  - apps/arduino-arduinoide
-  - apps/arduino-icon-small
-  - apps/arduino-ide
-  - apps/arduino-ide-v2
-  - apps/cc.arduino.arduinoide
+- apps/arduino
+- apps/arduino-arduinoide
+- apps/arduino-icon-small
+- apps/arduino-ide
+- apps/arduino-ide-v2
+- apps/cc.arduino.arduinoide
 attestationdedeplacement:
-  - apps/kakoune
+- apps/kakoune
 baldurs_gate_3:
-  - apps/steam_icon_1086940
+- apps/steam_icon_1086940
 battery:
-  - devices/battery
+- devices/battery
 beeper:
-  - apps/beeper
+- apps/beeper
 bitwarden:
-  - apps/bitwarden
+- apps/bitwarden
 blender:
-  - apps/blender
-  - apps/blender-2.7
+- apps/blender
+- apps/blender-2.7
 bloonstd6:
-  - apps/steam_icon_1276390
-  - apps/steam_icon_960090
+- apps/steam_icon_1276390
+- apps/steam_icon_960090
 bluetooth:
-  - apps/blueman
-  - apps/bluetooth
-  - apps/org.gnome.Settings-bluetooth
-  - devices/bluetooth
-  - status/blueman-tray
+- apps/blueman
+- apps/bluetooth
+- apps/org.gnome.Settings-bluetooth
+- devices/bluetooth
+- status/blueman-tray
 bluetooth_audio:
-  - status/blueman-active
+- status/blueman-active
 bluetooth_disabled:
-  - status/blueman-disabled
+- status/blueman-disabled
 bonfire_peaks:
-  - apps/steam_icon_1147890
+- apps/steam_icon_1147890
 broken_age:
-  - apps/steam_icon_232790
+- apps/steam_icon_232790
 browser:
-  - apps/org.gnome.Epiphany
-  - categories/applications-internet
-  - categories/applications-network
+- apps/org.gnome.Epiphany
+- categories/applications-internet
+- categories/applications-network
 cabinet:
-  - categories/applications-utilities
+- categories/applications-utilities
 calculator:
-  - apps/org.gnome.Calculator
+- apps/org.gnome.Calculator
 calibrecompanion:
-  - apps/calibre-ebook-edit
-  - apps/calibre-gui
-  - apps/calibre-viewer
-  - mimetypes/application-lrf
-  - mimetypes/application-x-kindle-application
-  - mimetypes/application-x-mobi8-ebook
-  - mimetypes/application-x-mobipocket-ebook
-  - mimetypes/application-x-topaz-ebook
-  - mimetypes/gnome-mime-application-lrf
-  - mimetypes/gnome-mime-application-x-kindle-application
-  - mimetypes/gnome-mime-application-x-mobi8-ebook
-  - mimetypes/gnome-mime-application-x-mobipocket-ebook
-  - mimetypes/gnome-mime-application-x-topaz-ebook
-  - mimetypes/gnome-mime-text-lrs
-  - mimetypes/text-lrs
+- apps/calibre-ebook-edit
+- apps/calibre-gui
+- apps/calibre-viewer
+- mimetypes/application-lrf
+- mimetypes/application-x-kindle-application
+- mimetypes/application-x-mobi8-ebook
+- mimetypes/application-x-mobipocket-ebook
+- mimetypes/application-x-topaz-ebook
+- mimetypes/gnome-mime-application-lrf
+- mimetypes/gnome-mime-application-x-kindle-application
+- mimetypes/gnome-mime-application-x-mobi8-ebook
+- mimetypes/gnome-mime-application-x-mobipocket-ebook
+- mimetypes/gnome-mime-application-x-topaz-ebook
+- mimetypes/gnome-mime-text-lrs
+- mimetypes/text-lrs
 camera:
-  - devices/camera-photo
+- devices/camera-photo
 celeste:
-  - apps/steam_icon_504230
+- apps/steam_icon_504230
 celestia:
-  - apps/celestia
+- apps/celestia
 chicory_a_colorful_tale:
-  - apps/steam_icon_1123450
+- apps/steam_icon_1123450
 citra:
-  - apps/citra
+- apps/citra
 compass:
-  - preferences/preferences-desktop-navigation
+- preferences/preferences-desktop-navigation
 contacts:
-  - apps/org.gnome.Contacts
-  - apps/org.kde.merkuro.contact
+- apps/org.gnome.Contacts
+- apps/org.kde.merkuro.contact
 cookie_clicker:
-  - apps/steam_icon_1454400
+- apps/steam_icon_1454400
 crashontherun:
-  - apps/steam_icon_1378990
-  - apps/steam_icon_731490
+- apps/steam_icon_1378990
+- apps/steam_icon_731490
 creaks:
-  - apps/steam_icon_956030
+- apps/steam_icon_956030
 cube_escape:
-  - apps/steam_icon_1292940
-  - apps/steam_icon_909080
+- apps/steam_icon_1292940
+- apps/steam_icon_909080
 cult_of_the_lamb:
-  - apps/steam_icon_1313140
+- apps/steam_icon_1313140
 date_and_time:
-  - apps/org.gnome.Settings-time
+- apps/org.gnome.Settings-time
 desktop_effects:
-  - preferences/preferences-desktop-effects
+- preferences/preferences-desktop-effects
 desktop_workspace:
-  - preferences/preferences-desktop
+- preferences/preferences-desktop
 destiny_2:
-  - apps/steam_icon_1085660
+- apps/steam_icon_1085660
 deviceinfo:
-  - apps/info-center
+- apps/info-center
 diaspora:
-  - apps/diaspora
+- apps/diaspora
 dictionary:
-  - apps/accessories-dictionary
+- apps/accessories-dictionary
 discord:
-  - apps/com.discordapp.Discord
-  - apps/dev.vencord.Vesktop
-  - apps/discord
-  - apps/webcord
+- apps/com.discordapp.Discord
+- apps/dev.vencord.Vesktop
+- apps/discord
+- apps/webcord
 documents:
-  - apps/okular
-  - apps/xreader
-  - emblems/emblem-documents
+- apps/okular
+- apps/xreader
+- emblems/emblem-documents
 dolphinemulator:
-  - apps/dophin-emu
+- apps/dophin-emu
 dont_starve:
-  - apps/steam_icon_219740
-  - apps/steam_icon_322330
+- apps/steam_icon_219740
+- apps/steam_icon_322330
 doom:
-  - apps/steam_icon_2280
-  - apps/steam_icon_379720
-  - apps/steam_icon_782330
+- apps/steam_icon_2280
+- apps/steam_icon_379720
+- apps/steam_icon_782330
 doom_2:
-  - apps/steam_icon_2300
+- apps/steam_icon_2300
 doom_3:
-  - apps/steam_icon_208200
+- apps/steam_icon_208200
 downwell:
-  - apps/Downwell.desktop
-  - apps/steam_icon_360740
+- apps/Downwell.desktop
+- apps/steam_icon_360740
 drawer:
-  - categories/applications-other
+- categories/applications-other
 dropbox:
-  - apps/dropbox
-  - status/dropboxstatus-blank
-  - status/dropboxstatus-busy
-  - status/dropboxstatus-busy2
-  - status/dropboxstatus-idle
-  - status/dropboxstatus-logo
-  - status/dropboxstatus-x
+- apps/dropbox
+- status/dropboxstatus-blank
+- status/dropboxstatus-busy
+- status/dropboxstatus-busy2
+- status/dropboxstatus-idle
+- status/dropboxstatus-logo
+- status/dropboxstatus-x
 dsphoto:
-  - emblems/emblem-photos
+- emblems/emblem-photos
 duckstation:
-  - apps/duckstation
+- apps/duckstation
 duet:
-  - apps/steam_icon_292600
+- apps/steam_icon_292600
 easyeffects:
-  - apps/com.github.wwmm.easyeffects
+- apps/com.github.wwmm.easyeffects
 element:
-  - apps/element
-  - apps/io.element.Element
+- apps/element
+- apps/io.element.Element
 enter_the_gungeon:
-  - apps/steam_icon_311690
+- apps/steam_icon_311690
 falloutshelter:
-  - apps/steam_icon_1151340
-  - apps/steam_icon_22370
-  - apps/steam_icon_22380
-  - apps/steam_icon_377160
+- apps/steam_icon_1151340
+- apps/steam_icon_22370
+- apps/steam_icon_22380
+- apps/steam_icon_377160
 favorites:
-  - actions/bookmarks
-  - apps/org.gnome.Settings-default-apps
-  - places/favorites
-  - preferences/preferences-desktop-default-applications
+- actions/bookmarks
+- apps/org.gnome.Settings-default-apps
+- places/favorites
+- preferences/preferences-desktop-default-applications
 feedback:
-  - preferences/preferences-desktop-feedback
+- preferences/preferences-desktop-feedback
 figma:
-  - apps/figma
-  - apps/figma-linux
+- apps/figma
+- apps/figma-linux
 file:
-  - mimetypes/unknown
-  - places/folder-documents
-  - preferences/preferences-document
+- mimetypes/unknown
+- places/folder-documents
+- preferences/preferences-document
 file_associations:
-  - preferences/preferences-desktop-filetype-association
+- preferences/preferences-desktop-filetype-association
 file_browser:
-  - mimetypes/gnome-mime-application-x-referencer
+- mimetypes/gnome-mime-application-x-referencer
 file_code:
-  - mimetypes/application-xml
+- mimetypes/application-xml
 file_code_2:
-  - mimetypes/text-vnd.wap.wmlscript
-  - mimetypes/text-x-vbscript
+- mimetypes/text-vnd.wap.wmlscript
+- mimetypes/text-x-vbscript
 file_folder:
-  - mimetypes/inode-mount-point
+- mimetypes/inode-mount-point
 file_justfile:
-  - mimetypes/text-x-justfile
+- mimetypes/text-x-justfile
 file_kotlin:
-  - mimetypes/text-x-kotlin
+- mimetypes/text-x-kotlin
 file_mail:
-  - mimetypes/message-rfc822
+- mimetypes/message-rfc822
 file_music:
-  - mimetypes/audio-ac3
-  - mimetypes/audio-flac
-  - mimetypes/audio-m4a
-  - mimetypes/audio-midi
-  - mimetypes/audio-mp2
-  - mimetypes/audio-mp3
-  - mimetypes/audio-mp4
-  - mimetypes/audio-mpeg
-  - mimetypes/audio-prs.sid
-  - mimetypes/audio-shn
-  - mimetypes/audio-vn.rn-realmedia
-  - mimetypes/audio-vnd.rn-realvideo
-  - mimetypes/audio-vnd.wave
-  - mimetypes/audio-x-adpcm
-  - mimetypes/audio-x-aiff
-  - mimetypes/audio-x-caf
-  - mimetypes/audio-x-flac
-  - mimetypes/audio-x-flac+ogg
-  - mimetypes/audio-x-generic
-  - mimetypes/audio-x-m4a
-  - mimetypes/audio-x-monkey
-  - mimetypes/audio-x-monkeys-audio
-  - mimetypes/audio-x-mp2
-  - mimetypes/audio-x-mp3-playlist
-  - mimetypes/audio-x-mpeg
-  - mimetypes/audio-x-mpegurl
-  - mimetypes/audio-x-ms-wax
-  - mimetypes/audio-x-ms-wma
-  - mimetypes/audio-x-ofr
-  - mimetypes/audio-x-pn-realaudio
-  - mimetypes/audio-x-scpls
-  - mimetypes/audio-x-speex+ogg
-  - mimetypes/audio-x-tta
-  - mimetypes/audio-x-vorbis+ogg
-  - mimetypes/audio-x-wav
-  - mimetypes/com.github.torikulhabib.mindi.aac
-  - mimetypes/com.github.torikulhabib.mindi.ac3
-  - mimetypes/com.github.torikulhabib.mindi.aiff
-  - mimetypes/com.github.torikulhabib.mindi.flac
-  - mimetypes/com.github.torikulhabib.mindi.mp3
-  - mimetypes/com.github.torikulhabib.mindi.ogg
-  - mimetypes/com.github.torikulhabib.mindi.wav
-  - mimetypes/com.github.torikulhabib.mindi.wma
+- mimetypes/audio-ac3
+- mimetypes/audio-flac
+- mimetypes/audio-m4a
+- mimetypes/audio-midi
+- mimetypes/audio-mp2
+- mimetypes/audio-mp3
+- mimetypes/audio-mp4
+- mimetypes/audio-mpeg
+- mimetypes/audio-prs.sid
+- mimetypes/audio-shn
+- mimetypes/audio-vn.rn-realmedia
+- mimetypes/audio-vnd.rn-realvideo
+- mimetypes/audio-vnd.wave
+- mimetypes/audio-x-adpcm
+- mimetypes/audio-x-aiff
+- mimetypes/audio-x-caf
+- mimetypes/audio-x-flac
+- mimetypes/audio-x-flac+ogg
+- mimetypes/audio-x-generic
+- mimetypes/audio-x-m4a
+- mimetypes/audio-x-monkey
+- mimetypes/audio-x-monkeys-audio
+- mimetypes/audio-x-mp2
+- mimetypes/audio-x-mp3-playlist
+- mimetypes/audio-x-mpeg
+- mimetypes/audio-x-mpegurl
+- mimetypes/audio-x-ms-wax
+- mimetypes/audio-x-ms-wma
+- mimetypes/audio-x-ofr
+- mimetypes/audio-x-pn-realaudio
+- mimetypes/audio-x-scpls
+- mimetypes/audio-x-speex+ogg
+- mimetypes/audio-x-tta
+- mimetypes/audio-x-vorbis+ogg
+- mimetypes/audio-x-wav
+- mimetypes/com.github.torikulhabib.mindi.aac
+- mimetypes/com.github.torikulhabib.mindi.ac3
+- mimetypes/com.github.torikulhabib.mindi.aiff
+- mimetypes/com.github.torikulhabib.mindi.flac
+- mimetypes/com.github.torikulhabib.mindi.mp3
+- mimetypes/com.github.torikulhabib.mindi.ogg
+- mimetypes/com.github.torikulhabib.mindi.wav
+- mimetypes/com.github.torikulhabib.mindi.wma
 file_presentation:
-  - mimetypes/x-office-presentation
+- mimetypes/x-office-presentation
 file_scala:
-  - mimetypes/text-x-scala
+- mimetypes/text-x-scala
 file_settings:
-  - mimetypes/text-x-makefile
+- mimetypes/text-x-makefile
 file_sheets:
-  - mimetypes/x-office-spreadsheet
+- mimetypes/x-office-spreadsheet
 file_stylus:
-  - mimetypes/text-x-stylus
+- mimetypes/text-x-stylus
 file_text:
-  - mimetypes/djvu
-  - mimetypes/text-vnd.trolltech.linguist
-  - mimetypes/text-x-generic
-  - mimetypes/text-x-modelica
+- mimetypes/djvu
+- mimetypes/text-vnd.trolltech.linguist
+- mimetypes/text-x-generic
+- mimetypes/text-x-modelica
 file_ttexmacs:
-  - mimetypes/text-x-texmacs
+- mimetypes/text-x-texmacs
 file_unit:
-  - mimetypes/text-x-systemd-unit
+- mimetypes/text-x-systemd-unit
 file_unknown:
-  - mimetypes/unknown
+- mimetypes/unknown
 file_video:
-  - mimetypes/playlist
-  - mimetypes/text-x-xges
-  - mimetypes/video
-  - mimetypes/video-mlt-playlist
-  - mimetypes/video-mp2t
-  - mimetypes/video-mp4
-  - mimetypes/video-vivo
-  - mimetypes/video-vnd.rn-realvideo
-  - mimetypes/video-wavelet
-  - mimetypes/video-webm
-  - mimetypes/video-x-anim
-  - mimetypes/video-x-flic
-  - mimetypes/video-x-flv
-  - mimetypes/video-x-generic
-  - mimetypes/video-x-google-vlc-plugin
-  - mimetypes/video-x-javafx
-  - mimetypes/video-x-matroska
-  - mimetypes/video-x-mng
-  - mimetypes/video-x-ms-asf
-  - mimetypes/video-x-ms-wmp
-  - mimetypes/video-x-ms-wmv
-  - mimetypes/video-x-msvideo
-  - mimetypes/video-x-ogm+ogg
-  - mimetypes/video-x-theora+ogg
-  - mimetypes/video-x-wmv
+- mimetypes/playlist
+- mimetypes/text-x-xges
+- mimetypes/video
+- mimetypes/video-mlt-playlist
+- mimetypes/video-mp2t
+- mimetypes/video-mp4
+- mimetypes/video-vivo
+- mimetypes/video-vnd.rn-realvideo
+- mimetypes/video-wavelet
+- mimetypes/video-webm
+- mimetypes/video-x-anim
+- mimetypes/video-x-flic
+- mimetypes/video-x-flv
+- mimetypes/video-x-generic
+- mimetypes/video-x-google-vlc-plugin
+- mimetypes/video-x-javafx
+- mimetypes/video-x-matroska
+- mimetypes/video-x-mng
+- mimetypes/video-x-ms-asf
+- mimetypes/video-x-ms-wmp
+- mimetypes/video-x-ms-wmv
+- mimetypes/video-x-msvideo
+- mimetypes/video-x-ogm+ogg
+- mimetypes/video-x-theora+ogg
+- mimetypes/video-x-wmv
 file_vue:
-  - mimetypes/text-x-vue
+- mimetypes/text-x-vue
 file_word:
-  - mimetypes/x-office-document
+- mimetypes/x-office-document
 file_wxmathml:
-  - mimetypes/text-x-wxmathml
+- mimetypes/text-x-wxmathml
 file_xoj:
-  - mimetypes/xoj
-  - mimetypes/xopt
+- mimetypes/xoj
+- mimetypes/xopt
 filelight:
-  - apps/filelight
+- apps/filelight
 firefox:
-  - apps/firedragon
-  - apps/firefox
-  - apps/firefox-default
-  - apps/firefox-developer-edition
-  - apps/firefox-esr
-  - apps/firefox-gtk3
-  - apps/firefox-icon
-  - apps/firefox-mozilla-buildn
-  - apps/firefox-original
-  - apps/firefox-trunk
-  - apps/install-firefox
+- apps/firedragon
+- apps/firefox
+- apps/firefox-default
+- apps/firefox-developer-edition
+- apps/firefox-esr
+- apps/firefox-gtk3
+- apps/firefox-icon
+- apps/firefox-mozilla-buildn
+- apps/firefox-original
+- apps/firefox-trunk
+- apps/install-firefox
 firefox_beta:
-  - apps/firefox-beta
-  - apps/firefox-beta-bin
+- apps/firefox-beta
+- apps/firefox-beta-bin
 firefox_nightly:
-  - apps/firefox-nightly
-  - apps/firefox-nightly-icon
+- apps/firefox-nightly
+- apps/firefox-nightly-icon
 fluffychat:
-  - apps/fluffychat
+- apps/fluffychat
 folder:
-  - apps/nemo
-  - apps/org.kde.dolphin
-  - apps/system-file-manager
-  - mimetypes/inode-directory
-  - mimetypes/inode-mountpoint
-  - places/folder
-  - places/folder-black
-  - places/folder-blue
-  - places/folder-brown
-  - places/folder-cyan
-  - places/folder-green
-  - places/folder-grey
-  - places/folder-magenta
-  - places/folder-stock
-  - places/folder-violet
-  - places/folder-yellow
-  - system/index
-  - system/org.kde.dolphin
+- apps/nemo
+- apps/org.kde.dolphin
+- apps/system-file-manager
+- mimetypes/inode-directory
+- mimetypes/inode-mountpoint
+- places/folder
+- places/folder-black
+- places/folder-blue
+- places/folder-brown
+- places/folder-cyan
+- places/folder-green
+- places/folder-grey
+- places/folder-magenta
+- places/folder-stock
+- places/folder-violet
+- places/folder-yellow
+- system/index
+- system/org.kde.dolphin
 folder_alt_3:
-  - places/folder-open
+- places/folder-open
 folder_book:
-  - places/folder-book
-  - places/folder-library
+- places/folder-book
+- places/folder-library
 folder_cloud:
-  - places/folder-cloud
-  - places/folder-gdrive
-  - places/folder-onedrive
-  - places/folder-owncloud
+- places/folder-cloud
+- places/folder-gdrive
+- places/folder-onedrive
+- places/folder-owncloud
 folder_desktop:
-  - places/desktop
-  - places/user-desktop
+- places/desktop
+- places/user-desktop
 folder_documents:
-  - places/folder-documents
+- places/folder-documents
 folder_download:
-  - places/folder-download
+- places/folder-download
 folder_favourite:
-  - places/folder-favorites
+- places/folder-favorites
 folder_games:
-  - places/folder-games
+- places/folder-games
 folder_home:
-  - places/user-home
+- places/user-home
 folder_important:
-  - places/folder-important
+- places/folder-important
 folder_lock:
-  - places/certificate-server
-  - places/folder-locked
+- places/certificate-server
+- places/folder-locked
 folder_mail:
-  - places/folder-mail
+- places/folder-mail
 folder_media:
-  - places/folder-video
-  - places/folder-videos
+- places/folder-video
+- places/folder-videos
 folder_music:
-  - places/folder-music
-  - places/folder-sound
+- places/folder-music
+- places/folder-sound
 folder_notes:
-  - places/folder-text
-  - places/folder-txt
+- places/folder-text
+- places/folder-txt
 folder_photos:
-  - places/folder-image
-  - places/folder-images
-  - places/folder-picture
-  - places/folder-pictures
+- places/folder-image
+- places/folder-images
+- places/folder-picture
+- places/folder-pictures
 folder_search:
-  - places/folder-html
-  - places/folder-saved-search
+- places/folder-html
+- places/folder-saved-search
 folder_shared:
-  - places/folder-image-people
-  - places/folder-public
+- places/folder-image-people
+- places/folder-public
 folder_sun:
-  - places/folder-activities
+- places/folder-activities
 forza_motorsport:
-  - apps/steam_icon_1293830
-  - apps/steam_icon_1551360
-  - apps/steam_icon_2440510
+- apps/steam_icon_1293830
+- apps/steam_icon_1551360
+- apps/steam_icon_2440510
 galaxystore:
-  - apps/org.kde.discover
-  - apps/plasmadiscover
+- apps/org.kde.discover
+- apps/plasmadiscover
 gallery:
-  - apps/gthumb
-  - apps/org.gnome.gThumb
-  - mimetypes/image-bmp
-  - mimetypes/image-gif
-  - mimetypes/image-ico
-  - mimetypes/image-jpeg
-  - mimetypes/image-jpeg2000
-  - mimetypes/image-png
-  - mimetypes/image-tiff
-  - mimetypes/image-x-generic
-  - mimetypes/image-x-portable-bitmap
+- apps/gthumb
+- apps/org.gnome.gThumb
+- mimetypes/image-bmp
+- mimetypes/image-gif
+- mimetypes/image-ico
+- mimetypes/image-jpeg
+- mimetypes/image-jpeg2000
+- mimetypes/image-png
+- mimetypes/image-tiff
+- mimetypes/image-x-generic
+- mimetypes/image-x-portable-bitmap
 games:
-  - categories/applications-games
-  - devices/input-gamepad
-  - devices/input-gaming
-  - preferences/preferences-desktop-gaming
+- categories/applications-games
+- devices/input-gamepad
+- devices/input-gaming
+- preferences/preferences-desktop-gaming
 gamma:
-  - preferences/preferences-desktop-display-color
+- preferences/preferences-desktop-display-color
 garden_story:
-  - apps/steam_icon_1062140
+- apps/steam_icon_1062140
 geometry_dash:
-  - apps/steam_icon_322170
+- apps/steam_icon_322170
 gimp:
-  - apps/gimp
+- apps/gimp
 godot:
-  - apps/godot
-  - apps/steam_icon_404790
+- apps/godot
+- apps/steam_icon_404790
 google_chrome:
-  - apps/chromium
-  - apps/google-chrome
-  - apps/google-chrome2
-  - apps/google_chrome
+- apps/chromium
+- apps/google-chrome
+- apps/google-chrome2
+- apps/google_chrome
 gwenview:
-  - apps/gwenview
+- apps/gwenview
 half_life:
-  - apps/steam_icon_1283930
-  - apps/steam_icon_130
-  - apps/steam_icon_1761270
-  - apps/steam_icon_1874090
-  - apps/steam_icon_1874090
-  - apps/steam_icon_1908720
-  - apps/steam_icon_2177750
-  - apps/steam_icon_2177760
-  - apps/steam_icon_261980
-  - apps/steam_icon_280
-  - apps/steam_icon_360
-  - apps/steam_icon_360
-  - apps/steam_icon_466270
-  - apps/steam_icon_50
-  - apps/steam_icon_587650
-  - apps/steam_icon_658920
-  - apps/steam_icon_679990
-  - apps/steam_icon_747250
+- apps/steam_icon_1283930
+- apps/steam_icon_130
+- apps/steam_icon_1761270
+- apps/steam_icon_1874090
+- apps/steam_icon_1908720
+- apps/steam_icon_2177750
+- apps/steam_icon_2177760
+- apps/steam_icon_261980
+- apps/steam_icon_280
+- apps/steam_icon_360
+- apps/steam_icon_466270
+- apps/steam_icon_50
+- apps/steam_icon_587650
+- apps/steam_icon_658920
+- apps/steam_icon_679990
+- apps/steam_icon_747250
 half_life_1:
-  - apps/steam_icon_38
-  - apps/steam_icon_70
+- apps/steam_icon_38
+- apps/steam_icon_70
 half_life_2:
-  - apps/steam_icon_220
-  - apps/steam_icon_290930
-  - apps/steam_icon_320
-  - apps/steam_icon_340
-  - apps/steam_icon_380
-  - apps/steam_icon_420
+- apps/steam_icon_220
+- apps/steam_icon_290930
+- apps/steam_icon_320
+- apps/steam_icon_340
+- apps/steam_icon_380
+- apps/steam_icon_420
 half_life_alyx:
-  - apps/steam_icon_546560
+- apps/steam_icon_546560
 hammer:
-  - categories/applications-development
+- categories/applications-development
 hard_disk_yast:
-  - devices/hard-disk-yast
+- devices/hard-disk-yast
 heart:
-  - emblems/emblem-favorite
+- emblems/emblem-favorite
 helvum:
-  - apps/org.pipewire.Helvum
+- apps/org.pipewire.Helvum
 hibernator:
-  - apps/system-hibernate
+- apps/system-hibernate
 hollow_knight:
-  - apps/steam_icon_367520
+- apps/steam_icon_367520
 hue:
-  - apps/steam_icon_383270
+- apps/steam_icon_383270
 idea:
-  - apps/idea
+- apps/idea
 inbento:
-  - apps/steam_icon_1567440
+- apps/steam_icon_1567440
 inkscape:
-  - apps/inkscape
-  - apps/inkscape-logo
-  - apps/org.inkscape.Inkscape
+- apps/inkscape
+- apps/inkscape-logo
+- apps/org.inkscape.Inkscape
 iriunwebcam:
-  - devices/camera-web
+- devices/camera-web
 jellydrift:
-  - apps/steam_icon_1740930
+- apps/steam_icon_1740930
 kde_connect:
-  - apps/kdeconnect
-  - preferences/kdeconnect
-  - preferences/preferences-kde-connect
-  - status/kdeconnect-tray
+- apps/kdeconnect
+- preferences/kdeconnect
+- preferences/preferences-kde-connect
+- status/kdeconnect-tray
 keepassdroid:
-  - apps/keepass
+- apps/keepass
 keepassxc:
-  - apps/keepassxc
+- apps/keepassxc
 keyboard:
-  - apps/org.gnome.Settings-keyboard
-  - devices/input-keyboard
+- apps/org.gnome.Settings-keyboard
+- devices/input-keyboard
 keylimba:
-  - apps/emoji-selector
+- apps/emoji-selector
 kingdomcomedeliverance:
-  - apps/lutris_kingdom-come-deliverance
+- apps/lutris_kingdom-come-deliverance
 kodi:
-  - apps/kodi
+- apps/kodi
 krita:
-  - apps/krita
+- apps/krita
 letter_lowercase_square_b:
-  - apps/btop
+- apps/btop
 letter_lowercase_square_g:
-  - apps/steam_icon_4000
+- apps/steam_icon_4000
 letter_uppercase_circle_p:
-  - apps/polyglot
+- apps/polyglot
 letter_uppercase_square_z:
-  - apps/zotero
+- apps/zotero
 libreoffice:
-  - apps/libreoffice-main
-  - apps/libreoffice-startcenter
-  - categories/applications-office
+- apps/libreoffice-main
+- apps/libreoffice-startcenter
+- categories/applications-office
 libreoffice_base:
-  - apps/libreoffice-base
-  - mimetypes/libreoffice-oasis-database
+- apps/libreoffice-base
+- mimetypes/libreoffice-oasis-database
 libreoffice_calc:
-  - apps/libreoffice-calc
-  - mimetypes/libreoffice-oasis-spreadsheet
-  - mimetypes/libreoffice-oasis-spreadsheet-template
-  - mimetypes/libreoffice-spreadsheet
-  - mimetypes/libreoffice-spreadsheet-template
+- apps/libreoffice-calc
+- mimetypes/libreoffice-oasis-spreadsheet
+- mimetypes/libreoffice-oasis-spreadsheet-template
+- mimetypes/libreoffice-spreadsheet
+- mimetypes/libreoffice-spreadsheet-template
 libreoffice_draw:
-  - apps/libreoffice-draw
-  - mimetypes/libreoffice-oasis-drawing
-  - mimetypes/libreoffice-oasis-drawing-template
+- apps/libreoffice-draw
+- mimetypes/libreoffice-oasis-drawing
+- mimetypes/libreoffice-oasis-drawing-template
 libreoffice_impress:
-  - apps/libreoffice-impress
-  - mimetypes/libreoffice-oasis-presentation
-  - mimetypes/libreoffice-oasis-presentation-template
-  - mimetypes/libreoffice-presentation
-  - mimetypes/libreoffice-presentation-template
+- apps/libreoffice-impress
+- mimetypes/libreoffice-oasis-presentation
+- mimetypes/libreoffice-oasis-presentation-template
+- mimetypes/libreoffice-presentation
+- mimetypes/libreoffice-presentation-template
 libreoffice_writer:
-  - apps/libreoffice-writer
-  - mimetypes/libreoffice-oasis-text
-  - mimetypes/libreoffice-oasis-text-template
-  - mimetypes/libreoffice-text
-  - mimetypes/libreoffice-text-template
+- apps/libreoffice-writer
+- mimetypes/libreoffice-oasis-text
+- mimetypes/libreoffice-oasis-text-template
+- mimetypes/libreoffice-text
+- mimetypes/libreoffice-text-template
 librescore:
-  - apps/librescore
+- apps/librescore
 librewolf:
-  - apps/librewolf
+- apps/librewolf
 limbo:
-  - apps/steam_icon_48000
+- apps/steam_icon_48000
 linksheet:
-  - emblems/emblem-symbolic-link
+- emblems/emblem-symbolic-link
 lock:
-  - apps/plasmavault
-  - apps/system-lock-screen
+- apps/plasmavault
+- apps/system-lock-screen
 logout:
-  - apps/system-log-out
+- apps/system-log-out
 magic:
-  - apps/steam_icon_2141910
+- apps/steam_icon_2141910
 mail:
-  - apps/kmail
+- apps/kmail
 mattermost:
-  - matermost-desktop
+- matermost-desktop
 mediaplayer:
-  - apps/mpv
-  - categories/applications-multimedia
+- apps/mpv
+- categories/applications-multimedia
 microsoft:
-  - categories/applications-all
+- categories/applications-all
 microsoft_edge:
-  - apps/microsoft-edge
+- apps/microsoft-edge
 microsoft_edge_beta:
-  - apps/microsft-edge-beta
+- apps/microsft-edge-beta
 microsoft_edge_dev:
-  - apps/microsft-edge-dev
+- apps/microsft-edge-dev
 microsoft_teams:
-  - apps/teams
+- apps/teams
 mindustry:
-  - apps/mindustry
+- apps/mindustry
 minecraft:
-  - apps/minecraft
-  - apps/minecraft-launcher
-  - apps/minecraft-pi
-  - apps/org.prismlauncher.PrismLauncher
-  - apps/polymc
-  - apps/steam_icon_1672970
-  - apps/steam_icon_1928870
+- apps/minecraft
+- apps/minecraft-launcher
+- apps/minecraft-pi
+- apps/org.prismlauncher.PrismLauncher
+- apps/polymc
+- apps/steam_icon_1672970
+- apps/steam_icon_1928870
 minetest:
-  - apps/minetest
-  - apps/minetest-icon
+- apps/minetest
+- apps/minetest-icon
 mini_metro:
-  - apps/steam_icon_287980
+- apps/steam_icon_287980
 mini_motorways:
-  - apps/steam_icon_1127500
+- apps/steam_icon_1127500
 minimize:
-  - actions/window-minimize
+- actions/window-minimize
 monero-gui:
-  - apps/monero-gui
+- apps/monero-gui
 monitor:
-  - apps/org.gnome.Settings-display
-  - preferences/preferences-desktop-display
-  - preferences/preferences-desktop-wallpaper
+- apps/org.gnome.Settings-display
+- preferences/preferences-desktop-display
+- preferences/preferences-desktop-wallpaper
 monopoly:
-  - apps/steam_icon_1474700
-  - apps/steam_icon_2383760
-  - apps/steam_icon_562810
+- apps/steam_icon_1474700
+- apps/steam_icon_2383760
+- apps/steam_icon_562810
 monument_valley:
-  - apps/steam_icon_1927720
+- apps/steam_icon_1927720
 mouse:
-  - apps/org.gnome.Settings-mouse
-  - devices/input-mouse
-  - preferences/preferences-desktop-mouse
+- apps/org.gnome.Settings-mouse
+- devices/input-mouse
+- preferences/preferences-desktop-mouse
 musescore:
-  - apps/mscore
+- apps/mscore
 music:
-  - apps/org.gnome.Music
-  - emblems/emblem-music
+- apps/org.gnome.Music
+- emblems/emblem-music
 neochat:
-  - apps/org.kde.neochat
+- apps/org.kde.neochat
 network_utilities:
-  - apps/org.gnome.Settings-network
-  - apps/preferences-system-network
+- apps/org.gnome.Settings-network
+- apps/preferences-system-network
 nextcloud:
-  - apps/Nextcloud
-  - apps/nextcloud
+- apps/Nextcloud
+- apps/nextcloud
 no_mans_sky:
-  - apps/steam_icon_275850
+- apps/steam_icon_275850
 notificationnotes:
-  - categories/applications-graphics
+- categories/applications-graphics
 notifications:
-  - actions/notifications
-  - apps/org.gnome.Settings-notifications
-  - preferences/preferences-desktop-notification-bell
+- actions/notifications
+- apps/org.gnome.Settings-notifications
+- preferences/preferences-desktop-notification-bell
 nuclear:
-  - apps/steam_icon_38400
-  - apps/steam_icon_38410
-  - apps/steam_icon_38420
+- apps/steam_icon_38400
+- apps/steam_icon_38410
+- apps/steam_icon_38420
 nvidia:
-  - apps/nvidia-settings
+- apps/nvidia-settings
 nwg-look:
-  - apps/nwg-look
+- apps/nwg-look
 obsidian:
-  - apps/obsidian
+- apps/obsidian
 openttd:
-  - apps/openttd
-  - apps/steam_icon_1536610
+- apps/openttd
+- apps/steam_icon_1536610
 opera:
-  - apps/opera
+- apps/opera
 opera_beta:
-  - apps/opera-beta
+- apps/opera-beta
 organtrail:
-  - apps/steam_icon_233740
+- apps/steam_icon_233740
 ori_and_the_blind_forest:
-  - apps/steam_icon_1057090
-  - apps/steam_icon_261570
+- apps/steam_icon_1057090
+- apps/steam_icon_261570
 osu:
-  - apps/osu!
+- apps/osu!
 other:
-  - preferences/preferences-other
+- preferences/preferences-other
 outer_wilds:
-  - apps/steam_icon_753640
+- apps/steam_icon_753640
 papers_please:
-  - apps/steam_icon_239030
+- apps/steam_icon_239030
 plagueinc:
-  - apps/steam_icon_246620
+- apps/steam_icon_246620
 plants_vs_zombies:
-  - apps/steam_icon_1262240
-  - apps/steam_icon_1922560
-  - apps/steam_icon_3590
+- apps/steam_icon_1262240
+- apps/steam_icon_1922560
+- apps/steam_icon_3590
 plasma_search:
-  - preferences/plasma-search
+- preferences/plasma-search
 plasma_system_monitor:
-  - apps/utilities-system-monitor
+- apps/utilities-system-monitor
 pocket_casts:
-  - apps/pocket-casts
-  - apps/pocket-casts-linux
-  - apps/pocketcasts
+- apps/pocket-casts
+- apps/pocket-casts-linux
+- apps/pocketcasts
 ppsspp:
-  - apps/ppsspp
+- apps/ppsspp
 print:
-  - actions/document-print
-  - apps/org.gnome.Settings-printers
-  - devices/cups
-  - devices/cupsprinter
-  - devices/printer
-  - devices/printer-network
-  - preferences/preferences-devices-printer
+- actions/document-print
+- apps/org.gnome.Settings-printers
+- devices/cups
+- devices/cupsprinter
+- devices/printer
+- devices/printer-network
+- preferences/preferences-devices-printer
 proton_mail:
-  - apps/protonmail-desktop
-  - status/protonmail-indicator
-  - status/protonmail-notification
+- apps/protonmail-desktop
+- status/protonmail-indicator
+- status/protonmail-notification
 proton_vpn:
-  - apps/protonvpn-logo
+- apps/protonvpn-logo
 qbittorrent_remote:
-  - apps/qbittorrent
+- apps/qbittorrent
 quakedroid:
-  - apps/steam_icon_2210
-  - apps/steam_icon_2310
-  - apps/steam_icon_2320
-  - apps/steam_icon_282440
-  - apps/steam_icon_9030
-  - apps/steam_icon_9040
+- apps/steam_icon_2210
+- apps/steam_icon_2310
+- apps/steam_icon_2320
+- apps/steam_icon_282440
+- apps/steam_icon_9030
+- apps/steam_icon_9040
 radiodroid:
-  - status/audio-volume-high
+- status/audio-volume-high
 rar:
-  - apps/ark
+- apps/ark
 reboot:
-  - apps/system-reboot
+- apps/system-reboot
 regional_settings:
-  - preferences/preferences-desktop-locale
+- preferences/preferences-desktop-locale
 removable_storage:
-  - apps/org.gnome.Settings-removable-media
-  - preferences/device-notifier
-  - preferences/drive-removable-media
+- apps/org.gnome.Settings-removable-media
+- preferences/device-notifier
+- preferences/drive-removable-media
 retroarch:
-  - apps/retroarch
+- apps/retroarch
 risk_of_rain_2:
-  - apps/steam_632360
+- apps/steam_632360
 rocket_league_sideswipe:
-  - apps/steam_icon_252950
+- apps/steam_icon_252950
 rss:
-  - apps/akregator
+- apps/akregator
 samrewritten:
-  - apps/samrewritten
+- apps/samrewritten
 satisfactory:
-  - apps/steam_icon_526870
+- apps/steam_icon_526870
 schildichat:
-  - apps/schildichat-desktop
+- apps/schildichat-desktop
 search:
-  - apps/org.gnome.Settings-search
+- apps/org.gnome.Settings-search
 settings:
-  - apps/ibus-engine
-  - apps/ibus-setup
-  - apps/org.gnome.Settings
-  - apps/preferences-other
-  - apps/preferences-system
-  - apps/steam_icon_427520
-  - apps/systemsettings
-  - categories/applications-settings
+- apps/ibus-engine
+- apps/ibus-setup
+- apps/org.gnome.Settings
+- apps/preferences-other
+- apps/preferences-system
+- apps/steam_icon_427520
+- apps/systemsettings
+- categories/applications-settings
 sharetoclipboard:
-  - emblems/emblem-shared
-  - places/folder-publicshare
+- emblems/emblem-shared
+- places/folder-publicshare
 shield:
-  - apps/gufw
-  - preferences/preferences-security
-  - preferences/preferences-security-apparmor
-  - preferences/preferences-security-firewall
+- apps/gufw
+- preferences/preferences-security
+- preferences/preferences-security-apparmor
+- preferences/preferences-security-firewall
 shutdown:
-  - apps/system-shutdown
+- apps/system-shutdown
 signal:
-  - apps/org.signal.Signal
-  - apps/signal-desktop
+- apps/org.signal.Signal
+- apps/signal-desktop
 sim:
-  - devices/auth-sim
+- devices/auth-sim
 simple_calendar:
-  - apps/org.gnome.Calendar
-  - apps/org.gnome.Calendar.Devel
-  - apps/org.kde.merkuro.calendar
+- apps/org.gnome.Calendar
+- apps/org.gnome.Calendar.Devel
+- apps/org.kde.merkuro.calendar
 simplenotes:
-  - apps/accessories-text-editor
-  - apps/kwrite
-  - apps/org.gnome.TextEditor
-  - apps/org.gnome.gedit
-  - mimetypes/application-application-rtf
-  - mimetypes/application-application-sxw
-  - mimetypes/application-msonenote
-  - mimetypes/application-msword-template
-  - mimetypes/text-x-adasrc
-  - mimetypes/text-x-generic
-  - mimetypes/text-x-vnd.abc
-  - mimetypes/x-office-document
+- apps/accessories-text-editor
+- apps/kwrite
+- apps/org.gnome.TextEditor
+- apps/org.gnome.gedit
+- mimetypes/application-application-rtf
+- mimetypes/application-application-sxw
+- mimetypes/application-msonenote
+- mimetypes/application-msword-template
+- mimetypes/text-x-adasrc
+- mimetypes/text-x-generic
+- mimetypes/text-x-vnd.abc
+- mimetypes/x-office-document
 simpletexteditor:
-  - apps/QOwnNotes
-  - apps/kate
-  - apps/kate2
+- apps/QOwnNotes
+- apps/kate
+- apps/kate2
 simpleweather:
-  - apps/org.gnome.Weather
+- apps/org.gnome.Weather
 skyrim:
-  - apps/steam_icon_365720
-  - apps/steam_icon_489830
-  - apps/steam_icon_72850
+- apps/steam_icon_365720
+- apps/steam_icon_489830
+- apps/steam_icon_72850
 slack:
-  - apps/slack
+- apps/slack
 slay_the_spire:
-  - apps/steam_icon_646570
+- apps/steam_icon_646570
 snakebird:
-  - apps/steam_icon_1014140
-  - apps/steam_icon_357300
+- apps/steam_icon_1014140
+- apps/steam_icon_357300
 sokpop:
-  - apps/steam_icon_1003730
-  - apps/steam_icon_1097090
-  - apps/steam_icon_1119800
-  - apps/steam_icon_1134630
-  - apps/steam_icon_1135030
-  - apps/steam_icon_1135040
-  - apps/steam_icon_1135050
-  - apps/steam_icon_1135060
-  - apps/steam_icon_1135070
-  - apps/steam_icon_1135090
-  - apps/steam_icon_1135100
-  - apps/steam_icon_1135110
-  - apps/steam_icon_1135120
-  - apps/steam_icon_1135130
-  - apps/steam_icon_1135140
-  - apps/steam_icon_1135150
-  - apps/steam_icon_1135160
-  - apps/steam_icon_1135170
-  - apps/steam_icon_1135180
-  - apps/steam_icon_1135190
-  - apps/steam_icon_1135200
-  - apps/steam_icon_1135210
-  - apps/steam_icon_1163300
-  - apps/steam_icon_1163570
-  - apps/steam_icon_1167710
-  - apps/steam_icon_1167850
-  - apps/steam_icon_1168420
-  - apps/steam_icon_1206140
-  - apps/steam_icon_1206230
-  - apps/steam_icon_1206260
-  - apps/steam_icon_1206720
-  - apps/steam_icon_1206810
-  - apps/steam_icon_1207400
-  - apps/steam_icon_1207480
-  - apps/steam_icon_1209440
-  - apps/steam_icon_1210010
-  - apps/steam_icon_1211540
-  - apps/steam_icon_1212100
-  - apps/steam_icon_1212170
-  - apps/steam_icon_1212190
-  - apps/steam_icon_1212930
-  - apps/steam_icon_1213600
-  - apps/steam_icon_1214450
-  - apps/steam_icon_1214600
-  - apps/steam_icon_1214630
-  - apps/steam_icon_1215410
-  - apps/steam_icon_1218420
-  - apps/steam_icon_1218790
-  - apps/steam_icon_1218890
-  - apps/steam_icon_1218920
-  - apps/steam_icon_1228680
-  - apps/steam_icon_1229250
-  - apps/steam_icon_1232140
-  - apps/steam_icon_1234890
-  - apps/steam_icon_1263820
-  - apps/steam_icon_1265850
-  - apps/steam_icon_1271070
-  - apps/steam_icon_1290110
-  - apps/steam_icon_1290790
-  - apps/steam_icon_1310690
-  - apps/steam_icon_1338130
-  - apps/steam_icon_1356480
-  - apps/steam_icon_1362430
-  - apps/steam_icon_1368060
-  - apps/steam_icon_1390010
-  - apps/steam_icon_1392190
-  - apps/steam_icon_1413350
-  - apps/steam_icon_1413630
-  - apps/steam_icon_1442390
-  - apps/steam_icon_1446000
-  - apps/steam_icon_1459870
-  - apps/steam_icon_1465120
-  - apps/steam_icon_1485600
-  - apps/steam_icon_1510620
-  - apps/steam_icon_1515040
-  - apps/steam_icon_1519770
-  - apps/steam_icon_1542170
-  - apps/steam_icon_1545780
-  - apps/steam_icon_1567060
-  - apps/steam_icon_1577750
-  - apps/steam_icon_1611640
-  - apps/steam_icon_1654830
-  - apps/steam_icon_1669050
-  - apps/steam_icon_1695480
-  - apps/steam_icon_1711690
-  - apps/steam_icon_1740070
-  - apps/steam_icon_1766200
-  - apps/steam_icon_1845370
-  - apps/steam_icon_1861980
-  - apps/steam_icon_1872790
-  - apps/steam_icon_1927380
-  - apps/steam_icon_1975670
-  - apps/steam_icon_2051440
-  - apps/steam_icon_2055270
-  - apps/steam_icon_2124770
-  - apps/steam_icon_2145080
-  - apps/steam_icon_2222200
-  - apps/steam_icon_2295700
-  - apps/steam_icon_2333020
-  - apps/steam_icon_2535670
-  - apps/steam_icon_2618090
-  - apps/steam_icon_561190
-  - apps/steam_icon_932850
+- apps/steam_icon_1003730
+- apps/steam_icon_1097090
+- apps/steam_icon_1119800
+- apps/steam_icon_1134630
+- apps/steam_icon_1135030
+- apps/steam_icon_1135040
+- apps/steam_icon_1135050
+- apps/steam_icon_1135060
+- apps/steam_icon_1135070
+- apps/steam_icon_1135090
+- apps/steam_icon_1135100
+- apps/steam_icon_1135110
+- apps/steam_icon_1135120
+- apps/steam_icon_1135130
+- apps/steam_icon_1135140
+- apps/steam_icon_1135150
+- apps/steam_icon_1135160
+- apps/steam_icon_1135170
+- apps/steam_icon_1135180
+- apps/steam_icon_1135190
+- apps/steam_icon_1135200
+- apps/steam_icon_1135210
+- apps/steam_icon_1163300
+- apps/steam_icon_1163570
+- apps/steam_icon_1167710
+- apps/steam_icon_1167850
+- apps/steam_icon_1168420
+- apps/steam_icon_1206140
+- apps/steam_icon_1206230
+- apps/steam_icon_1206260
+- apps/steam_icon_1206720
+- apps/steam_icon_1206810
+- apps/steam_icon_1207400
+- apps/steam_icon_1207480
+- apps/steam_icon_1209440
+- apps/steam_icon_1210010
+- apps/steam_icon_1211540
+- apps/steam_icon_1212100
+- apps/steam_icon_1212170
+- apps/steam_icon_1212190
+- apps/steam_icon_1212930
+- apps/steam_icon_1213600
+- apps/steam_icon_1214450
+- apps/steam_icon_1214600
+- apps/steam_icon_1214630
+- apps/steam_icon_1215410
+- apps/steam_icon_1218420
+- apps/steam_icon_1218790
+- apps/steam_icon_1218890
+- apps/steam_icon_1218920
+- apps/steam_icon_1228680
+- apps/steam_icon_1229250
+- apps/steam_icon_1232140
+- apps/steam_icon_1234890
+- apps/steam_icon_1263820
+- apps/steam_icon_1265850
+- apps/steam_icon_1271070
+- apps/steam_icon_1290110
+- apps/steam_icon_1290790
+- apps/steam_icon_1310690
+- apps/steam_icon_1338130
+- apps/steam_icon_1356480
+- apps/steam_icon_1362430
+- apps/steam_icon_1368060
+- apps/steam_icon_1390010
+- apps/steam_icon_1392190
+- apps/steam_icon_1413350
+- apps/steam_icon_1413630
+- apps/steam_icon_1442390
+- apps/steam_icon_1446000
+- apps/steam_icon_1459870
+- apps/steam_icon_1465120
+- apps/steam_icon_1485600
+- apps/steam_icon_1510620
+- apps/steam_icon_1515040
+- apps/steam_icon_1519770
+- apps/steam_icon_1542170
+- apps/steam_icon_1545780
+- apps/steam_icon_1567060
+- apps/steam_icon_1577750
+- apps/steam_icon_1611640
+- apps/steam_icon_1654830
+- apps/steam_icon_1669050
+- apps/steam_icon_1695480
+- apps/steam_icon_1711690
+- apps/steam_icon_1740070
+- apps/steam_icon_1766200
+- apps/steam_icon_1845370
+- apps/steam_icon_1861980
+- apps/steam_icon_1872790
+- apps/steam_icon_1927380
+- apps/steam_icon_1975670
+- apps/steam_icon_2051440
+- apps/steam_icon_2055270
+- apps/steam_icon_2124770
+- apps/steam_icon_2145080
+- apps/steam_icon_2222200
+- apps/steam_icon_2295700
+- apps/steam_icon_2333020
+- apps/steam_icon_2535670
+- apps/steam_icon_2618090
+- apps/steam_icon_561190
+- apps/steam_icon_932850
 sonic_the_hedgehog:
-  - apps/steam_icon_1237320
-  - apps/steam_icon_1794960
-  - apps/steam_icon_202530
-  - apps/steam_icon_203650
-  - apps/steam_icon_2055290
-  - apps/steam_icon_212480
-  - apps/steam_icon_213610
-  - apps/steam_icon_2324650
-  - apps/steam_icon_329440
-  - apps/steam_icon_34190
-  - apps/steam_icon_34278
-  - apps/steam_icon_34313
-  - apps/steam_icon_584400
-  - apps/steam_icon_637100
-  - apps/steam_icon_71250
-  - apps/steam_icon_71340
-  - apps/steam_icon_785260
+- apps/steam_icon_1237320
+- apps/steam_icon_1794960
+- apps/steam_icon_202530
+- apps/steam_icon_203650
+- apps/steam_icon_2055290
+- apps/steam_icon_212480
+- apps/steam_icon_213610
+- apps/steam_icon_2324650
+- apps/steam_icon_329440
+- apps/steam_icon_34190
+- apps/steam_icon_34278
+- apps/steam_icon_34313
+- apps/steam_icon_584400
+- apps/steam_icon_637100
+- apps/steam_icon_71250
+- apps/steam_icon_71340
+- apps/steam_icon_785260
 sony_headphones:
-  - devices/audio-headphones
+- devices/audio-headphones
 spectacle:
-  - apps/spectacle
+- apps/spectacle
 spot:
-  - apps/spot
+- apps/spot
 spotify:
-  - apps/spot
-  - apps/spotify-client
+- apps/spot
+- apps/spotify-client
 spotube:
-  - apps/spotube-logo
+- apps/spotube-logo
 stackland:
-  - apps/steam_icon_1948280
+- apps/steam_icon_1948280
 starfield:
-  - apps/steam_icon_1716740
+- apps/steam_icon_1716740
 steam:
-  - apps/steam
+- apps/steam
 steam_deck:
-  - actions/steamdeck-gaming-return
+- actions/steamdeck-gaming-return
 stellarium:
-  - apps/org.stellarium.Stellarium
-  - apps/stellarium
+- apps/org.stellarium.Stellarium
+- apps/stellarium
 stumble_guys:
-  - apps/steam_icon_1677740
+- apps/steam_icon_1677740
 superautopets:
-  - apps/steam_icon_1714040
+- apps/steam_icon_1714040
 supertux:
-  - apps/supertux
+- apps/supertux
 suspend:
-  - apps/system-suspend
+- apps/system-suspend
 symbol_exclamation_mark:
-  - apps/ibus
+- apps/ibus
 syncthing:
-  - apps/syncthing
+- apps/syncthing
 systemusagedirect:
-  - categories/applications-system
+- categories/applications-system
 telegram:
-  - apps/telegram
-  - apps/telegram-desktop
-  - apps/telegram-desktop-bin
+- apps/telegram
+- apps/telegram-desktop
+- apps/telegram-desktop-bin
 terminal:
-  - apps/alacritty
-  - apps/com.alacritty.Alacritty
-  - apps/foot
-  - apps/gnome-xterm
-  - apps/org.gnome.Terminal
-  - apps/org.xfce.terminal
-  - apps/org.xfce.terminalemulator
-  - apps/terminal
-  - apps/utilities-terminal
-  - apps/xfce-terminal
-  - apps/xfce4-terminal
-  - apps/xterm-color_48x48
-  - apps/yakuake
-  - system/konsole
+- apps/alacritty
+- apps/com.alacritty.Alacritty
+- apps/foot
+- apps/gnome-xterm
+- apps/org.gnome.Terminal
+- apps/org.xfce.terminal
+- apps/org.xfce.terminalemulator
+- apps/terminal
+- apps/utilities-terminal
+- apps/xfce-terminal
+- apps/xfce4-terminal
+- apps/xterm-color_48x48
+- apps/yakuake
+- system/konsole
 terraria:
-  - apps/steam_icon_105600
+- apps/steam_icon_105600
 the_case_of_the_golden_idol:
-  - apps/steam_icon_1677770
+- apps/steam_icon_1677770
 the_last_campfire:
-  - apps/steam_icon_990630
+- apps/steam_icon_990630
 the_outer_worlds:
-  - apps/steam_icon_578650
+- apps/steam_icon_578650
 the_stanley_parable:
-  - apps/steam_icon_1703340
-  - apps/steam_icon_221910
+- apps/steam_icon_1703340
+- apps/steam_icon_221910
 the_talos_principle:
-  - apps/steam_icon_257510
-  - apps/steam_icon_552440
+- apps/steam_icon_257510
+- apps/steam_icon_552440
 the_talos_principle_2:
-  - apps/steam_icon_835960
+- apps/steam_icon_835960
 thunderbird:
-  - apps/org.mozilla.Thunderbird
-  - apps/thunderbird
+- apps/org.mozilla.Thunderbird
+- apps/thunderbird
 thunderbolt:
-  - preferences/preferences-desktop-thunderbolt
+- preferences/preferences-desktop-thunderbolt
 torbrowser:
-  - apps/tor
-  - apps/tor-browser
-  - apps/tor-browser-en
-  - apps/tor-browser-nightly
-  - apps/tor-browser-ru
-  - apps/torbrowser
+- apps/tor
+- apps/tor-browser
+- apps/tor-browser-en
+- apps/tor-browser-nightly
+- apps/tor-browser-ru
+- apps/torbrowser
 torbrowser_alpha:
-  - apps/tor-browser-alpha
+- apps/tor-browser-alpha
 trashcan:
-  - places/user-trash
-  - places/user-trash-full
+- places/user-trash
+- places/user-trash-full
 vector:
-  - apps/steam_icon_248970
+- apps/steam_icon_248970
 videocrop:
-  - devices/camera-video
+- devices/camera-video
 vim:
-  - apps/vim
+- apps/vim
 virt_manager:
-  - apps/virt-manager
+- apps/virt-manager
 visual_studio_code:
-  - apps/visual-studio-code
-  - apps/visual-studio-code-insiders
-  - apps/vscode
+- apps/visual-studio-code
+- apps/visual-studio-code-insiders
+- apps/vscode
 vivaldi:
-  - apps/vivaldi
-  - apps/vivaldi-stable
-  - apps/vivaldi_logo
+- apps/vivaldi
+- apps/vivaldi-stable
+- apps/vivaldi_logo
 vivaldi_snapshot:
-  - apps/vivaldi-snapshot
+- apps/vivaldi-snapshot
 vlc:
-  - apps/vlc
-  - apps/vlc-kb
-  - apps/vlc-xmas
+- apps/vlc
+- apps/vlc-kb
+- apps/vlc-xmas
 volume_styles:
-  - apps/multimedia-volume-control
+- apps/multimedia-volume-control
 vscodium:
-  - apps/vscodium
+- apps/vscodium
 wifi:
-  - devices/network-wireless
+- devices/network-wireless
 wikipedia:
-  - apps/wikipedia
+- apps/wikipedia
 worldexplorers:
-  - apps/steam_icon_544730
-  - apps/steam_icon_857680
+- apps/steam_icon_544730
+- apps/steam_icon_857680
 wurdweb:
-  - apps/steam_icon_2185880
+- apps/steam_icon_2185880
 xemu:
-  - apps/xemu
+- apps/xemu
 ymuse:
-  - apps/com.yktoo.ymuse
+- apps/com.yktoo.ymuse
 youtube:
-  - apps/youtube
+- apps/youtube
 youtube_music:
-  - apps/youtube_music
-  - apps/youtube_music-desktop-app
+- apps/youtube_music
+- apps/youtube_music-desktop-app
 yubico_authenticator:
-  - apps/com.yubico.yubioath
-  - apps/ykman
-  - apps/yubikey-personalization-gui
-  - apps/yubioath-desktop
+- apps/com.yubico.yubioath
+- apps/ykman
+- apps/yubikey-personalization-gui
+- apps/yubioath-desktop
 yuzu:
-  - apps/yuzu
+- apps/yuzu
 zoom:
-  - apps/zoom-desktop
+- apps/zoom-desktop
