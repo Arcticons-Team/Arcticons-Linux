@@ -19,3 +19,9 @@ repos:
         entry: scripts/validate_mapping.py --fix --file
         language: script
         files: mapping.yaml
+      - id: sync_icons
+        name: sync_icons
+        entry: scripts/sync_icons.py --fix icons_linux
+        language: script
+        pass_filenames: false
+        files: ^icons_linux/.*\.svg$
