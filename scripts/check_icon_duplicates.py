@@ -29,12 +29,15 @@ def main(src_folder: Path, target_folder: Path, *, fix: bool = False) -> bool:
         same_content = False
         if same_size:
             same_content = cmp(src_file, target_file, shallow=False)
-        print(
-            f"{file}; size {"same" if same_size else "different"}",
-            end="" if same_size else "\n",
-        )
-        if same_size:
-            print(f"; content {"same" if same_content else "different"}")
+
+        if not same_size:
+            print(
+                f"{src_file} -> {target_file}; size different ({src_file.stat().st_size} -> {target_file.stat().st_size})"
+            )
+        else:
+            print(
+                f"{src_file} -> {target_file}; size same; content {"same" if same_content else "different"}"
+            )
         if fix and same_content:
             target_file.unlink()
     return False
