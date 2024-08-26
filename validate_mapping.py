@@ -47,7 +47,7 @@ def validate_mapping(*, fix: bool = False) -> bool:
             valid = False
 
         if sorted(values) != values:
-            logging.error("The entry '%s' has unsorted values")
+            logging.error("The entry '%s' has unsorted values", entry)
             valid = False
 
     if not fix:
