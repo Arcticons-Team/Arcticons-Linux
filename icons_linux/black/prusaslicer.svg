@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg18" version="1.1" viewBox="0 0 48 48">
+  <defs id="defs6">
+    <style id="style2">
+      .a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round}
+    </style>
+  </defs>
+  <rect id="rect8" width="37" height="37" x="5.5" y="5.5" stroke-width="2" rx="4" ry="4" style="fill:none;stroke:#000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <path id="path10" d="M32.548 12.803c-4.248-4.248-11.133-4.248-15.38 0-4.248 4.248-4.248 11.134 0 15.38z" style="fill:none;stroke:#000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <path id="path12" d="M15.45 35.194c4.248 4.249 11.134 4.249 15.38 0 4.249-4.248 4.249-11.133 0-15.38z" style="fill:none;stroke:#000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+</svg>

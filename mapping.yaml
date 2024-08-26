@@ -1064,3 +1064,54 @@ yuzu:
 - apps/yuzu
 zoom:
 - apps/zoom-desktop
+archiver:
+- apps/archivemanager
+- apps/org.gnome.ArchiveManager
+backup:
+- apps/mintbackup
+calendar_google:
+- apps/googlecalendar
+darktable:
+- apps/darktable
+flameshot:
+- apps/flameshot
+- apps/org.flameshot.Flameshot
+freecad:
+- apps/freecad
+gcompris:
+- apps/gcompris
+- apps/org.kde.gcompris
+ghostwriter:
+- apps/ghostwriter
+kdenlive:
+- apps/kdenlive
+localsend:
+- apps/localsend
+microsoft_planner:
+- apps/microsoft_planner
+octoprint:
+- apps/octoprint
+paperwork:
+- apps/paperwork
+- apps/work.openpaper.Paperwork
+photo:
+- apps/image_viewer
+- apps/xviewer
+prusaslicer:
+- apps/com.prusa3d.PrusaSlicer
+- apps/prusaslicer
+rog:
+- apps/rog-control-center
+scanner:
+- apps/org.gnome.SimpleScan
+- apps/scanner
+spotify:
+- apps/com.spotify.Client
+- apps/spotify
+subsurface:
+- apps/subsurface-icon
+torbrowser:
+- apps/org.torproject.torbrowser-launcher
+whatsapp:
+- apps/whatsapp
+
