@@ -16,6 +16,6 @@ repos:
     hooks:
       - id: validate_mapping
         name: validate_mapping
-        entry: ./validate_mapping.py --fix --file
+        entry: scripts/validate_mapping.py --fix --file
         language: script
         files: mapping.yaml
