@@ -11,11 +11,11 @@ import yaml
 LOGGER = logging.getLogger()
 
 
-def validate_mapping(*, fix: bool = False) -> bool:
+def validate_mapping(file: Path, *, fix: bool = False) -> bool:
     """Validate the mapping file."""
     valid = True
 
-    with Path("mapping.yaml").open(encoding="utf8") as yaml_fp:
+    with file.open(encoding="utf8") as yaml_fp:
         yaml_doc: dict[str, list[str]] = yaml.safe_load(yaml_fp)
 
         yaml_fp.seek(0, 0)
@@ -57,7 +57,7 @@ def validate_mapping(*, fix: bool = False) -> bool:
     for entry, values in yaml_doc.items():
         fixed_doc[entry] = sorted(set(values))
 
-    with Path("mapping.yaml").open("w", encoding="utf8") as yaml_fp:
+    with file.open("w", encoding="utf8") as yaml_fp:
         yaml.safe_dump(fixed_doc, yaml_fp, default_flow_style=False)
 
     return True
@@ -70,9 +70,12 @@ if __name__ == "__main__":
     parser.add_argument(
         "--fix", help="Fixes the mapping file.", action="store_true", default=False
     )
+    parser.add_argument(
+        "--file", help="File to validate", type=Path, default=Path("mapping.yaml")
+    )
     args = parser.parse_args()
 
-    if validate_mapping(fix=args.fix):
+    if validate_mapping(args.file, fix=args.fix):
         sys.exit(0)
     else:
         sys.exit(1)
