@@ -75,7 +75,7 @@ cabinet:
 - categories/applications-utilities
 calculator:
 - apps/org.gnome.Calculator
-calendar_google:
+calendar_google_31:
 - apps/googlecalendar
 calibrecompanion:
 - apps/calibre-ebook-edit
@@ -171,8 +171,6 @@ dropbox:
 - status/dropboxstatus-idle
 - status/dropboxstatus-logo
 - status/dropboxstatus-x
-dsphoto:
-- emblems/emblem-photos
 duckstation:
 - apps/duckstation
 duet:
@@ -427,7 +425,10 @@ galaxystore:
 - apps/plasmadiscover
 gallery:
 - apps/gthumb
+- apps/image_viewer
 - apps/org.gnome.gThumb
+- apps/xviewer
+- emblems/emblem-photos
 - mimetypes/image-bmp
 - mimetypes/image-gif
 - mimetypes/image-ico
@@ -706,9 +707,6 @@ papers_please:
 paperwork:
 - apps/paperwork
 - apps/work.openpaper.Paperwork
-photo:
-- apps/image_viewer
-- apps/xviewer
 plagueinc:
 - apps/steam_icon_246620
 plants_vs_zombies:
@@ -780,6 +778,7 @@ satisfactory:
 scanner:
 - apps/org.gnome.SimpleScan
 - apps/scanner
+- apps/skanpage
 schildichat:
 - apps/schildichat-desktop
 search:
