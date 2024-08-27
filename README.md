@@ -7,7 +7,7 @@ This is an adoption of the arcticons icons for Linux desktop managers like GNOME
 
 <div align="center">
   <br>
-  <a href="https://docs.arcticons.com/"><img height="80" alt="Knowledge base" src="https://raw.githubusercontent.com/Arcticons-Team/Arcticons/main/github/knowledgebase.webp"></a>
+  <a href="https://docs.arcticons.com/other-platforms/linux"><img height="80" alt="Knowledge base" src="https://raw.githubusercontent.com/Arcticons-Team/Arcticons/main/github/knowledgebase.webp"></a>
 </div>
 
 ## Matrix room
