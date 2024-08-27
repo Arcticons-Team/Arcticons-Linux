@@ -487,7 +487,7 @@ hibernator:
 - apps/system-hibernate
 hollow_knight:
 - apps/steam_icon_367520
-hue:
+hue_game:
 - apps/steam_icon_383270
 idea:
 - apps/idea
@@ -719,7 +719,7 @@ radiodroid:
 - status/audio-volume-high
 rar:
 - apps/ark
-reboot:
+reboot_system:
 - apps/system-reboot
 regional_settings:
 - preferences/preferences-desktop-locale
