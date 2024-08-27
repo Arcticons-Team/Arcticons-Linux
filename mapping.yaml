@@ -23,6 +23,9 @@ appearance:
 - apps/org.gnome.Settings-appearance
 - preferences/preferences-desktop-theme-applications
 - preferences/preferences-desktop-theme-global
+archiver:
+- apps/archivemanager
+- apps/org.gnome.ArchiveManager
 ardour:
 - apps/ardour8
 arduinodroid:
@@ -34,6 +37,8 @@ arduinodroid:
 - apps/cc.arduino.arduinoide
 attestationdedeplacement:
 - apps/kakoune
+backup:
+- apps/mintbackup
 baldurs_gate_3:
 - apps/steam_icon_1086940
 battery:
@@ -70,6 +75,8 @@ cabinet:
 - categories/applications-utilities
 calculator:
 - apps/org.gnome.Calculator
+calendar_google_31:
+- apps/googlecalendar
 calibrecompanion:
 - apps/calibre-ebook-edit
 - apps/calibre-gui
@@ -113,6 +120,8 @@ cube_escape:
 - apps/steam_icon_909080
 cult_of_the_lamb:
 - apps/steam_icon_1313140
+darktable:
+- apps/darktable
 date_and_time:
 - apps/org.gnome.Settings-time
 desktop_effects:
@@ -162,8 +171,6 @@ dropbox:
 - status/dropboxstatus-idle
 - status/dropboxstatus-logo
 - status/dropboxstatus-x
-dsphoto:
-- emblems/emblem-photos
 duckstation:
 - apps/duckstation
 duet:
@@ -331,6 +338,9 @@ firefox_beta:
 firefox_nightly:
 - apps/firefox-nightly
 - apps/firefox-nightly-icon
+flameshot:
+- apps/flameshot
+- apps/org.flameshot.Flameshot
 fluffychat:
 - apps/fluffychat
 folder:
@@ -408,12 +418,17 @@ forza_motorsport:
 - apps/steam_icon_1293830
 - apps/steam_icon_1551360
 - apps/steam_icon_2440510
+freecad:
+- apps/freecad
 galaxystore:
 - apps/org.kde.discover
 - apps/plasmadiscover
 gallery:
 - apps/gthumb
+- apps/image_viewer
 - apps/org.gnome.gThumb
+- apps/xviewer
+- emblems/emblem-photos
 - mimetypes/image-bmp
 - mimetypes/image-gif
 - mimetypes/image-ico
@@ -432,8 +447,13 @@ gamma:
 - preferences/preferences-desktop-display-color
 garden_story:
 - apps/steam_icon_1062140
+gcompris:
+- apps/gcompris
+- apps/org.kde.gcompris
 geometry_dash:
 - apps/steam_icon_322170
+ghostwriter:
+- apps/ghostwriter
 gimp:
 - apps/gimp
 godot:
@@ -506,6 +526,8 @@ kde_connect:
 - preferences/kdeconnect
 - preferences/preferences-kde-connect
 - status/kdeconnect-tray
+kdenlive:
+- apps/kdenlive
 keepassdroid:
 - apps/keepass
 keepassxc:
@@ -566,6 +588,8 @@ limbo:
 - apps/steam_icon_48000
 linksheet:
 - emblems/emblem-symbolic-link
+localsend:
+- apps/localsend
 lock:
 - apps/plasmavault
 - apps/system-lock-screen
@@ -588,6 +612,8 @@ microsoft_edge_beta:
 - apps/microsft-edge-beta
 microsoft_edge_dev:
 - apps/microsft-edge-dev
+microsoft_planner:
+- apps/microsoft_planner
 microsoft_teams:
 - apps/teams
 mindustry:
@@ -656,6 +682,8 @@ nwg-look:
 - apps/nwg-look
 obsidian:
 - apps/obsidian
+octoprint:
+- apps/octoprint
 openttd:
 - apps/openttd
 - apps/steam_icon_1536610
@@ -676,6 +704,9 @@ outer_wilds:
 - apps/steam_icon_753640
 papers_please:
 - apps/steam_icon_239030
+paperwork:
+- apps/paperwork
+- apps/work.openpaper.Paperwork
 plagueinc:
 - apps/steam_icon_246620
 plants_vs_zombies:
@@ -706,6 +737,9 @@ proton_mail:
 - status/protonmail-notification
 proton_vpn:
 - apps/protonvpn-logo
+prusaslicer:
+- apps/com.prusa3d.PrusaSlicer
+- apps/prusaslicer
 qbittorrent_remote:
 - apps/qbittorrent
 quakedroid:
@@ -733,12 +767,18 @@ risk_of_rain_2:
 - apps/steam_632360
 rocket_league_sideswipe:
 - apps/steam_icon_252950
+rog:
+- apps/rog-control-center
 rss:
 - apps/akregator
 samrewritten:
 - apps/samrewritten
 satisfactory:
 - apps/steam_icon_526870
+scanner:
+- apps/org.gnome.SimpleScan
+- apps/scanner
+- apps/skanpage
 schildichat:
 - apps/schildichat-desktop
 search:
@@ -930,7 +970,9 @@ spectacle:
 spot:
 - apps/spot
 spotify:
+- apps/com.spotify.Client
 - apps/spot
+- apps/spotify
 - apps/spotify-client
 spotube:
 - apps/spotube-logo
@@ -947,6 +989,8 @@ stellarium:
 - apps/stellarium
 stumble_guys:
 - apps/steam_icon_1677740
+subsurface:
+- apps/subsurface-icon
 superautopets:
 - apps/steam_icon_1714040
 supertux:
@@ -1000,6 +1044,7 @@ thunderbird:
 thunderbolt:
 - preferences/preferences-desktop-thunderbolt
 torbrowser:
+- apps/org.torproject.torbrowser-launcher
 - apps/tor
 - apps/tor-browser
 - apps/tor-browser-en
@@ -1037,6 +1082,8 @@ volume_styles:
 - apps/multimedia-volume-control
 vscodium:
 - apps/vscodium
+whatsapp:
+- apps/whatsapp
 wifi:
 - devices/network-wireless
 wikipedia:

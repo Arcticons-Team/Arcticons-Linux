@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 48 48" id="svg24">
+  <defs id="defs12">
+    <style id="style2">.cls-1{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round}</style>
+  </defs>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" id="g22" style="stroke:#fff;stroke-width:2px;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+    <g transform="translate(-.351 1.731)" id="g18" style="stroke:#fff;stroke-width:2px;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+      <path d="M16.021 9.602c-.329 3.66-.004 7.63-3.729 11.9-5.12 5.868-.589 11.097 1.81 15.285.384-3.734.474-7.052 3.205-9.981 4.446-4.767 2.26-11.626-1.286-17.203z" id="path14" style="stroke:#fff;stroke-width:2px;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"/>
+      <path d="M19.736 19.124c3.426-2.722 7.617-6.024 7.703-11.372 3.436 7.78 2.988 16.609-5.595 19.832-4.68 1.758-5.68 5.927-7.743 9.203 2.458-2.072 6.747-5.472 11.745-5.7 7.85-.36 11.689-6.762 12.88-17.813-2.12 2.561-5.916 5.303-9.517 5.798" id="path16" style="stroke:#fff;stroke-width:2px;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"/>
+    </g>
+    <circle cx="24" cy="24" r="21.5" id="circle20" style="stroke:#fff;stroke-width:2px;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;fill:none;stroke-linecap:round;stroke-linejoin:round"/>
+  </g>
+</svg>
