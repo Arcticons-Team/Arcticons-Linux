@@ -543,6 +543,8 @@ kodi:
 - apps/kodi
 krita:
 - apps/krita
+lagrange:
+- apps/fi.skyjake.Lagrange
 letter_lowercase_square_b:
 - apps/btop
 letter_lowercase_square_g:
