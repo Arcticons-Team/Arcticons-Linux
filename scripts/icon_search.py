@@ -12,6 +12,7 @@ from typing import NamedTuple
 # Mapping of Icon Contexts to folder names
 ICON_TYPES = {
     "Actions": "actions",
+    "Application": "apps",
     "Applications": "apps",
     "Categories": "categories",
     "Devices": "devices",
@@ -28,6 +29,43 @@ class IconDirEntry(NamedTuple):
 
     directory: Path
     icon_type: str
+
+
+def search_desktop_files(appname: str) -> dict[str, list[Path]]:
+    """Search for icon names in desktop files."""
+
+    desktop_files = {
+        *set(
+            Path("/usr/share/applications").glob(
+                f"**/*{appname}*.desktop", case_sensitive=False
+            )
+        ),
+        *set(
+            Path("~/.local/share/applications")
+            .expanduser()
+            .glob(f"**/*{appname}*.desktop", case_sensitive=False)
+        ),
+    }
+
+    entries: dict[str, list[Path]] = {}
+
+    for desktop_file in desktop_files:
+        desktop_file_config = ConfigParser()
+        if (
+            "Desktop Entry" not in desktop_file_config
+            or "Icon" not in desktop_file_config["Desktop Entry"]
+            or "Type" not in desktop_file_config["Desktop Entry"]
+            or "/" in desktop_file_config["Desktop Entry"]["Icon"]
+            or desktop_file_config["Desktop Entry"]["Type"] not in ICON_TYPES
+        ):
+            continue
+        mapping_str = f"{ICON_TYPES[desktop_file_config["Desktop Entry"]["Type"]]}/{desktop_file_config["Desktop Entry"]["Icon"]}"
+        if mapping_str in entries:
+            entries[mapping_str].append(desktop_file)
+        else:
+            entries[mapping_str] = [desktop_file]
+
+    return entries
 
 
 def search_icons(appname: str) -> dict[str, list[Path]]:
@@ -81,6 +119,8 @@ def search_icons(appname: str) -> dict[str, list[Path]]:
     entries: dict[str, list[Path]] = {}
     for folder in icon_directories:
         for file in folder.directory.glob(f"*{appname}*"):
+            if folder.icon_type not in ICON_TYPES:
+                continue
             mapping_str = f"{ICON_TYPES[folder.icon_type]}/{file.stem}"
             if mapping_str.endswith("-symbolic"):
                 mapping_str = mapping_str.removesuffix("-symbolic")
@@ -101,16 +141,21 @@ if __name__ == "__main__":
         help="increase output verbosity",
         action="store_true",
     )
+    parser.add_argument("--no-icons", help="Don't search icons", action="store_true")
+    parser.add_argument(
+        "--no-desktop", help="Don't search desktop files", action="store_true"
+    )
     args = parser.parse_args()
 
-    entries = search_icons(args.appname)
+    entries = search_icons(args.appname) if not args.no_icons else {}
+    desktop_entries = search_desktop_files(args.appname) if not args.no_desktop else {}
 
     # Display results
     if args.verbose:
-        for entry, entry_paths in sorted(entries.items()):
+        for entry in sorted({*entries.keys(), *desktop_entries.keys()}):
             print(entry + " found in:")
-            for entry_path in entry_paths:
-                print(f"\t{entry_path}")
+            for path in sorted(entries.get(entry, []) + desktop_entries.get(entry, [])):
+                print(f"\t{path}")
     else:
-        for entry in sorted(entries):
+        for entry in sorted({*entries.keys(), *desktop_entries.keys()}):
             print(f"{entry}")
