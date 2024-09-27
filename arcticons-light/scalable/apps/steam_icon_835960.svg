@@ -1,14 +1,2 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" id="a" viewBox="0 0 48 48">
-  <defs>
-    <style>.b{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
-  </defs>
-  <line class="b" x1="8.4798" y1="5.5" x2="21.4203" y2="5.5"/>
-  <line class="b" x1="8.4798" y1="42.5" x2="21.4203" y2="42.5"/>
-  <line class="b" x1="11.0655" y1="5.5" x2="11.0655" y2="42.5"/>
-  <line class="b" x1="18.8347" y1="5.5" x2="18.8347" y2="42.5"/>
-  <line class="b" x1="26.5797" y1="5.5" x2="39.5202" y2="5.5"/>
-  <line class="b" x1="26.5797" y1="42.5" x2="39.5202" y2="42.5"/>
-  <line class="b" x1="29.1653" y1="5.5" x2="29.1653" y2="42.5"/>
-  <line class="b" x1="36.9345" y1="5.5" x2="36.9345" y2="42.5"/>
-</svg>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="a" viewBox="0 0 48 48"><defs><style>.b{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style></defs><line class="b" x1="8.4798" y1="5.5" x2="21.4203" y2="5.5"/><line class="b" x1="8.4798" y1="42.5" x2="21.4203" y2="42.5"/><line class="b" x1="11.0655" y1="5.5" x2="11.0655" y2="42.5"/><line class="b" x1="18.8347" y1="5.5" x2="18.8347" y2="42.5"/><line class="b" x1="26.5797" y1="5.5" x2="39.5202" y2="5.5"/><line class="b" x1="26.5797" y1="42.5" x2="39.5202" y2="42.5"/><line class="b" x1="29.1653" y1="5.5" x2="29.1653" y2="42.5"/><line class="b" x1="36.9345" y1="5.5" x2="36.9345" y2="42.5"/></svg>

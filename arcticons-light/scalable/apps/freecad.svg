@@ -1,11 +1,2 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" id="svg22" version="1.1" viewBox="0 0 48 48">
-  <defs id="defs12">
-    <style id="style2">
-      .a,.cls-1{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round}
-    </style>
-  </defs>
-  <path id="path14" d="M33.75 17.5h-13v4.875h6.5v6.5h-6.5V37m-13 6.5h13.082c.493 0 .93-.317 1.082-.786l1.176-3.621a1.14 1.14 0 0 1 .73-.73l.905-.294a1.138 1.138 0 0 1 1.02.162l3.08 2.237c.398.29.939.29 1.337 0l2.76-2.006c.4-.29.566-.802.414-1.271l-1.177-3.621a1.138 1.138 0 0 1 .162-1.02l.56-.77c.214-.294.555-.469.919-.469h3.807c.493 0 .93-.317 1.082-.786l1.055-3.245a1.138 1.138 0 0 0-.413-1.272l-3.08-2.238a1.136 1.136 0 0 1-.47-.92v-.95c0-.365.175-.707.47-.921l3.53-2.566c.295-.214.47-.556.47-.92V11" style="fill:none;stroke:#000;stroke-width:2px;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-  <path id="path16" d="M40.25 11V4.5h-6.5l-6.5 6.5h6.5v6.5m-13 19.5h-6.5v-6.5L7.75 37v6.5" style="fill:none;stroke:#000;stroke-width:2px;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-  <path id="path18" d="M14.25 4.5 7.75 11v26l6.5-6.5V11h13l6.5-6.5z" style="fill:none;stroke:#000;stroke-width:2px;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-</svg>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 48 48"><defs><style>.b{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round}</style></defs><path class="b" d="M33.75 17.5h-13v4.875h6.5v6.5h-6.5V37m-13 6.5h13.082c.493 0 .93-.317 1.082-.786l1.176-3.621a1.14 1.14 0 01.73-.73l.905-.294a1.138 1.138 0 011.02.162l3.08 2.237c.398.29.939.29 1.337 0l2.76-2.006c.4-.29.566-.802.414-1.271l-1.177-3.621a1.138 1.138 0 01.162-1.02l.56-.77c.214-.294.555-.469.919-.469h3.807c.493 0 .93-.317 1.082-.786l1.055-3.245a1.138 1.138 0 00-.413-1.272l-3.08-2.238a1.136 1.136 0 01-.47-.92v-.95c0-.365.175-.707.47-.921l3.53-2.566c.295-.214.47-.556.47-.92V11"/><path class="b" d="M40.25 11V4.5h-6.5l-6.5 6.5h6.5v6.5m-13 19.5h-6.5v-6.5L7.75 37v6.5"/><path class="b" d="M14.25 4.5L7.75 11v26l6.5-6.5V11h13l6.5-6.5z"/></svg>

@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" id="a" viewBox="0 0 48 48">
-  <defs>
-    <style>.b{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
-  </defs>
-  <line class="b" x1="16.6676" y1="35.1704" x2="23.6639" y2="42.1668"/>
-  <polyline class="b" points="10.8354 29.3416 5.5 23.9972 10.8354 18.6617"/>
-  <polyline class="b" points="34.5515 16.7208 41.8279 23.9972 37.6932 28.1319"/>
-  <polyline class="b" points="18.3195 11.1777 23.6639 5.8332 29.8029 11.9721"/>
-  <line class="b" x1="9.3545" y1="8.5276" x2="19.3399" y2="8.5276"/>
-  <line class="b" x1="29.9708" y1="8.5276" x2="42.5" y2="8.5276"/>
-  <polyline class="b" points="10.8352 8.5276 10.8352 38.4839 13.4549 38.4839 42.5 8.5276"/>
-  <polyline class="b" points="33.0081 8.5276 18.3227 24.3703 18.3227 8.5276"/>
-  <polyline class="b" points="23.9917 38.4839 22.0427 38.4839 25.1771 31.0803 23.3294 31.0803"/>
-  <polyline class="b" points="28.7348 38.4839 26.7859 38.4839 29.9203 31.0803 28.0725 31.0803"/>
-  <polyline class="b" points="33.9792 38.4839 32.0303 38.4839 35.1647 31.0803 33.3169 31.0803 32.4205 32.1687 29.4595 32.1687"/>
-  <polyline class="b" points="39.2119 38.4839 37.2629 38.4839 40.3973 31.0803 38.5496 31.0803 37.6531 32.1687 34.6921 32.1687"/>
-  <line class="b" x1="26.2619" y1="28.2692" x2="25.8193" y2="29.3146"/>
-</svg>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="a" viewBox="0 0 48 48"><defs><style>.b{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style></defs><line class="b" x1="16.6676" y1="35.1704" x2="23.6639" y2="42.1668"/><polyline class="b" points="10.8354 29.3416 5.5 23.9972 10.8354 18.6617"/><polyline class="b" points="34.5515 16.7208 41.8279 23.9972 37.6932 28.1319"/><polyline class="b" points="18.3195 11.1777 23.6639 5.8332 29.8029 11.9721"/><line class="b" x1="9.3545" y1="8.5276" x2="19.3399" y2="8.5276"/><line class="b" x1="29.9708" y1="8.5276" x2="42.5" y2="8.5276"/><polyline class="b" points="10.8352 8.5276 10.8352 38.4839 13.4549 38.4839 42.5 8.5276"/><polyline class="b" points="33.0081 8.5276 18.3227 24.3703 18.3227 8.5276"/><polyline class="b" points="23.9917 38.4839 22.0427 38.4839 25.1771 31.0803 23.3294 31.0803"/><polyline class="b" points="28.7348 38.4839 26.7859 38.4839 29.9203 31.0803 28.0725 31.0803"/><polyline class="b" points="33.9792 38.4839 32.0303 38.4839 35.1647 31.0803 33.3169 31.0803 32.4205 32.1687 29.4595 32.1687"/><polyline class="b" points="39.2119 38.4839 37.2629 38.4839 40.3973 31.0803 38.5496 31.0803 37.6531 32.1687 34.6921 32.1687"/><line class="b" x1="26.2619" y1="28.2692" x2="25.8193" y2="29.3146"/></svg>

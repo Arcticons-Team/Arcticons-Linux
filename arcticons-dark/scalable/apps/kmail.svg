@@ -1,8 +1,2 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" id="a" viewBox="0 0 48 48">
-  <defs>
-    <style>.b{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
-  </defs>
-  <path class="b" d="M38.7352,15.2242l-14.7352,10.8482-14.7352-10.8482"/>
-  <rect class="b" x="4.5" y="10.7089" width="39" height="26.5823" rx="4" ry="4"/>
-</svg>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="a" viewBox="0 0 48 48"><defs><style>.b{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path class="b" d="M38.7352,15.2242l-14.7352,10.8482-14.7352-10.8482"/><rect class="b" x="4.5" y="10.7089" width="39" height="26.5823" rx="4" ry="4"/></svg>

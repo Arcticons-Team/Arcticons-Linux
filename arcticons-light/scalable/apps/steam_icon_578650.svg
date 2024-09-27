@@ -1,8 +1,2 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" id="a" viewBox="0 0 48 48">
-  <defs>
-    <style>.b{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
-  </defs>
-  <line class="b" x1="5.5805" y1="40.1701" x2="42.5" y2="31.1286"/>
-  <path class="b" d="m36.3782,28.4089c.4795-1.5056.7384-3.107.7384-4.7756,0-8.7264-7.077-15.8035-15.8035-15.8035-8.736,0-15.8131,7.077-15.8131,15.8035,0,4.3728,1.7741,8.3429,4.6509,11.2005"/>
-</svg>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="a" viewBox="0 0 48 48"><defs><style>.b{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style></defs><line class="b" x1="5.5805" y1="40.1701" x2="42.5" y2="31.1286"/><path class="b" d="m36.3782,28.4089c.4795-1.5056.7384-3.107.7384-4.7756,0-8.7264-7.077-15.8035-15.8035-15.8035-8.736,0-15.8131,7.077-15.8131,15.8035,0,4.3728,1.7741,8.3429,4.6509,11.2005"/></svg>

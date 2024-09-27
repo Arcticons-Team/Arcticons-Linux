@@ -10,21 +10,20 @@ jobs:
     steps:
       - name: Check out code from GitHub
         uses: actions/checkout@v4.1.7
-      - name: Set up Python
-        uses: actions/setup-python@v5.1.1
+      - name: Install uv
+        uses: astral-sh/setup-uv@v2
         with:
-          check-latest: true
-      - name: Create Python virtual environment
-        run: |
-          python -m venv venv
-          . venv/bin/activate
-          python --version
-          pip install uv
-          uv pip install -r requirements.txt
+          enable-cache: true
+          cache-dependency-glob: "uv.lock"
+      - name: "Set up Python"
+        uses: actions/setup-python@v5
+        with:
+          python-version-file: ".python-version"
+      - name: Install the project
+        run: uv sync --all-extras --dev
       - name: Install pre-commit dependencies
         run: |
-          . venv/bin/activate
-          pre-commit install-hooks
+          uv run pre-commit install-hooks
       - uses: dorny/paths-filter@v3
         id: filter
         with:
@@ -38,19 +37,16 @@ jobs:
       - name: Run ruff-format
         if: steps.filter.outputs.python == 'true'
         run: |
-          . venv/bin/activate
-          pre-commit run --hook-stage manual ruff-format --all-files --show-diff-on-failure
+          uv run pre-commit run --hook-stage manual ruff-format --all-files --show-diff-on-failure
         env:
           RUFF_OUTPUT_FORMAT: github
       - name: Run ruff
         if: steps.filter.outputs.python == 'true'
         run: |
-          . venv/bin/activate
-          pre-commit run --hook-stage manual ruff --all-files --show-diff-on-failure
+          uv run pre-commit run --hook-stage manual ruff --all-files --show-diff-on-failure
         env:
           RUFF_OUTPUT_FORMAT: github
       - name: Validate mapping
         if: steps.filter.outputs.mapping_yaml == 'true'
         run: |
-          . venv/bin/activate
-          pre-commit run --hook-stage manual validate_mapping
+          uv run pre-commit run --hook-stage manual validate_mapping
