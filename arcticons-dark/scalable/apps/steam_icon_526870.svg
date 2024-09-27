@@ -1,7 +1,2 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" id="a" viewBox="0 0 48 48">
-  <defs>
-    <style>.b{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
-  </defs>
-  <path class="b" d="m34.0482,16.1494v-6.9222c0-2.6108-2.1165-4.7273-4.7273-4.7273h-10.6418c-2.6108,0-4.7273,2.1165-4.7273,4.7273v10.8343c0,2.6108,2.1165,4.7273,4.7273,4.7273h10.6418c2.6108,0,4.7273,2.1165,4.7273,4.7273v13.9839H13.9518v-11.6494"/>
-</svg>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="a" viewBox="0 0 48 48"><defs><style>.b{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path class="b" d="m34.0482,16.1494v-6.9222c0-2.6108-2.1165-4.7273-4.7273-4.7273h-10.6418c-2.6108,0-4.7273,2.1165-4.7273,4.7273v10.8343c0,2.6108,2.1165,4.7273,4.7273,4.7273h10.6418c2.6108,0,4.7273,2.1165,4.7273,4.7273v13.9839H13.9518v-11.6494"/></svg>

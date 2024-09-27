@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="svg1" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs id="defs1">
-  <style id="style1">.c{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}.d{fill:#000;stroke-width:2px;}</style>
+  <style id="style1">.c{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}.d{fill:#000;stroke-width:2px;}</style>
  </defs>
  <g id="a">
-  <path id="path1" d="m7.5 7.5c-2.1973 0-4 1.8027-4 4v25c0 2.1973 1.8027 4 4 4h33c2.1973 0 4-1.8027 4-4v-20c0-2.1973-1.8027-4-4-4h-14.719c-0.62539 0-1.2333-0.19509-1.7422-0.55859l-4.9141-3.5098c-0.84794-0.60562-1.8642-0.93164-2.9062-0.93164zm0 2h8.7188c0.62539 0 1.2331 0.19501 1.7422 0.55859l4.9141 3.5098c0.84792 0.6057 1.8642 0.93164 2.9062 0.93164h14.719c1.1165 0 2 0.88351 2 2v20c0 1.1165-0.88351 2-2 2h-33c-1.1165 0-2-0.88351-2-2v-25c0-1.1165 0.88351-2 2-2z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+  <path id="path1" d="m7.5 8c-1.9271 0-3.5 1.5729-3.5 3.5v25c0 1.9271 1.5729 3.5 3.5 3.5h33c1.9271 0 3.5-1.5729 3.5-3.5v-20c0-1.9271-1.5729-3.5-3.5-3.5h-14.719c-0.72954 0-1.4396-0.22829-2.0332-0.65234l-4.9141-3.5098c-0.76322-0.54511-1.6774-0.83789-2.6152-0.83789zm0 1h8.7188c0.72954 0 1.4394 0.22825 2.0332 0.65234l4.9141 3.5098c0.76316 0.54515 1.6774 0.83789 2.6152 0.83789h14.719c1.3867 0 2.5 1.1133 2.5 2.5v20c0 1.3867-1.1133 2.5-2.5 2.5h-33c-1.3867 0-2.5-1.1133-2.5-2.5v-25c0-1.3867 1.1133-2.5 2.5-2.5z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
  </g>
  <g id="b">
-  <circle id="circle1" class="d" cx="24" cy="33.476" r="1.5px"/>
-  <path id="line1" d="m24 17.5a1 1 0 0 0-1 1v11.139a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-11.139a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+  <circle id="circle1" class="d" cx="24" cy="33.476" r="1.5"/>
+  <path id="line1" d="m24 18a0.5 0.5 0 0 0-0.5 0.5v11.139a0.5 0.5 0 0 0 0.5 0.5 0.5 0.5 0 0 0 0.5-0.5v-11.139a0.5 0.5 0 0 0-0.5-0.5z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
  </g>
 </svg>

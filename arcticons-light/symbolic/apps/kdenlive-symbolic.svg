@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg50" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs12">
-  <style id="style2">.a,.cls-1{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round}</style>
+<svg id="svg6" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs1">
+  <style id="style1">.b{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round}</style>
  </defs>
- <g id="g48" transform="translate(.076 .923)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
-  <path id="path34" d="m28.551 11.807a1.0001 1.0001 0 0 0-0.55078 0.89258v24a1.0001 1.0001 0 0 0 1.5938 0.80469l16.223-12a1.0001 1.0001 0 0 0 0-1.6074l-16.223-12a1.0001 1.0001 0 0 0-1.043-0.08984zm1.4492 2.877 13.541 10.016-13.541 10.018z" color="#000000" style="-inkscape-stroke:none"/>
+ <g id="g6" transform="translate(.076 .923)" stroke-linecap="round" stroke-linejoin="round">
+  <path id="path1" d="m28.551 11.807a1.0001 1.0001 0 0 0-0.55078 0.89258v24a1.0001 1.0001 0 0 0 1.5938 0.80469l16.223-12a1.0001 1.0001 0 0 0 0-1.6074l-16.223-12a1.0001 1.0001 0 0 0-1.043-0.08984zm1.4492 2.877 13.541 10.016-13.541 10.018z" color="#000000" style="-inkscape-stroke:none"/>
   <path id="path36" d="m20.5 5.8555a1.0001 1.0001 0 0 0-0.7793 1.627l3.8281 4.7715-0.09961 27.039a1 1 0 0 0 0.99805 1.0039 1 1 0 0 0 1.002-0.99609l0.09961-27.053 3.7383-4.7754a1.0001 1.0001 0 0 0-0.78711-1.6172zm2.084 2h3.8633l-1.9082 2.4355z" color="#000000" style="-inkscape-stroke:none"/>
-  <path id="path38" d="m18.082 12.076a1 1 0 0 0-1 1 1 1 0 0 0 1 1h2.3105a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" style="-inkscape-stroke:none"/>
-  <path id="path40" d="m11.186 17.826a1 1 0 0 0-1 1 1 1 0 0 0 1 1h9.207a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" style="-inkscape-stroke:none"/>
-  <path id="path42" d="m2.625 23.576a1 1 0 0 0-1 1 1 1 0 0 0 1 1h17.768a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" style="-inkscape-stroke:none"/>
-  <path id="path44" d="m13.188 29.326a1 1 0 0 0-1 1 1 1 0 0 0 1 1h7.2051a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" style="-inkscape-stroke:none"/>
-  <path id="path46" d="m16.004 35.076a1 1 0 0 0-1 1 1 1 0 0 0 1 1h4.3887a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" style="-inkscape-stroke:none"/>
+  <path id="path2" d="m18.082 12.076a1 1 0 0 0-1 1 1 1 0 0 0 1 1h2.3105a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" style="-inkscape-stroke:none"/>
+  <path id="path3" d="m11.186 17.826a1 1 0 0 0-1 1 1 1 0 0 0 1 1h9.207a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" style="-inkscape-stroke:none"/>
+  <path id="path4" d="m2.625 23.576a1 1 0 0 0-1 1 1 1 0 0 0 1 1h17.768a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" style="-inkscape-stroke:none"/>
+  <path id="path5" d="m13.188 29.326a1 1 0 0 0-1 1 1 1 0 0 0 1 1h7.2051a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" style="-inkscape-stroke:none"/>
+  <path id="path6" d="m16.004 35.076a1 1 0 0 0-1 1 1 1 0 0 0 1 1h4.3887a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" style="-inkscape-stroke:none"/>
  </g>
 </svg>

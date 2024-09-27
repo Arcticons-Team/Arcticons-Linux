@@ -1,0 +1,3 @@
+[submodule ".arcticons"]
+	path = .arcticons
+	url = https://github.com/Arcticons-Team/Arcticons

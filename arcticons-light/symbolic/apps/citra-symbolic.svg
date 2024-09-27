@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="svg9" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs id="defs1">
-  <style id="style1">.a{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}</style>
+  <style id="style1">.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}</style>
  </defs>
  <path id="ellipse1" transform="translate(-6.67 11.9) rotate(-25.08)" d="m23.41 6.9102c-5.6907 0-10.859 1.4933-14.668 3.9766-3.8088 2.4832-6.3027 6.0331-6.3027 10.043 0 4.0098 2.4939 7.5617 6.3027 10.045s8.9772 3.9746 14.668 3.9746 10.857-1.4914 14.666-3.9746c3.8088-2.4832 6.3047-6.0351 6.3047-10.045 0-4.0098-2.4959-7.5597-6.3047-10.043-3.8088-2.4832-8.9753-3.9766-14.666-3.9766zm0 2c5.3384 0 10.155 1.4213 13.574 3.6504 3.4189 2.2291 5.3965 5.1882 5.3965 8.3691 0 3.1809-1.9776 6.1401-5.3965 8.3691-3.4189 2.2291-8.2358 3.6504-13.574 3.6504s-10.155-1.4213-13.574-3.6504c-3.4189-2.2291-5.3965-5.1882-5.3965-8.3691 0-3.1809 1.9776-6.1401 5.3965-8.3691 3.4189-2.2291 8.2358-3.6504 13.574-3.6504z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
  <path id="line1" d="m21.113 21.221a1 1 0 0 0-0.76562 0.0332l-15.459 7.1992a1 1 0 0 0-0.48438 1.3281 1 1 0 0 0 1.3281 0.48438l15.459-7.1992a1 1 0 0 0 0.48438-1.3281 1 1 0 0 0-0.5625-0.51758z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>

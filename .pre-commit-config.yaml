@@ -1,6 +1,6 @@
 repos:
   - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.6.2
+    rev: v0.6.8
     hooks:
       - id: ruff
         args:
@@ -19,9 +19,3 @@ repos:
         entry: scripts/validate_mapping.py --fix --file
         language: script
         files: mapping.yaml
-      - id: sync_icons
-        name: sync_icons
-        entry: scripts/sync_icons.py --fix icons_linux
-        language: script
-        pass_filenames: false
-        files: ^icons_linux/.*\.svg$

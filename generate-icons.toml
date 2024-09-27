@@ -1,0 +1,21 @@
+[arcticons-dark]
+name="Arcticons Dark"
+comment="A Line-based icon pack. (Version for dark themes)"
+inherits="breeze-dark,Adwaita,hicolor"
+overwrite=false
+archive=false
+src_color="#000"
+color="#fff"
+line_weight=2
+src_paths=["icons_linux", ".arcticons/icons/black"]
+
+[arcticons-light]
+name="Arcticons Light"
+comment="A Line-based icon pack. (Version for light themes)"
+inherits="breeze,Adwaita,hicolor"
+overwrite=false
+archive=false
+src_color="#000"
+color="#000"
+line_weight=2
+src_paths=["icons_linux", ".arcticons/icons/black"]

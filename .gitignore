@@ -6,3 +6,4 @@ other
 .vscode/
 .ruff_cache/
 __pycache__/
+.venv/

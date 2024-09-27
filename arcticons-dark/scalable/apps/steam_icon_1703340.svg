@@ -1,10 +1,2 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" id="a" viewBox="0 0 48 48">
-  <defs>
-    <style>.b{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
-  </defs>
-  <rect class="b" x="11.465" y="5.5" width="25.0701" height="20.4451"/>
-  <polyline class="b" points="35.5613 36.9653 39.8233 36.9653 39.8233 25.945 8.1767 25.945 8.1767 36.9653 12.4387 36.9653"/>
-  <polygon class="b" points="35.3914 35.7103 12.6087 35.7103 11.6595 42.5 36.3406 42.5 35.3914 35.7103"/>
-  <rect class="b" x="14.6996" y="8.8283" width="18.6009" height="13.7886"/>
-</svg>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="a" viewBox="0 0 48 48"><defs><style>.b{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style></defs><rect class="b" x="11.465" y="5.5" width="25.0701" height="20.4451"/><polyline class="b" points="35.5613 36.9653 39.8233 36.9653 39.8233 25.945 8.1767 25.945 8.1767 36.9653 12.4387 36.9653"/><polygon class="b" points="35.3914 35.7103 12.6087 35.7103 11.6595 42.5 36.3406 42.5 35.3914 35.7103"/><rect class="b" x="14.6996" y="8.8283" width="18.6009" height="13.7886"/></svg>

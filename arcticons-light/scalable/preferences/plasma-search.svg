@@ -1,12 +1,2 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" id="a" viewBox="0 0 48 48">
-  <defs>
-    <style>.c{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
-  </defs>
-  <rect class="c" x="5.5" y="5.5" width="37" height="37" rx="2" ry="2"/>
-  <line class="c" x1="5.5" y1="35.5" x2="42.5" y2="35.5"/>
-  <g id="b">
-    <circle class="c" cx="22.0528" cy="18.5528" r="7.5528"/>
-    <line class="c" x1="33.5" y1="30" x2="27.3934" y2="23.8934"/>
-  </g>
-</svg>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="a" viewBox="0 0 48 48"><defs><style>.c{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style></defs><rect class="c" x="5.5" y="5.5" width="37" height="37" rx="2" ry="2"/><line class="c" x1="5.5" y1="35.5" x2="42.5" y2="35.5"/><g id="b"><circle class="c" cx="22.0528" cy="18.5528" r="7.5528"/><line class="c" x1="33.5" y1="30" x2="27.3934" y2="23.8934"/></g></svg>
