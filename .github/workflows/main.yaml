@@ -23,7 +23,6 @@ jobs:
         run: uv sync --all-extras --dev
       - name: Install pre-commit dependencies
         run: |
-          . venv/bin/activate
           uv run pre-commit install-hooks
       - uses: dorny/paths-filter@v3
         id: filter
