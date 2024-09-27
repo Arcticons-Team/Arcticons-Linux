@@ -103,6 +103,10 @@ chicory_a_colorful_tale:
 - apps/steam_icon_1123450
 citra:
 - apps/citra
+clock:
+- apps/org.kde.kclock
+- apps/org.kde.plasma.analogclock
+- apps/xfce4-clock
 compass:
 - preferences/preferences-desktop-navigation
 contacts:
@@ -180,6 +184,9 @@ easyeffects:
 element:
 - apps/element
 - apps/io.element.Element
+emoji_face_slight_smile:
+- apps/emoji-selector
+- apps/preferences-desktop-emoticons
 enter_the_gungeon:
 - apps/steam_icon_311690
 falloutshelter:
@@ -535,8 +542,6 @@ keepassxc:
 keyboard:
 - apps/org.gnome.Settings-keyboard
 - devices/input-keyboard
-keylimba:
-- apps/emoji-selector
 kingdomcomedeliverance:
 - apps/lutris_kingdom-come-deliverance
 kodi:
