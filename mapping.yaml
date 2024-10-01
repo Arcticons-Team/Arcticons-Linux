@@ -756,6 +756,8 @@ quakedroid:
 - apps/steam_icon_282440
 - apps/steam_icon_9030
 - apps/steam_icon_9040
+r2modman:
+- apps/r2modman
 radiodroid:
 - status/audio-volume-high
 rar:
