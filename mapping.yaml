@@ -67,6 +67,8 @@ bonfire_peaks:
 - apps/steam_icon_1147890
 broken_age:
 - apps/steam_icon_232790
+brotato:
+- apps/steam_icon_1942280
 browser:
 - apps/org.gnome.Epiphany
 - categories/applications-internet
@@ -197,7 +199,10 @@ falloutshelter:
 favorites:
 - actions/bookmarks
 - apps/org.gnome.Settings-default-apps
+- emblems/emblem-favorite
+- emblems/emblem-xapp-favorite
 - places/favorites
+- places/xapp-user-favorites
 - preferences/preferences-desktop-default-applications
 feedback:
 - preferences/preferences-desktop-feedback
@@ -506,8 +511,6 @@ hammer:
 - categories/applications-development
 hard_disk_yast:
 - devices/hard-disk-yast
-heart:
-- emblems/emblem-favorite
 helvum:
 - apps/org.pipewire.Helvum
 hibernator:
@@ -735,6 +738,7 @@ print:
 - apps/org.gnome.Settings-printers
 - devices/cups
 - devices/cupsprinter
+- devices/preferences-devices-printer
 - devices/printer
 - devices/printer-network
 - preferences/preferences-devices-printer
@@ -987,6 +991,10 @@ spotube:
 - apps/spotube-logo
 stackland:
 - apps/steam_icon_1948280
+stardew_valley:
+- apps/lutris_stardew-valley
+- apps/stardew-valley
+- apps/steam_icon_413150
 starfield:
 - apps/steam_icon_1716740
 steam:
