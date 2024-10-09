@@ -31,6 +31,52 @@ class IconDirEntry(NamedTuple):
     icon_type: str
 
 
+def deep_search_desktop_files(appname: str) -> dict[str, list[Path]]:
+    """Search for icon names in desktop file names and descriptions."""
+
+    desktop_files = {
+        *set(
+            Path("/usr/share/applications").glob("**/*.desktop", case_sensitive=False)
+        ),
+        *set(
+            Path("~/.local/share/applications")
+            .expanduser()
+            .glob("**/*.desktop", case_sensitive=False)
+        ),
+    }
+
+    entries: dict[str, list[Path]] = {}
+
+    for desktop_file in desktop_files:
+        desktop_file_config = ConfigParser()
+        _ = desktop_file_config.read(desktop_file)
+        if (
+            "Desktop Entry" not in desktop_file_config
+            or "Icon" not in desktop_file_config["Desktop Entry"]
+            or "Type" not in desktop_file_config["Desktop Entry"]
+            or "/" in desktop_file_config["Desktop Entry"]["Icon"]
+            or desktop_file_config["Desktop Entry"]["Type"] not in ICON_TYPES
+        ):
+            continue
+        if (
+            "Name" not in desktop_file_config["Desktop Entry"]
+            or appname.lower()
+            not in desktop_file_config["Desktop Entry"]["Name"].lower()
+        ) and (
+            "Comment" not in desktop_file_config["Desktop Entry"]
+            or appname.lower()
+            not in desktop_file_config["Desktop Entry"]["Comment"].lower()
+        ):
+            continue
+        mapping_str = f"{ICON_TYPES[desktop_file_config["Desktop Entry"]["Type"]]}/{desktop_file_config["Desktop Entry"]["Icon"]}"
+        if mapping_str in entries:
+            entries[mapping_str].append(desktop_file)
+        else:
+            entries[mapping_str] = [desktop_file]
+
+    return entries
+
+
 def search_desktop_files(appname: str) -> dict[str, list[Path]]:
     """Search for icon names in desktop files."""
 
@@ -51,6 +97,7 @@ def search_desktop_files(appname: str) -> dict[str, list[Path]]:
 
     for desktop_file in desktop_files:
         desktop_file_config = ConfigParser()
+        _ = desktop_file_config.read(desktop_file)
         if (
             "Desktop Entry" not in desktop_file_config
             or "Icon" not in desktop_file_config["Desktop Entry"]
@@ -145,17 +192,33 @@ if __name__ == "__main__":
     parser.add_argument(
         "--no-desktop", help="Don't search desktop files", action="store_true"
     )
+    parser.add_argument(
+        "--deep-desktop",
+        help="Search names and comments inside desktop files",
+        action="store_true",
+    )
     args = parser.parse_args()
 
     entries = search_icons(args.appname) if not args.no_icons else {}
     desktop_entries = search_desktop_files(args.appname) if not args.no_desktop else {}
+    deep_desktop_entries = (
+        deep_search_desktop_files(args.appname) if args.deep_desktop else {}
+    )
 
     # Display results
     if args.verbose:
-        for entry in sorted({*entries.keys(), *desktop_entries.keys()}):
+        for entry in sorted(
+            {*entries.keys(), *desktop_entries.keys(), *deep_desktop_entries.keys()}
+        ):
             print(entry + " found in:")
-            for path in sorted(entries.get(entry, []) + desktop_entries.get(entry, [])):
+            for path in sorted(
+                entries.get(entry, [])
+                + desktop_entries.get(entry, [])
+                + deep_desktop_entries.get(entry, [])
+            ):
                 print(f"\t{path}")
     else:
-        for entry in sorted({*entries.keys(), *desktop_entries.keys()}):
+        for entry in sorted(
+            {*entries.keys(), *desktop_entries.keys(), *deep_desktop_entries.keys()}
+        ):
             print(f"{entry}")
