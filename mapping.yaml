@@ -112,6 +112,7 @@ clock:
 compass:
 - preferences/preferences-desktop-navigation
 contacts:
+- apps/kaddressbook
 - apps/org.gnome.Contacts
 - apps/org.kde.merkuro.contact
 cookie_clicker:
@@ -742,6 +743,8 @@ print:
 - devices/printer
 - devices/printer-network
 - preferences/preferences-devices-printer
+progressbar95:
+- apps/steam_icon_1304550
 proton_mail:
 - apps/protonmail-desktop
 - status/protonmail-indicator
