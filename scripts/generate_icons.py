@@ -258,7 +258,7 @@ def main(config_file: Path) -> None:
 if __name__ == "__main__":
     parser = ArgumentParser()
     _ = parser.add_argument(
-        "-c", "--config-file", help="The config file to read.", type=Path
+        "-c", "--config-file", help="The config file to read.", type=Path, required=True
     )
     args = parser.parse_args()
 
