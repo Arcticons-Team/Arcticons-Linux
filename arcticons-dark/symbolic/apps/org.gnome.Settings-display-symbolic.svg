@@ -3,7 +3,7 @@
  <defs id="defs1">
   <style id="style1">.b{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
  </defs>
- <path id="rect1" d="m6.5 8c-1.6447 0-3 1.3553-3 3v22c0 1.6447 1.3553 3 3 3h35c1.6447 0 3-1.3553 3-3v-22c0-1.6447-1.3553-3-3-3zm0 2h35c0.5713 0 1 0.4287 1 1v22c0 0.5713-0.4287 1-1 1h-35c-0.5713 0-1-0.4287-1-1v-22c0-0.5713 0.4287-1 1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="line1" d="m17.5 38a1 1 0 0 0-1 1 1 1 0 0 0 1 1h13a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="line2" d="m24 34a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="rect1" d="m6.5 8c-1.6447 0-3 1.3553-3 3v22c0 1.6447 1.3553 3 3 3h35c1.6447 0 3-1.3553 3-3v-22c0-1.6447-1.3553-3-3-3zm0 2h35c0.5713 0 1 0.4287 1 1v22c0 0.5713-0.4287 1-1 1h-35c-0.5713 0-1-0.4287-1-1v-22c0-0.5713 0.4287-1 1-1z" fill="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="line1" d="m17.5 38a1 1 0 0 0-1 1 1 1 0 0 0 1 1h13a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" fill="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="line2" d="m24 34a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1z" fill="#fff" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

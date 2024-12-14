@@ -3,6 +3,6 @@
  <defs id="defs1">
   <style id="style1">.c{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
  </defs>
- <path id="path1" d="m24 1.5c-12.415 0-22.5 10.085-22.5 22.5s10.085 22.5 22.5 22.5a1 1 0 0 0 1-1 1 1 0 0 0-1-1c-11.334 0-20.5-9.1664-20.5-20.5s9.1664-20.5 20.5-20.5 20.5 9.1664 20.5 20.5a1 1 0 0 0 1 1 1 1 0 0 0 1-1c0-12.415-10.085-22.5-22.5-22.5z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="path2" d="m24 10c-7.7201 0-14 6.2799-14 14s6.2799 14 14 14a1 1 0 0 0 1-1 1 1 0 0 0-1-1c-6.6393 0-12-5.3607-12-12s5.3607-12 12-12 12 5.3607 12 12a1 1 0 0 0 1 1 1 1 0 0 0 1-1c0-7.7201-6.2799-14-14-14z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="path1" d="m24 1.5c-12.415 0-22.5 10.085-22.5 22.5s10.085 22.5 22.5 22.5a1 1 0 0 0 1-1 1 1 0 0 0-1-1c-11.334 0-20.5-9.1663-20.5-20.5s9.1663-20.5 20.5-20.5 20.5 9.1663 20.5 20.5a1 1 0 0 0 1 1 1 1 0 0 0 1-1c0-12.415-10.085-22.5-22.5-22.5z" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="path2" d="m24 10c-7.7201 0-14 6.2799-14 14s6.2799 14 14 14a1 1 0 0 0 1-1 1 1 0 0 0-1-1c-6.6393 0-12-5.3607-12-12s5.3607-12 12-12 12 5.3607 12 12a1 1 0 0 0 1 1 1 1 0 0 0 1-1c0-7.7201-6.2799-14-14-14z" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

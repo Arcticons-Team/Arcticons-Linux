@@ -3,6 +3,6 @@
  <defs id="defs1">
   <style id="style1">.b{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
  </defs>
- <path id="path1" d="m38.885 14.236a1 1 0 0 0-0.74219 0.18164l-14.143 10.412-14.143-10.412a1 1 0 0 0-1.3984 0.21289 1 1 0 0 0 0.21289 1.3984l14.734 10.848a1.0001 1.0001 0 0 0 1.1875 0l14.734-10.848a1 1 0 0 0 0.21289-1.3984 1 1 0 0 0-0.65625-0.39453z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="rect1" d="m8.5 9.709c-2.7527 0-5 2.2473-5 5v18.582c0 2.7527 2.2473 5 5 5h31c2.7527 0 5-2.2473 5-5v-18.582c0-2.7527-2.2473-5-5-5zm0 2h31c1.6793 0 3 1.3207 3 3v18.582c0 1.6793-1.3207 3-3 3h-31c-1.6793 0-3-1.3207-3-3v-18.582c0-1.6793 1.3207-3 3-3z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="path1" d="m38.885 14.236a1 1 0 0 0-0.74219 0.18164l-14.143 10.412-14.143-10.412a1 1 0 0 0-1.3984 0.21289 1 1 0 0 0 0.21289 1.3984l14.734 10.848a1.0001 1.0001 0 0 0 1.1875 0l14.734-10.848a1 1 0 0 0 0.21289-1.3984 1 1 0 0 0-0.65625-0.39453z" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="rect1" d="m8.5 9.709c-2.7527 0-5 2.2473-5 5v18.582c0 2.7527 2.2473 5 5 5h31c2.7527 0 5-2.2473 5-5v-18.582c0-2.7527-2.2473-5-5-5zm0 2h31c1.6793 0 3 1.3207 3 3v18.582c0 1.6793-1.3207 3-3 3h-31c-1.6793 0-3-1.3207-3-3v-18.582c0-1.6793 1.3207-3 3-3z" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
