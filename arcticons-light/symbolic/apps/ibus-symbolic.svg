@@ -5,9 +5,9 @@
  </defs>
  <g id="a">
   <circle id="circle1" class="c" cx="24" cy="34.748" r="1.5"/>
-  <path id="line1" d="m23.975 11.502a1 1 0 0 0-1 1v17.773a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-17.773a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+  <path id="line1" d="m23.975 11.502a1 1 0 0 0-1 1v17.773a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-17.773a1 1 0 0 0-1-1z" stroke-linecap="round" stroke-linejoin="round"/>
  </g>
  <g id="b">
-  <path id="circle2" d="m24 1.5c-12.415 0-22.5 10.085-22.5 22.5s10.085 22.5 22.5 22.5 22.5-10.085 22.5-22.5-10.085-22.5-22.5-22.5zm0 2c11.334 0 20.5 9.1663 20.5 20.5s-9.1663 20.5-20.5 20.5-20.5-9.1663-20.5-20.5 9.1663-20.5 20.5-20.5z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+  <path id="circle2" d="m24 1.5c-12.415 0-22.5 10.085-22.5 22.5s10.085 22.5 22.5 22.5 22.5-10.085 22.5-22.5-10.085-22.5-22.5-22.5zm0 2c11.334 0 20.5 9.1663 20.5 20.5s-9.1663 20.5-20.5 20.5-20.5-9.1663-20.5-20.5 9.1663-20.5 20.5-20.5z" stroke-linecap="round" stroke-linejoin="round"/>
  </g>
 </svg>

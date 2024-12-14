@@ -3,7 +3,7 @@
  <defs id="defs1">
   <style id="style1">.a{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}.b{fill:#000;}</style>
  </defs>
- <path id="circle1" d="m24 1.5c-12.415 0-22.5 10.085-22.5 22.5s10.085 22.5 22.5 22.5 22.5-10.085 22.5-22.5-10.085-22.5-22.5-22.5zm0 2c11.334 0 20.5 9.1663 20.5 20.5s-9.1663 20.5-20.5 20.5-20.5-9.1663-20.5-20.5 9.1663-20.5 20.5-20.5z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="circle1" d="m24 1.5c-12.415 0-22.5 10.085-22.5 22.5s10.085 22.5 22.5 22.5 22.5-10.085 22.5-22.5-10.085-22.5-22.5-22.5zm0 2c11.334 0 20.5 9.1663 20.5 20.5s-9.1663 20.5-20.5 20.5-20.5-9.1663-20.5-20.5 9.1663-20.5 20.5-20.5z" stroke-linecap="round" stroke-linejoin="round"/>
  <circle id="circle2" class="b" cx="36.728" cy="11.272" r="1.5"/>
  <circle id="circle3" class="b" cx="36.728" cy="11.272" r="1.5"/>
  <circle id="circle4" class="b" cx="42" cy="24" r="1.5"/>
@@ -20,7 +20,7 @@
  <circle id="circle15" class="b" cx="11.272" cy="11.272" r="1.5"/>
  <circle id="circle16" class="b" cx="24" cy="6" r="1.5"/>
  <circle id="circle17" class="b" cx="24" cy="6" r="1.5"/>
- <path id="circle18" d="m24 7.9297c-8.8633 0-16.07 7.2071-16.07 16.07s7.2071 16.07 16.07 16.07 16.07-7.2071 16.07-16.07-7.2071-16.07-16.07-16.07zm0 2c7.7824 0 14.07 6.2879 14.07 14.07 0 7.7824-6.2879 14.07-14.07 14.07-7.7824 0-14.07-6.2879-14.07-14.07s6.2879-14.07 14.07-14.07z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="line18" d="m29.938 14.545a1 1 0 0 0-0.58984 0.49023l-8.9434 17a1 1 0 0 0 0.41992 1.3496 1 1 0 0 0 1.3516-0.41992l8.9434-17a1 1 0 0 0-0.41992-1.3496 1 1 0 0 0-0.76172-0.07031z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="line19" d="m18.062 14.545a1 1 0 0 0-0.76172 0.07031 1 1 0 0 0-0.41992 1.3496l6.2344 11.85a1 1 0 0 0 1.3496 0.41992 1 1 0 0 0 0.41992-1.3516l-6.2324-11.848a1 1 0 0 0-0.58984-0.49023z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="circle18" d="m24 7.9297c-8.8633 0-16.07 7.2071-16.07 16.07s7.2071 16.07 16.07 16.07 16.07-7.2071 16.07-16.07-7.2071-16.07-16.07-16.07zm0 2c7.7824 0 14.07 6.2879 14.07 14.07 0 7.7824-6.2879 14.07-14.07 14.07-7.7824 0-14.07-6.2879-14.07-14.07s6.2879-14.07 14.07-14.07z" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="line18" d="m29.938 14.545a1 1 0 0 0-0.58984 0.49023l-8.9434 17a1 1 0 0 0 0.41992 1.3496 1 1 0 0 0 1.3516-0.41992l8.9434-17a1 1 0 0 0-0.41992-1.3496 1 1 0 0 0-0.76172-0.07031z" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="line19" d="m18.062 14.545a1 1 0 0 0-0.76172 0.07031 1 1 0 0 0-0.41992 1.3496l6.2344 11.85a1 1 0 0 0 1.3496 0.41992 1 1 0 0 0 0.41992-1.3516l-6.2324-11.848a1 1 0 0 0-0.58984-0.49023z" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

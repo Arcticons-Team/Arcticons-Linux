@@ -3,7 +3,7 @@
  <defs id="defs1">
   <style id="style1">.a{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
  </defs>
- <path id="circle1" d="m24 9c-8.2724 0-15 6.7276-15 15s6.7276 15 15 15 15-6.7276 15-15-6.7276-15-15-15zm0 2c7.1915 0 13 5.8085 13 13s-5.8085 13-13 13-13-5.8085-13-13 5.8085-13 13-13z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="path1" d="m18.502 16.133a1.0001 1.0001 0 0 0-0.50195 0.86719v14a1.0001 1.0001 0 0 0 1.5039 0.86328l12-7a1.0001 1.0001 0 0 0 0-1.7266l-12-7a1.0001 1.0001 0 0 0-1.002-0.0039zm1.498 2.6074 9.0156 5.2598-9.0156 5.2598z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="circle2" d="m24 1.5c-12.415 0-22.5 10.085-22.5 22.5s10.085 22.5 22.5 22.5 22.5-10.085 22.5-22.5-10.085-22.5-22.5-22.5zm0 2c11.334 0 20.5 9.1663 20.5 20.5s-9.1663 20.5-20.5 20.5-20.5-9.1663-20.5-20.5 9.1663-20.5 20.5-20.5z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="circle1" d="m24 9c-8.2724 0-15 6.7276-15 15s6.7276 15 15 15 15-6.7276 15-15-6.7276-15-15-15zm0 2c7.1915 0 13 5.8085 13 13s-5.8085 13-13 13-13-5.8085-13-13 5.8085-13 13-13z" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="path1" d="m18.502 16.133a1.0001 1.0001 0 0 0-0.50195 0.86719v14a1.0001 1.0001 0 0 0 1.5039 0.86328l12-7a1.0001 1.0001 0 0 0 0-1.7266l-12-7a1.0001 1.0001 0 0 0-1.002-0.0039zm1.498 2.6074 9.0156 5.2598-9.0156 5.2598z" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="circle2" d="m24 1.5c-12.415 0-22.5 10.085-22.5 22.5s10.085 22.5 22.5 22.5 22.5-10.085 22.5-22.5-10.085-22.5-22.5-22.5zm0 2c11.334 0 20.5 9.1663 20.5 20.5s-9.1663 20.5-20.5 20.5-20.5-9.1663-20.5-20.5 9.1663-20.5 20.5-20.5z" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

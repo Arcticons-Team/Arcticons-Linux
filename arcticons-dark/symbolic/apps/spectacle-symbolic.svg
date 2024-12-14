@@ -3,9 +3,9 @@
  <defs id="defs1">
   <style id="style1">.b{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
  </defs>
- <path id="rect1" d="m7.5 9c-2.1987 0-4 1.8013-4 4v22c0 2.1987 1.8013 4 4 4h33c2.1987 0 4-1.8013 4-4v-22c0-2.1987-1.8013-4-4-4zm0 2h33c1.1253 0 2 0.8747 2 2v22c0 1.1253-0.8747 2-2 2h-33c-1.1253 0-2-0.8747-2-2v-22c0-1.1253 0.8747-2 2-2z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="polyline1" d="m8.5 27a1 1 0 0 0-1 1v6a1.0001 1.0001 0 0 0 1 1h6a1 1 0 0 0 1-1 1 1 0 0 0-1-1h-5v-5a1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="polyline2" d="m8.5 13a1.0001 1.0001 0 0 0-1 1v6a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-5h5a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="polyline3" d="m33.5 13a1 1 0 0 0-1 1 1 1 0 0 0 1 1h5v5a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-6a1.0001 1.0001 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="polyline4" d="m39.5 27a1 1 0 0 0-1 1v5h-5a1 1 0 0 0-1 1 1 1 0 0 0 1 1h6a1.0001 1.0001 0 0 0 1-1v-6a1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="rect1" d="m7.5 9c-2.1987 0-4 1.8013-4 4v22c0 2.1987 1.8013 4 4 4h33c2.1987 0 4-1.8013 4-4v-22c0-2.1987-1.8013-4-4-4zm0 2h33c1.1253 0 2 0.8747 2 2v22c0 1.1253-0.8747 2-2 2h-33c-1.1253 0-2-0.8747-2-2v-22c0-1.1253 0.8747-2 2-2z" fill="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="polyline1" d="m8.5 27a1 1 0 0 0-1 1v6a1.0001 1.0001 0 0 0 1 1h6a1 1 0 0 0 1-1 1 1 0 0 0-1-1h-5v-5a1 1 0 0 0-1-1z" fill="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="polyline2" d="m8.5 13a1.0001 1.0001 0 0 0-1 1v6a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-5h5a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" fill="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="polyline3" d="m33.5 13a1 1 0 0 0-1 1 1 1 0 0 0 1 1h5v5a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-6a1.0001 1.0001 0 0 0-1-1z" fill="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="polyline4" d="m39.5 27a1 1 0 0 0-1 1v5h-5a1 1 0 0 0-1 1 1 1 0 0 0 1 1h6a1.0001 1.0001 0 0 0 1-1v-6a1 1 0 0 0-1-1z" fill="#fff" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

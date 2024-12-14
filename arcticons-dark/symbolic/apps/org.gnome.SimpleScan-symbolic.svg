@@ -8,7 +8,7 @@
         stroke-linejoin: round;
       }</style>
  </defs>
- <path id="path1" d="m9.5 4.5c-2.7455 0-5 2.2545-5 5v9.1992a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-9.1992c0-1.6545 1.3455-3 3-3h29c1.6545 0 3 1.3455 3 3v9.1992a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-9.1992c0-2.7455-2.2545-5-5-5z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="path2" d="m5.5 28.301a1 1 0 0 0-1 1v9.1992c0 2.7455 2.2545 5 5 5h29c2.7455 0 5-2.2545 5-5v-9.1992a1 1 0 0 0-1-1 1 1 0 0 0-1 1v9.1992c0 1.6545-1.3455 3-3 3h-29c-1.6545 0-3-1.3455-3-3v-9.1992a1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="line2" d="m5.5 23a1 1 0 0 0-1 1 1 1 0 0 0 1 1h37a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="path1" d="m9.5 4.5c-2.7455 0-5 2.2545-5 5v9.1992a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-9.1992c0-1.6545 1.3455-3 3-3h29c1.6545 0 3 1.3455 3 3v9.1992a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-9.1992c0-2.7455-2.2545-5-5-5z" fill="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="path2" d="m5.5 28.301a1 1 0 0 0-1 1v9.1992c0 2.7455 2.2545 5 5 5h29c2.7455 0 5-2.2545 5-5v-9.1992a1 1 0 0 0-1-1 1 1 0 0 0-1 1v9.1992c0 1.6545-1.3455 3-3 3h-29c-1.6545 0-3-1.3455-3-3v-9.1992a1 1 0 0 0-1-1z" fill="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="line2" d="m5.5 23a1 1 0 0 0-1 1 1 1 0 0 0 1 1h37a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" fill="#fff" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

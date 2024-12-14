@@ -3,8 +3,8 @@
  <defs id="defs1">
   <style id="style1">.c{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
  </defs>
- <path id="rect1" d="m3.5 19.051a1.0001 1.0001 0 0 0-1 1v7.8984a1.0001 1.0001 0 0 0 1 1h41a1.0001 1.0001 0 0 0 1-1v-7.8984a1.0001 1.0001 0 0 0-1-1zm1 2h39v5.8984h-39z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="line1" d="m9.4648 19.051a1 1 0 0 0-1 1v7.8984a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-7.8984a1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="line2" d="m15.43 19.051a1 1 0 0 0-1 1v7.8984a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-7.8984a1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path id="line3" d="m21.395 19.051a1 1 0 0 0-1 1v7.8984a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-7.8984a1 1 0 0 0-1-1z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="rect1" d="m3.5 19.051a1.0001 1.0001 0 0 0-1 1v7.8984a1.0001 1.0001 0 0 0 1 1h41a1.0001 1.0001 0 0 0 1-1v-7.8984a1.0001 1.0001 0 0 0-1-1zm1 2h39v5.8984h-39z" fill="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="line1" d="m9.4648 19.051a1 1 0 0 0-1 1v7.8984a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-7.8984a1 1 0 0 0-1-1z" fill="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="line2" d="m15.43 19.051a1 1 0 0 0-1 1v7.8984a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-7.8984a1 1 0 0 0-1-1z" fill="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="line3" d="m21.395 19.051a1 1 0 0 0-1 1v7.8984a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-7.8984a1 1 0 0 0-1-1z" fill="#fff" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
