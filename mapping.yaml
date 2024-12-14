@@ -755,6 +755,8 @@ proton_vpn:
 prusaslicer:
 - apps/com.prusa3d.PrusaSlicer
 - apps/prusaslicer
+qalculate:
+- apps/qalculate
 qbittorrent_remote:
 - apps/qbittorrent
 quakedroid:
