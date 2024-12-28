@@ -27,5 +27,5 @@ This is an adoption of the arcticons icons for Linux desktop managers like GNOME
 
 ## Sponsored by
 <div align="center">
-  <a href="https://www.gitbook.com/"><img height="40" alt="GitBook" src="https://raw.githubusercontent.com/Arcticons-Team/Arcticons/main/github/gitbook.svg"></a>
+  <a href="https://www.gitbook.com/"><img height="80" alt="GitBook" src="https://raw.githubusercontent.com/Arcticons-Team/Arcticons/refs/heads/main/github/gitbook.webp"></a>
 </div>
