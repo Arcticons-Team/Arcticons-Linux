@@ -1027,6 +1027,7 @@ syncthing:
 systemusagedirect:
 - categories/applications-system
 telegram:
+- apps/org.telegram.desktop
 - apps/telegram
 - apps/telegram-desktop
 - apps/telegram-desktop-bin
