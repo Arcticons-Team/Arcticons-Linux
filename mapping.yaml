@@ -139,6 +139,7 @@ destiny_2:
 - apps/steam_icon_1085660
 deviceinfo:
 - apps/info-center
+- apps/org.kde.kinfocenter
 diaspora:
 - apps/diaspora
 dictionary:
@@ -154,6 +155,7 @@ documents:
 - emblems/emblem-documents
 dolphinemulator:
 - apps/dophin-emu
+- apps/org.DolphinEmu.dolphin-emu
 dont_starve:
 - apps/steam_icon_219740
 - apps/steam_icon_322330
@@ -345,6 +347,7 @@ firefox:
 - apps/firefox-original
 - apps/firefox-trunk
 - apps/install-firefox
+- apps/org.mozilla.firefox
 firefox_beta:
 - apps/firefox-beta
 - apps/firefox-beta-bin
@@ -759,6 +762,7 @@ qalculate:
 - apps/qalculate
 qbittorrent_remote:
 - apps/qbittorrent
+- apps/org.qbittorrent.qBittorrent
 quakedroid:
 - apps/steam_icon_2210
 - apps/steam_icon_2310
@@ -816,6 +820,7 @@ sharetoclipboard:
 - places/folder-publicshare
 shield:
 - apps/gufw
+- apps/firewall-config
 - preferences/preferences-security
 - preferences/preferences-security-apparmor
 - preferences/preferences-security-firewall
@@ -988,6 +993,7 @@ spectacle:
 - apps/spectacle
 spot:
 - apps/spot
+- apps/dev.alextren.Spot
 spotify:
 - apps/com.spotify.Client
 - apps/spot
@@ -1102,6 +1108,8 @@ vlc:
 - apps/vlc
 - apps/vlc-kb
 - apps/vlc-xmas
+volume:
+- apps/pavucontrol
 volume_styles:
 - apps/multimedia-volume-control
 vscodium:
