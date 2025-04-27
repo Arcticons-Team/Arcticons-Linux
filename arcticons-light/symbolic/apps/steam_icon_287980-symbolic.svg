@@ -3,11 +3,11 @@
  <defs id="defs1">
   <style id="style1">.a{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
  </defs>
- <path id="circle1" d="m23.5 8.5c-8.5486 0-15.5 6.9514-15.5 15.5s6.9514 15.5 15.5 15.5 15.5-6.9514 15.5-15.5-6.9514-15.5-15.5-15.5zm0 2c7.4677 0 13.5 6.0323 13.5 13.5s-6.0323 13.5-13.5 13.5-13.5-6.0323-13.5-13.5 6.0323-13.5 13.5-13.5z" stroke-linecap="round" stroke-linejoin="round"/>
- <path id="line1" d="m23.5 3.5a1 1 0 0 0-1 1v5a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-5a1 1 0 0 0-1-1z" stroke-linecap="round" stroke-linejoin="round"/>
- <path id="line2" d="m23.5 37.5a1 1 0 0 0-1 1v5a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-5a1 1 0 0 0-1-1z" stroke-linecap="round" stroke-linejoin="round"/>
- <path id="line3" d="m29.5 3.5a1 1 0 0 0-1 1v6.3008a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-6.3008a1 1 0 0 0-1-1z" stroke-linecap="round" stroke-linejoin="round"/>
- <path id="line4" d="m17.5 3.5a1 1 0 0 0-1 1v6.3008a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-6.3008a1 1 0 0 0-1-1z" stroke-linecap="round" stroke-linejoin="round"/>
- <path id="line5" d="m33.043 33.543a1 1 0 0 0 0 1.4141l5.25 5.25a1 1 0 0 0 1.4141 0 1 1 0 0 0 0-1.4141l-5.25-5.25a1 1 0 0 0-1.4141 0z" stroke-linecap="round" stroke-linejoin="round"/>
- <path id="line6" d="m28.232 36.732a1 1 0 0 0 0 1.4141l5.541 5.541a1 1 0 0 0 1.4141 0 1 1 0 0 0 0-1.4141l-5.541-5.541a1 1 0 0 0-1.4141 0z" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="circle1" d="m23.5 8.5c-8.5486 0-15.5 6.9514-15.5 15.5s6.9514 15.5 15.5 15.5 15.5-6.9514 15.5-15.5-6.9514-15.5-15.5-15.5zm0 2c7.4677 0 13.5 6.0323 13.5 13.5s-6.0323 13.5-13.5 13.5-13.5-6.0323-13.5-13.5 6.0323-13.5 13.5-13.5z" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="line1" d="m23.5 3.5a1 1 0 0 0-1 1v5a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-5a1 1 0 0 0-1-1z" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="line2" d="m23.5 37.5a1 1 0 0 0-1 1v5a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-5a1 1 0 0 0-1-1z" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="line3" d="m29.5 3.5a1 1 0 0 0-1 1v6.3008a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-6.3008a1 1 0 0 0-1-1z" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="line4" d="m17.5 3.5a1 1 0 0 0-1 1v6.3008a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-6.3008a1 1 0 0 0-1-1z" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="line5" d="m33.043 33.543a1 1 0 0 0 0 1.4141l5.25 5.25a1 1 0 0 0 1.4141 0 1 1 0 0 0 0-1.4141l-5.25-5.25a1 1 0 0 0-1.4141 0z" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="line6" d="m28.232 36.732a1 1 0 0 0 0 1.4141l5.541 5.541a1 1 0 0 0 1.4141 0 1 1 0 0 0 0-1.4141l-5.541-5.541a1 1 0 0 0-1.4141 0z" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
