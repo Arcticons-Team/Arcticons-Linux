@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """Generate the icons for Arcticons."""
 
-# ruff: noqa: PLR0917, PLR0913, C901, PLR0912
+# ruff: noqa: PLR0912
 
 from __future__ import annotations
 
@@ -9,7 +9,6 @@ from argparse import ArgumentParser
 from configparser import ConfigParser
 import contextlib
 import logging
-from logging import getLogger
 from os import symlink
 from pathlib import Path
 import re
@@ -22,7 +21,7 @@ from lxml import etree
 from scour import scour
 import yaml
 
-LOGGER = getLogger()
+LOGGER = logging.getLogger("generate_icons")
 
 has_inkscape = bool(which("inkscape"))
 
@@ -51,10 +50,10 @@ def process_entry(
     scalable_root = destination / "scalable"
     symbolic_root = destination / "symbolic"
 
-    logging.info("%s: creating %s", entry, dests)
+    LOGGER.info("%s: creating %s", entry, dests)
 
     if not any((not (scalable_root / (dest + ".svg")).exists()) for dest in dests):
-        logging.info("%s: Skipping, all icons already exist.", entry)
+        LOGGER.info("%s: Skipping, all icons already exist.", entry)
         return
 
     dest = dests[0]
@@ -69,12 +68,12 @@ def process_entry(
             src_file = src_path / f"{entry}.svg"
             break
     if src_file is None:
-        logging.error("%s: Skipping, icon not found", entry)
+        LOGGER.error("%s: Skipping, icon not found", entry)
         return
 
-    logging.info("%s: %s -> %s", entry, src_file, scalable_root / f"{dest}.svg")
+    LOGGER.info("%s: %s -> %s", entry, src_file, scalable_root / f"{dest}.svg")
 
-    svg_file = etree.parse(src_file)  # noqa: S320
+    svg_file = etree.parse(src_file)
     svg_root = svg_file.getroot()
 
     circles = svg_root.findall(".//{http://www.w3.org/2000/svg}circle")
@@ -84,19 +83,19 @@ def process_entry(
 
     style_tag = svg_file.getroot().find(".//{http://www.w3.org/2000/svg}style")
     if style_tag is None or style_tag.text is None:
-        logging.error("%s: file %s doesn't have a style tag!", entry, src_file)
+        LOGGER.error("%s: file %s doesn't have a style tag!", entry, src_file)
         return
 
     if "stroke-width" in style_tag.text:
         style_tag.text = re.sub(
             r"(stroke-width\s*:)[^;]+;",
-            rf"\g<1>{config["line_weight"]}px;",
+            rf"\g<1>{config['line_weight']}px;",
             style_tag.text,
         )
     else:
         style_tag.text = re.sub(
             r"(stroke\s*:[^;]+;)",
-            rf"\1stroke-width:{config["line_weight"]}px;",
+            rf"\1stroke-width:{config['line_weight']}px;",
             style_tag.text,
         )
 
@@ -113,7 +112,7 @@ def process_entry(
             )
             (scalable_root / f"{dest_file}.svg").unlink(missing_ok=True)
 
-            logging.info(
+            LOGGER.info(
                 "%s: symlink: %s -> %s",
                 entry,
                 scalable_root / f"{dest_file}.svg",
@@ -136,9 +135,7 @@ def process_entry(
 
     (symbolic_root / dest).parent.mkdir(exist_ok=True, parents=True)
 
-    logging.info(
-        "%s: %s -> %s", entry, src_file, symbolic_root / f"{dest}-symbolic.svg"
-    )
+    LOGGER.info("%s: %s -> %s", entry, src_file, symbolic_root / f"{dest}-symbolic.svg")
     _ = subprocess.run(  # noqa: S603
         [  # noqa: S607
             "inkscape",
@@ -167,7 +164,7 @@ def process_entry(
             )
             (symbolic_root / f"{dest_file}-symbolic.svg").unlink(missing_ok=True)
 
-            logging.info(
+            LOGGER.info(
                 "%s: symlink: %s -> %s",
                 entry,
                 symbolic_root / f"{dest_file}-symbolic.svg",
@@ -210,7 +207,7 @@ def generate_index_theme(destination: Path, config: GeneratorEntry) -> None:
 def main(config_file: Path) -> None:
     """Generate all icons."""
     if not has_inkscape:
-        logging.warning("Inkscape was not detected, not creating symbolic icons.")
+        LOGGER.warning("Inkscape was not detected, not creating symbolic icons.")
 
     config: dict[str, GeneratorEntry] = tomllib.loads(
         config_file.read_text(encoding="utf8")
@@ -262,6 +259,6 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
 
-    LOGGER.setLevel(logging.INFO)
+    logging.basicConfig(level=logging.INFO)
 
     main(args.config_file)

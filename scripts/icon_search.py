@@ -68,7 +68,7 @@ def deep_search_desktop_files(appname: str) -> dict[str, list[Path]]:
             not in desktop_file_config["Desktop Entry"]["Comment"].lower()
         ):
             continue
-        mapping_str = f"{ICON_TYPES[desktop_file_config["Desktop Entry"]["Type"]]}/{desktop_file_config["Desktop Entry"]["Icon"]}"
+        mapping_str = f"{ICON_TYPES[desktop_file_config['Desktop Entry']['Type']]}/{desktop_file_config['Desktop Entry']['Icon']}"
         if mapping_str in entries:
             entries[mapping_str].append(desktop_file)
         else:
@@ -106,7 +106,7 @@ def search_desktop_files(appname: str) -> dict[str, list[Path]]:
             or desktop_file_config["Desktop Entry"]["Type"] not in ICON_TYPES
         ):
             continue
-        mapping_str = f"{ICON_TYPES[desktop_file_config["Desktop Entry"]["Type"]]}/{desktop_file_config["Desktop Entry"]["Icon"]}"
+        mapping_str = f"{ICON_TYPES[desktop_file_config['Desktop Entry']['Type']]}/{desktop_file_config['Desktop Entry']['Icon']}"
         if mapping_str in entries:
             entries[mapping_str].append(desktop_file)
         else:

@@ -8,7 +8,7 @@ import sys
 
 import yaml
 
-LOGGER = logging.getLogger()
+LOGGER = logging.getLogger("validate_mapping")
 
 
 def validate_mapping(file: Path, *, fix: bool = False) -> bool:
@@ -29,11 +29,11 @@ def validate_mapping(file: Path, *, fix: bool = False) -> bool:
         keys_seen = set()
         keys_dupes = [x for x in map_keys if x in keys_seen or keys_seen.add(x)]
         if len(keys_dupes) > 0:
-            logging.error("The following keys are duplicated: %s", keys_dupes)
+            LOGGER.error("The following keys are duplicated: %s", keys_dupes)
             return False
 
     if sorted(yaml_doc.keys()) != list(yaml_doc.keys()):
-        logging.error("Keys are not sorted!")
+        LOGGER.error("Keys are not sorted!")
         if not fix:
             return False
 
@@ -41,14 +41,29 @@ def validate_mapping(file: Path, *, fix: bool = False) -> bool:
         values_seen = set()
         values_dupes = [x for x in values if x in values_seen or values_seen.add(x)]
         if len(values_dupes) > 0:
-            logging.error(
+            LOGGER.error(
                 "The entry '%s' has these duplicate values: %s", entry, values_dupes
             )
             valid = False
 
         if sorted(values) != values:
-            logging.error("The entry '%s' has unsorted values", entry)
+            LOGGER.error("The entry '%s' has unsorted values", entry)
             valid = False
+
+    # Check if a value is in multiple keys, with reporting the first key
+    values_seen = {}
+    for entry, values in yaml_doc.items():
+        for value in values:
+            if value in values_seen:
+                LOGGER.error(
+                    "The value '%s' is in multiple keys: %s and %s",
+                    value,
+                    values_seen[value],
+                    entry,
+                )
+                valid = False
+            else:
+                values_seen[value] = entry
 
     if not fix:
         return valid

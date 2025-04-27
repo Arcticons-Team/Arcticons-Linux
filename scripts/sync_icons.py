@@ -7,6 +7,8 @@ from pathlib import Path
 import sys
 from typing import Literal
 
+LOGGER = logging.getLogger("sync_icons")
+
 
 def copy_file(src: Path, dest: Path, src_style: Literal["black", "white"]) -> None:
     """Copy a file and adjust the colors."""
@@ -33,10 +35,10 @@ def main(folder: Path, *, fix: bool = False) -> bool:
 
     valid = True
     if not (folder / "white").is_dir():
-        logging.error("The 'white' folder could not be found!")
+        LOGGER.error("The 'white' folder could not be found!")
         return False
     if not (folder / "black").is_dir():
-        logging.error("The 'black' folder could not be found!")
+        LOGGER.error("The 'black' folder could not be found!")
         return False
 
     files_black = {a.name for a in (folder / "black").glob("*.svg")}
@@ -46,12 +48,12 @@ def main(folder: Path, *, fix: bool = False) -> bool:
     white_not_black = files_white - files_black
 
     if white_not_black:
-        logging.error(
+        LOGGER.error(
             "The following files are only in the 'white' folder: %s", white_not_black
         )
         valid = False
     if black_not_white:
-        logging.error(
+        LOGGER.error(
             "The following files are only in the 'black' folder: %s", black_not_white
         )
         valid = False
