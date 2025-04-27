@@ -761,8 +761,8 @@ prusaslicer:
 qalculate:
 - apps/qalculate
 qbittorrent_remote:
-- apps/qbittorrent
 - apps/org.qbittorrent.qBittorrent
+- apps/qbittorrent
 quakedroid:
 - apps/steam_icon_2210
 - apps/steam_icon_2310
@@ -819,8 +819,8 @@ sharetoclipboard:
 - emblems/emblem-shared
 - places/folder-publicshare
 shield:
-- apps/gufw
 - apps/firewall-config
+- apps/gufw
 - preferences/preferences-security
 - preferences/preferences-security-apparmor
 - preferences/preferences-security-firewall
@@ -992,11 +992,10 @@ sony_headphones:
 spectacle:
 - apps/spectacle
 spot:
-- apps/spot
 - apps/dev.alextren.Spot
+- apps/spot
 spotify:
 - apps/com.spotify.Client
-- apps/spot
 - apps/spotify
 - apps/spotify-client
 spotube:
