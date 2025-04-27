@@ -213,8 +213,6 @@ figma:
 - apps/figma
 - apps/figma-linux
 file:
-- mimetypes/unknown
-- places/folder-documents
 - preferences/preferences-document
 file_associations:
 - preferences/preferences-desktop-filetype-association
@@ -845,9 +843,7 @@ simplenotes:
 - mimetypes/application-msonenote
 - mimetypes/application-msword-template
 - mimetypes/text-x-adasrc
-- mimetypes/text-x-generic
 - mimetypes/text-x-vnd.abc
-- mimetypes/x-office-document
 simpletexteditor:
 - apps/QOwnNotes
 - apps/kate

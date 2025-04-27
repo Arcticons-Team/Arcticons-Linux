@@ -33,6 +33,8 @@ ignore = [
     "D407",   # Section name underlining
     "DOC",    # pydoclint
     "E501",   # line too long
+    "C901",   # Ignore all complexity checks
+    "S320",
 
     "T201",   # print found
 

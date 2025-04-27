@@ -7,6 +7,8 @@ import logging
 from pathlib import Path
 import sys
 
+LOGGER = logging.getLogger("check_icon_duplicates")
+
 
 def main(src_folder: Path, target_folder: Path, *, fix: bool = False) -> bool:
     """Check if icons are in both black and white folders."""
@@ -18,7 +20,7 @@ def main(src_folder: Path, target_folder: Path, *, fix: bool = False) -> bool:
 
     duplicates = src_files.intersection(target_files)
     if not duplicates:
-        logging.info("No duplicates found.")
+        LOGGER.info("No duplicates found.")
         return True
 
     print("Following potential duplicate icons were found:")
@@ -36,7 +38,7 @@ def main(src_folder: Path, target_folder: Path, *, fix: bool = False) -> bool:
             )
         else:
             print(
-                f"{src_file} -> {target_file}; size same; content {"same" if same_content else "different"}"
+                f"{src_file} -> {target_file}; size same; content {'same' if same_content else 'different'}"
             )
         if fix and same_content:
             target_file.unlink()
