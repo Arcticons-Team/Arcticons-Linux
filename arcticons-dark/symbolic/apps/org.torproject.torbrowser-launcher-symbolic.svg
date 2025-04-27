@@ -3,8 +3,8 @@
  <defs id="defs1">
   <style id="style1">.cls-1{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
  </defs>
- <path id="circle1" d="m24 1.5c-12.415 0-22.5 10.085-22.5 22.5s10.085 22.5 22.5 22.5 22.5-10.085 22.5-22.5-10.085-22.5-22.5-22.5zm0 2c11.334 0 20.5 9.1663 20.5 20.5s-9.1663 20.5-20.5 20.5-20.5-9.1663-20.5-20.5 9.1663-20.5 20.5-20.5z" fill="#fff" stroke-linecap="round" stroke-linejoin="round"/>
- <path id="path1" d="m24 18a1 1 0 0 0-1 1 1 1 0 0 0 1 1c2.221 0 4 1.779 4 4s-1.779 4-4 4a1 1 0 0 0-1 1 1 1 0 0 0 1 1c3.3019 0 6-2.6981 6-6s-2.6981-6-6-6z" fill="#fff" stroke-linecap="round" stroke-linejoin="round"/>
- <path id="path2" d="m24 12.721a1 1 0 0 0-1 1 1 1 0 0 0 1 1c5.1371 0 9.2793 4.1422 9.2793 9.2793s-4.1422 9.2793-9.2793 9.2793a1 1 0 0 0-1 1 1 1 0 0 0 1 1c6.2179 0 11.279-5.0614 11.279-11.279s-5.0614-11.279-11.279-11.279z" fill="#fff" stroke-linecap="round" stroke-linejoin="round"/>
- <path id="path3" d="m24 6.8809a1 1 0 0 0-1 1 1 1 0 0 0 1 1c8.3624 0 15.119 6.7567 15.119 15.119s-6.7567 15.119-15.119 15.119a1 1 0 0 0-1 1 1 1 0 0 0 1 1c9.4433 0 17.119-7.6759 17.119-17.119s-7.6759-17.119-17.119-17.119z" fill="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="circle1" d="m24 1.5c-12.415 0-22.5 10.085-22.5 22.5s10.085 22.5 22.5 22.5 22.5-10.085 22.5-22.5-10.085-22.5-22.5-22.5zm0 2c11.334 0 20.5 9.1663 20.5 20.5s-9.1663 20.5-20.5 20.5-20.5-9.1663-20.5-20.5 9.1663-20.5 20.5-20.5z" fill="#fff" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="path1" d="m24 18a1 1 0 0 0-1 1 1 1 0 0 0 1 1c2.221 0 4 1.779 4 4s-1.779 4-4 4a1 1 0 0 0-1 1 1 1 0 0 0 1 1c3.3019 0 6-2.6981 6-6s-2.6981-6-6-6z" fill="#fff" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="path2" d="m24 12.721a1 1 0 0 0-1 1 1 1 0 0 0 1 1c5.1371 0 9.2793 4.1422 9.2793 9.2793s-4.1422 9.2793-9.2793 9.2793a1 1 0 0 0-1 1 1 1 0 0 0 1 1c6.2179 0 11.279-5.0614 11.279-11.279s-5.0614-11.279-11.279-11.279z" fill="#fff" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="path3" d="m24 6.8809a1 1 0 0 0-1 1 1 1 0 0 0 1 1c8.3624 0 15.119 6.7567 15.119 15.119s-6.7567 15.119-15.119 15.119a1 1 0 0 0-1 1 1 1 0 0 0 1 1c9.4433 0 17.119-7.6759 17.119-17.119s-7.6759-17.119-17.119-17.119z" fill="#fff" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

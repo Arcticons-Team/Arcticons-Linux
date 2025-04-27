@@ -3,8 +3,8 @@
  <defs id="defs1">
   <style id="style1">.b{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
  </defs>
- <path id="rect1" d="m11.465 4.5a1.0001 1.0001 0 0 0-1 1v20.445a1.0001 1.0001 0 0 0 1 1h25.07a1.0001 1.0001 0 0 0 1-1v-20.445a1.0001 1.0001 0 0 0-1-1zm1 2h23.07v18.445h-23.07z" fill="#fff" stroke-linecap="round" stroke-linejoin="round"/>
- <path id="polyline1" d="m8.1758 24.945a1.0001 1.0001 0 0 0-1 1v11.02a1.0001 1.0001 0 0 0 1 1h4.2637a1 1 0 0 0 1-1 1 1 0 0 0-1-1h-3.2637v-9.0195h29.648v9.0195h-3.2637a1 1 0 0 0-1 1 1 1 0 0 0 1 1h4.2637a1.0001 1.0001 0 0 0 1-1v-11.02a1.0001 1.0001 0 0 0-1-1z" fill="#fff" stroke-linecap="round" stroke-linejoin="round"/>
- <path id="polygon1" d="m12.609 34.711a1.0001 1.0001 0 0 0-0.99023 0.86133l-0.94922 6.7891a1.0001 1.0001 0 0 0 0.99023 1.1387h24.68a1.0001 1.0001 0 0 0 0.99023-1.1387l-0.94922-6.7891a1.0001 1.0001 0 0 0-0.99023-0.86133zm0.86914 2h21.043l0.66797 4.7891h-22.381z" fill="#fff" stroke-linecap="round" stroke-linejoin="round"/>
- <path id="rect2" d="m14.699 7.8281a1.0001 1.0001 0 0 0-1 1v13.789a1.0001 1.0001 0 0 0 1 1h18.602a1.0001 1.0001 0 0 0 1-1v-13.789a1.0001 1.0001 0 0 0-1-1zm1 2h16.602v11.789h-16.602z" fill="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="rect1" d="m11.465 4.5a1.0001 1.0001 0 0 0-1 1v20.445a1.0001 1.0001 0 0 0 1 1h25.07a1.0001 1.0001 0 0 0 1-1v-20.445a1.0001 1.0001 0 0 0-1-1zm1 2h23.07v18.445h-23.07z" fill="#fff" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="polyline1" d="m8.1758 24.945a1.0001 1.0001 0 0 0-1 1v11.02a1.0001 1.0001 0 0 0 1 1h4.2637a1 1 0 0 0 1-1 1 1 0 0 0-1-1h-3.2637v-9.0195h29.648v9.0195h-3.2637a1 1 0 0 0-1 1 1 1 0 0 0 1 1h4.2637a1.0001 1.0001 0 0 0 1-1v-11.02a1.0001 1.0001 0 0 0-1-1z" fill="#fff" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="polygon1" d="m12.609 34.711a1.0001 1.0001 0 0 0-0.99023 0.86133l-0.94922 6.7891a1.0001 1.0001 0 0 0 0.99023 1.1387h24.68a1.0001 1.0001 0 0 0 0.99023-1.1387l-0.94922-6.7891a1.0001 1.0001 0 0 0-0.99023-0.86133zm0.86914 2h21.043l0.66797 4.7891h-22.381z" fill="#fff" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="rect2" d="m14.699 7.8281a1.0001 1.0001 0 0 0-1 1v13.789a1.0001 1.0001 0 0 0 1 1h18.602a1.0001 1.0001 0 0 0 1-1v-13.789a1.0001 1.0001 0 0 0-1-1zm1 2h16.602v11.789h-16.602z" fill="#fff" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
