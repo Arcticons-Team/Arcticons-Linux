@@ -2,12 +2,18 @@ about:
 - apps/org.gnome.Settings-about
 absolute_drift:
 - apps/steam_icon_320140
+access:
+- apps/org.gnome.seahorse.Application
 accounts:
 - apps/org.gnome.Settings-users
 activities:
 - preferences/preferences-desktop-activities
+aim_lab:
+- apps/steam_icon_714010
 aka:
 - apps/steam_icon_1591450
+alogcat:
+- apps/org.gnome.Logs
 amongus:
 - apps/steam_icon_1849900
 - apps/steam_icon_945360
@@ -19,6 +25,8 @@ android_studio:
 - apps/android-studio-canary
 - apps/android-studio-preview
 - apps/androidstudio
+apex_legends:
+- apps/steam_icon_1172470
 appearance:
 - apps/org.gnome.Settings-appearance
 - preferences/preferences-desktop-theme-applications
@@ -45,7 +53,10 @@ balatro:
 baldurs_gate_3:
 - apps/steam_icon_1086940
 battery:
+- apps/org.gnome.PowerStats
 - devices/battery
+battery_alt:
+- apps/org.gnome.Settings-power
 beeper:
 - apps/beeper
 bitwarden:
@@ -53,6 +64,7 @@ bitwarden:
 blender:
 - apps/blender
 - apps/blender-2.7
+- apps/steam_icon_365670
 bloonstd6:
 - apps/steam_icon_1276390
 - apps/steam_icon_960090
@@ -104,11 +116,16 @@ celeste:
 - apps/steam_icon_504230
 celestia:
 - apps/celestia
+character_pad:
+- apps/org.gnome.Characters
 chicory_a_colorful_tale:
 - apps/steam_icon_1123450
 citra:
 - apps/citra
+cleantimer:
+- apps/org.gnome.Sysprof
 clock:
+- apps/org.gnome.clocks
 - apps/org.kde.kclock
 - apps/org.kde.plasma.analogclock
 - apps/xfce4-clock
@@ -118,8 +135,11 @@ contacts:
 - apps/kaddressbook
 - apps/org.gnome.Contacts
 - apps/org.kde.merkuro.contact
+- mimetypes/x-office-address-book
 cookie_clicker:
 - apps/steam_icon_1454400
+cpuinfo:
+- apps/jockey
 crashontherun:
 - apps/steam_icon_1378990
 - apps/steam_icon_731490
@@ -132,8 +152,12 @@ cult_of_the_lamb:
 - apps/steam_icon_1313140
 darktable:
 - apps/darktable
+data_monitor:
+- apps/org.gnome.SystemMonitor
 date_and_time:
 - apps/org.gnome.Settings-time
+ddnet:
+- apps/steam_icon_412220
 desktop_effects:
 - preferences/preferences-desktop-effects
 desktop_workspace:
@@ -156,6 +180,7 @@ discord:
 - apps/xyz.armcord.ArmCord
 documents:
 - apps/okular
+- apps/org.gnome.Evince
 - apps/xreader
 - emblems/emblem-documents
 dolphinemulator:
@@ -172,6 +197,8 @@ doom_2:
 - apps/steam_icon_2300
 doom_3:
 - apps/steam_icon_208200
+downloads:
+- emblems/emblem-downloads
 downwell:
 - apps/Downwell.desktop
 - apps/steam_icon_360740
@@ -364,6 +391,7 @@ fluffychat:
 - apps/fluffychat
 folder:
 - apps/nemo
+- apps/org.gnome.Nautilus
 - apps/org.kde.dolphin
 - apps/system-file-manager
 - mimetypes/inode-directory
@@ -433,6 +461,9 @@ folder_shared:
 - places/folder-public
 folder_sun:
 - places/folder-activities
+fonts:
+- apps/font-x-generic
+- apps/org.gnome.font-viewer
 forza_motorsport:
 - apps/steam_icon_1293830
 - apps/steam_icon_1551360
@@ -445,6 +476,7 @@ galaxystore:
 gallery:
 - apps/gthumb
 - apps/image_viewer
+- apps/org.gnome.eog
 - apps/org.gnome.gThumb
 - apps/xviewer
 - emblems/emblem-photos
@@ -463,6 +495,7 @@ games:
 - devices/input-gaming
 - preferences/preferences-desktop-gaming
 gamma:
+- apps/org.gnome.Settings-color
 - preferences/preferences-desktop-display-color
 garden_story:
 - apps/steam_icon_1062140
@@ -516,7 +549,10 @@ half_life_alyx:
 - apps/steam_icon_546560
 hammer:
 - categories/applications-development
+hard_disk:
+- apps/org.gnome.DiskUtility
 hard_disk_yast:
+- apps/org.gnome.baobab
 - devices/hard-disk-yast
 helvum:
 - apps/org.pipewire.Helvum
@@ -550,6 +586,7 @@ keepassdroid:
 keepassxc:
 - apps/keepassxc
 keyboard:
+- apps/fcitx
 - apps/org.gnome.Settings-keyboard
 - devices/input-keyboard
 kingdomcomedeliverance:
@@ -558,6 +595,7 @@ kodi:
 - apps/kodi
 krita:
 - apps/krita
+- apps/steam_icon_280680
 lagrange:
 - apps/fi.skyjake.Lagrange
 - apps/fi.skyjake.clagrange
@@ -617,6 +655,7 @@ magic:
 - apps/steam_icon_2141910
 mail:
 - apps/kmail
+- emblems/emblem-mail
 mattermost:
 - matermost-desktop
 mediaplayer:
@@ -653,10 +692,13 @@ mini_motorways:
 - apps/steam_icon_1127500
 minimize:
 - actions/window-minimize
+miria:
+- apps/miria
 monero-gui:
 - apps/monero-gui
 monitor:
 - apps/org.gnome.Settings-display
+- devices/video-display
 - preferences/preferences-desktop-display
 - preferences/preferences-desktop-wallpaper
 monopoly:
@@ -671,6 +713,8 @@ mouse:
 - preferences/preferences-desktop-mouse
 mscore4portable:
 - apps/mscore4portable
+mozc:
+- apps/mozc
 musescore:
 - apps/mscore
 music:
@@ -787,6 +831,8 @@ rar:
 reboot_system:
 - apps/system-reboot
 regional_settings:
+- apps/org.gnome.Settings-region
+- apps/preferences-desktop-locale
 - preferences/preferences-desktop-locale
 removable_storage:
 - apps/org.gnome.Settings-removable-media
@@ -818,12 +864,16 @@ settings:
 - apps/ibus-engine
 - apps/ibus-setup
 - apps/org.gnome.Settings
+- apps/org.gnome.Settings-system
 - apps/preferences-other
 - apps/preferences-system
 - apps/steam_icon_427520
 - apps/systemsettings
 - categories/applications-settings
+settings_alt_2:
+- apps/org.gnome.Extensions
 sharetoclipboard:
+- apps/org.gnome.Settings-sharing
 - emblems/emblem-shared
 - places/folder-publicshare
 shield:
@@ -843,6 +893,7 @@ simple_calendar:
 - apps/org.gnome.Calendar
 - apps/org.gnome.Calendar.Devel
 - apps/org.kde.merkuro.calendar
+- mimetypes/x-office-calendar
 simplenotes:
 - apps/accessories-text-editor
 - apps/kwrite
@@ -1032,7 +1083,7 @@ supertux:
 suspend:
 - apps/system-suspend
 symbol_exclamation_mark:
-- apps/ibus
+- emblems/emblem-unreadable
 syncthing:
 - apps/syncthing
 systemusagedirect:
@@ -1091,6 +1142,12 @@ torbrowser_alpha:
 trashcan:
 - places/user-trash
 - places/user-trash-full
+ubuntu:
+- apps/preferences-ubuntu-panel
+update:
+- apps/system-software-update
+user_manual:
+- apps/org.gnome.Yelp
 vector:
 - apps/steam_icon_248970
 videocrop:
@@ -1114,9 +1171,12 @@ vlc:
 - apps/vlc-kb
 - apps/vlc-xmas
 volume:
+- apps/org.gnome.Settings-sound
 - apps/pavucontrol
 volume_styles:
 - apps/multimedia-volume-control
+vrchat:
+- apps/steam_icon_438100
 vscodium:
 - apps/vscodium
 whatsapp:
@@ -1130,6 +1190,8 @@ worldexplorers:
 - apps/steam_icon_857680
 wurdweb:
 - apps/steam_icon_2185880
+wuthering_waves:
+- apps/steam_icon_3513350
 xemu:
 - apps/xemu
 ymuse:
