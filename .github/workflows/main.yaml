@@ -49,4 +49,4 @@ jobs:
       - name: Validate mapping
         if: steps.filter.outputs.mapping_yaml == 'true'
         run: |
-          uv run pre-commit run --hook-stage manual validate_mapping
+          uv run pre-commit run --hook-stage manual validate_mapping --all-files --show-diff-on-failure
