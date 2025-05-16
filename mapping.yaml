@@ -40,6 +40,8 @@ attestationdedeplacement:
 - apps/kakoune
 backup:
 - apps/mintbackup
+balatro:
+- apps/steam_icon_2379780
 baldurs_gate_3:
 - apps/steam_icon_1086940
 battery:
@@ -149,8 +151,8 @@ discord:
 - apps/com.discordapp.Discord
 - apps/dev.vencord.Vesktop
 - apps/discord
-- apps/webcord
 - apps/startarmcord
+- apps/webcord
 - apps/xyz.armcord.ArmCord
 documents:
 - apps/okular
@@ -667,6 +669,8 @@ mouse:
 - apps/org.gnome.Settings-mouse
 - devices/input-mouse
 - preferences/preferences-desktop-mouse
+mscore4portable:
+- apps/mscore4portable
 musescore:
 - apps/mscore
 music:
@@ -751,14 +755,14 @@ print:
 progressbar95:
 - apps/steam_icon_1304550
 proton_mail:
+- apps/proton-mail
 - apps/protonmail-desktop
 - status/protonmail-indicator
 - status/protonmail-notification
-- apps/proton-mail
 proton_vpn:
-- apps/protonvpn-logo
 - apps/protonvpn
 - apps/protonvpn-gui
+- apps/protonvpn-logo
 prusaslicer:
 - apps/com.prusa3d.PrusaSlicer
 - apps/prusaslicer
@@ -1144,7 +1148,3 @@ yuzu:
 - apps/yuzu
 zoom:
 - apps/zoom-desktop
-balatro:
-- apps/steam_icon_2379780
-mscore4portable:
-- apps/mscore4portable
