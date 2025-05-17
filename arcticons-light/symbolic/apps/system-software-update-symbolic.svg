@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs4">
+  <style id="style2">.b{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <path id="path6" d="m24 1.5c-12.412 0.0057502-22.494 10.088-22.5 22.5 0 12.415 10.085 22.5 22.5 22.5s22.5-10.085 22.5-22.5-10.085-22.5-22.5-22.5zm0 2c11.334 0 20.5 9.1664 20.5 20.5s-9.1664 20.5-20.5 20.5-20.5-9.1664-20.5-20.5c0.0052498-11.332 9.1683-20.495 20.5-20.5z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="polyline8" d="m23.293 12.068-8.1289 8.127a1 1 0 0 0 0 1.4141 1 1 0 0 0 1.4141 0l7.4219-7.4199 7.4219 7.4199a1 1 0 0 0 1.4141 0 1 1 0 0 0 0-1.4141l-8.1289-8.127a1.0001 1.0001 0 0 0-1.4141 0z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line10" d="m24 11.775a1 1 0 0 0-1 1v22.449a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-22.449a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+</svg>
