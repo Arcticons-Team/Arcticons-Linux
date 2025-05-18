@@ -711,10 +711,10 @@ mouse:
 - apps/org.gnome.Settings-mouse
 - devices/input-mouse
 - preferences/preferences-desktop-mouse
-mscore4portable:
-- apps/mscore4portable
 mozc:
 - apps/mozc
+mscore4portable:
+- apps/mscore4portable
 musescore:
 - apps/mscore
 music:
