@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs4">
+  <style id="style2">.e{fill:none;stroke:#fff;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <path id="path6" d="m9.5 9.3652c-2.7496 0-5 2.2504-5 5v14c0 2.7496 2.2504 5 5 5h20.654l3.3066 4.4141c0.57997 0.77454 1.5897 1.0069 2.3789 0.74414 0.7892-0.26273 1.457-1.0519 1.457-2.0195v-3.1387h1.2031c2.7496 0 5-2.2504 5-5v-14c0-2.7496-2.2504-5-5-5zm0 2h29c1.6687 0 3 1.3313 3 3v14c0 1.6687-1.3313 3-3 3h-2.2031a1.0001 1.0001 0 0 0-1 1v4.1387c0 0.11871-0.02462 0.10134-0.08984 0.12305-0.06522 0.02171-0.07338 0.0501-0.14453-0.04492l-3.6055-4.8164a1.0001 1.0001 0 0 0-0.80078-0.40039h-21.156c-1.6687 0-3-1.3313-3-3v-14c0-1.6687 1.3313-3 3-3z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="path8" d="m25.402 15.066a1.0001 1.0001 0 0 0-1 1v10.598a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-2.4805h2.4707c2.503 0 4.5508-2.0537 4.5508-4.5586s-2.0478-4.5586-4.5508-4.5586zm1 2h2.4707c1.4198 0 2.5508 1.1323 2.5508 2.5586s-1.131 2.5586-2.5508 2.5586h-2.4707z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line10" d="m28.166 22.477a1 1 0 0 0-2e-3 1.4141l3.4688 3.4766a1 1 0 0 0 1.416 2e-3 1 1 0 0 0 0-1.416l-3.4688-3.4766a1 1 0 0 0-1.4141 0z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="polyline12" d="m15.262 15.117a1 1 0 0 0-0.63477 1.2637l3.5098 10.598a1.0001 1.0001 0 0 0 1.8984 0l3.5117-10.598a1 1 0 0 0-0.63477-1.2637 1 1 0 0 0-1.2637 0.63476l-2.5625 7.7324-2.5605-7.7324a1 1 0 0 0-1.2637-0.63476z" color="#000000" fill="#fff" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+</svg>

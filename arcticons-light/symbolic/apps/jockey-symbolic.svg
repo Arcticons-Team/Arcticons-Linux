@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg108" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs4">
+  <style id="style2">.a{fill:none;stroke:#000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;}</style>
+ </defs>
+ <path id="path6" d="m9.2793 6.5c-1.5235 0-2.7793 1.2558-2.7793 2.7793v29.441c0 1.5235 1.2558 2.7793 2.7793 2.7793h29.441c1.5235 0 2.7793-1.2558 2.7793-2.7793v-29.441c0-1.5235-1.2558-2.7793-2.7793-2.7793zm0 2h29.441c0.44263 0 0.7793 0.33667 0.7793 0.7793v29.441c0 0.44263-0.33667 0.7793-0.7793 0.7793h-29.441c-0.44263 0-0.7793-0.33667-0.7793-0.7793v-29.441c0-0.44263 0.33667-0.7793 0.7793-0.7793z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line8" d="m9.2793 3.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line10" d="m13.49 3.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line12" d="m17.689 3.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line14" d="m21.9 3.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line16" d="m26.1 3.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line18" d="m30.311 3.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line20" d="m34.51 3.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line22" d="m38.721 3.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line24" d="m9.2793 39.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line26" d="m13.49 39.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line28" d="m17.689 39.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line30" d="m21.9 39.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line32" d="m26.1 39.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line34" d="m30.311 39.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line36" d="m34.51 39.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line38" d="m38.721 39.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="path40" d="m9.2793 6.5c-1.5235 0-2.7793 1.2558-2.7793 2.7793v29.441c0 1.5235 1.2558 2.7793 2.7793 2.7793h29.441c1.5235 0 2.7793-1.2558 2.7793-2.7793v-29.441c0-1.5235-1.2558-2.7793-2.7793-2.7793zm0 2h29.441c0.44263 0 0.7793 0.33667 0.7793 0.7793v29.441c0 0.44263-0.33667 0.7793-0.7793 0.7793h-29.441c-0.44263 0-0.7793-0.33667-0.7793-0.7793v-29.441c0-0.44263 0.33667-0.7793 0.7793-0.7793z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line42" d="m9.2793 3.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line44" d="m13.49 3.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line46" d="m17.689 3.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line48" d="m21.9 3.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line50" d="m26.1 3.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line52" d="m30.311 3.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line54" d="m34.51 3.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line56" d="m38.721 3.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line58" d="m9.2793 39.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line60" d="m13.49 39.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line62" d="m17.689 39.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line64" d="m21.9 39.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line66" d="m26.1 39.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line68" d="m30.311 39.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line70" d="m34.51 39.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line72" d="m38.721 39.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line74" d="m40.5 8.2793a1 1 0 0 0-1 1 1 1 0 0 0 1 1h3a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line76" d="m40.5 12.49a1 1 0 0 0-1 1 1 1 0 0 0 1 1h3a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line78" d="m40.5 16.689a1 1 0 0 0-1 1 1 1 0 0 0 1 1h3a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line80" d="m40.5 20.9a1 1 0 0 0-1 1 1 1 0 0 0 1 1h3a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line82" d="m40.5 25.1a1 1 0 0 0-1 1 1 1 0 0 0 1 1h3a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line84" d="m40.5 29.311a1 1 0 0 0-1 1 1 1 0 0 0 1 1h3a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line86" d="m40.5 33.51a1 1 0 0 0-1 1 1 1 0 0 0 1 1h3a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line88" d="m40.5 37.721a1 1 0 0 0-1 1 1 1 0 0 0 1 1h3a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line90" d="m4.5 8.2793a1 1 0 0 0-1 1 1 1 0 0 0 1 1h3a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line92" d="m4.5 12.49a1 1 0 0 0-1 1 1 1 0 0 0 1 1h3a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line94" d="m4.5 16.689a1 1 0 0 0-1 1 1 1 0 0 0 1 1h3a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line96" d="m4.5 20.9a1 1 0 0 0-1 1 1 1 0 0 0 1 1h3a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line98" d="m4.5 25.1a1 1 0 0 0-1 1 1 1 0 0 0 1 1h3a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line100" d="m4.5 29.311a1 1 0 0 0-1 1 1 1 0 0 0 1 1h3a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line102" d="m4.5 33.51a1 1 0 0 0-1 1 1 1 0 0 0 1 1h3a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="line104" d="m4.5 37.721a1 1 0 0 0-1 1 1 1 0 0 0 1 1h3a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+ <path id="rect106" d="m12.5 10.5c-1.0907 0-2 0.9093-2 2v23c0 1.0907 0.9093 2 2 2h23c1.0907 0 2-0.9093 2-2v-23c0-1.0907-0.9093-2-2-2zm0 2h23v23h-23z" color="#000000" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+</svg>
