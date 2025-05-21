@@ -31,6 +31,8 @@ appearance:
 - apps/org.gnome.Settings-appearance
 - preferences/preferences-desktop-theme-applications
 - preferences/preferences-desktop-theme-global
+apps:
+- apps/org.gnome.Settings-applications
 archiver:
 - apps/archivemanager
 - apps/org.gnome.ArchiveManager
@@ -181,6 +183,7 @@ discord:
 documents:
 - apps/okular
 - apps/org.gnome.Evince
+- apps/org.gnome.Papers
 - apps/xreader
 - emblems/emblem-documents
 dolphinemulator:
@@ -553,6 +556,7 @@ hammer:
 - categories/applications-development
 hard_disk:
 - apps/org.gnome.DiskUtility
+- devices/drive-removable-media
 hard_disk_yast:
 - apps/org.gnome.baobab
 - devices/hard-disk-yast
