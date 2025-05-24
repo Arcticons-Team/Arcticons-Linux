@@ -31,6 +31,8 @@ appearance:
 - apps/org.gnome.Settings-appearance
 - preferences/preferences-desktop-theme-applications
 - preferences/preferences-desktop-theme-global
+apps:
+- apps/org.gnome.Settings-applications
 archiver:
 - apps/archivemanager
 - apps/org.gnome.ArchiveManager
@@ -181,6 +183,7 @@ discord:
 documents:
 - apps/okular
 - apps/org.gnome.Evince
+- apps/org.gnome.Papers
 - apps/xreader
 - emblems/emblem-documents
 dolphinemulator:
@@ -508,6 +511,8 @@ ghostwriter:
 - apps/ghostwriter
 gimp:
 - apps/gimp
+gnome-tweaks:
+- apps/org.gnome.tweaks
 godot:
 - apps/godot
 - apps/steam_icon_404790
@@ -551,6 +556,7 @@ hammer:
 - categories/applications-development
 hard_disk:
 - apps/org.gnome.DiskUtility
+- devices/drive-removable-media
 hard_disk_yast:
 - apps/org.gnome.baobab
 - devices/hard-disk-yast
@@ -661,6 +667,8 @@ mattermost:
 mediaplayer:
 - apps/mpv
 - categories/applications-multimedia
+meld:
+- apps/org.gnome.Meld
 microsoft:
 - categories/applications-all
 microsoft_edge:
@@ -744,6 +752,8 @@ nvidia:
 - apps/nvidia-settings
 nwg-look:
 - apps/nwg-look
+obs:
+- apps/obs
 obsidian:
 - apps/obsidian
 octoprint:
@@ -842,6 +852,8 @@ retroarch:
 - apps/retroarch
 risk_of_rain_2:
 - apps/steam_632360
+rnote:
+- apps/rnote
 rocket_league_sideswipe:
 - apps/steam_icon_252950
 rog:
@@ -1055,6 +1067,8 @@ spotify:
 - apps/com.spotify.Client
 - apps/spotify
 - apps/spotify-client
+spotify-qt:
+- apps/spotify-qt
 spotube:
 - apps/spotube-logo
 stackland:
@@ -1139,6 +1153,8 @@ torbrowser:
 - apps/torbrowser
 torbrowser_alpha:
 - apps/tor-browser-alpha
+touhou_danmaku_kagura_phantasia_lost:
+- apps/steam_icon_2190220
 trashcan:
 - places/user-trash
 - places/user-trash-full
