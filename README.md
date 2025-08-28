@@ -1,5 +1,14 @@
 # Arcticons Freedesktop Theme
 
+⚠️ THIS REPO HAS BEEN MOVED TO CODEBERG. ⚠️
+
+To contribute or use the latest version, visit:
+
+[Arcticons-Linux on Codeberg](https://codeberg.org/Arcticons/Arcticons-Linux)
+
+
+-------------
+
 This is an adoption of the arcticons icons for Linux desktop managers like GNOME and KDE.
 
 ## Knowledge base
